@@ -3,6 +3,27 @@
 ## 1. The Divine Inquisitor: Origin of the Legend
 Zhong Kui, the "Ghost Eater," is a legendary deity in Chinese folklore known as the vanquisher of evil spirits. A brilliant scholar denied his rank due to his appearance, he chose an honorable death and was appointed Supreme Judge of the Underworld.
 
+### When and How Did the Name "Zhong Kui" Enter Daily Life?
+The Pioneering Research of Shen Kuo
+Shen Kuo (1031–1095), a polymath of the Northern Song Dynasty, was the first to conduct rigorous textual research on the origins of Zhong Kui. In the third volume of his Dream Pool Essays: Supplementary Essays (Mengxi Bitan: Bu Bitan), he recorded an inscription found on a painting of Zhong Kui by the celebrated Tang artist Wu Daozi (680–759), which was then part of the imperial collection.
+
+Shen Kuo observed:
+
+"Based on this inscription, the legend seems to have originated during the Kaiyuan era (713–741). However, during the Huangyou period (1049–1054), a tomb was excavated in Shangyuan County, Jinling. A stone epitaph identified it as the grave of Lady Zheng, mother of Zong Que, a Song Dynasty 'General Who Conquers the West.' Lady Zheng was the daughter of Zheng Zhong, the Grand Minister of Agriculture during the Han Dynasty. Notably, Zong Que had a sister named Zhong Kui. Records also show figures named Li Zhongkui in the Later Wei Dynasty, and generals Qiao Zhongkui and Yang Zhongkui in the Sui Dynasty.
+
+Thus, the name 'Zhong Kui' has existed since antiquity and did not originate in the Kaiyuan era. It was merely the artistic depiction of Zhong Kui that began to flourish during that time. The characters '钟馗' were also historically written as '钟葵'."
+
+Shen Kuo pointed out that since "Zhong Kui" was already a common personal name during the Northern and Southern Dynasties and the Sui Dynasty, the figure could not have emerged as late as the Tang Dynasty. Instead, the Tang era marked the transition of the name into a popular subject for painting.
+
+Evolutionary Theory: From Object to Deity
+Following Shen Kuo, scholars such as Yang Shen, Hu Yinglin, Gu Yanwu, and Zhao Yi further traced the term's etymology. Building upon earlier arguments and citing diverse classical texts, they developed a prevailing academic view:
+
+Etymological Roots: The name "Zhong Kui" (钟馗) likely evolved from "Zhong Kui" (终葵) or "Chui" (椎).
+
+Original Function: In ancient times, these referred to a type of ritual mallet or club used for exorcism and driving away evil spirits.
+
+Personification: Through centuries of folk worship and literary embellishment, this inanimate ritual object was gradually personified and deified, eventually evolving into the iconic ghost-buster we recognize today.
+
 ### 🐎 The Classic Steed: Bai Ze
 #### Tang to Song-Yuan Periods
 Since the Tang Dynasty, Zhong Kui has primarily been known as a deity who captures ghosts and wards off evil. Early texts, such as the Dunhuang manuscript "New Year's Eve Zhong Kui Exorcism Text," depict Zhong Kui actively catching ghosts but make no mention of a mount. During the Song and Yuan periods, works like "Dream Pool Essays" and "The Eastern Capital: A Dream of Splendor" record the custom of hanging Zhong Kui's image at year-end but do not emphasize any specific mount.
