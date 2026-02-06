@@ -35,6 +35,17 @@
 
 ---
 
+#### 🖼️ 画面结构与布局分析
+
+《中山出游图》描绘了一支自左向右行进的队伍，人和鬼众共二十一位，在结构上可分为三段：
+
+* **前段（右段）：核心统领**
+    绘一浓髯大眼的男子（钟馗），身着长袍和软脚幞头的官服，端坐在鬼仆所扛的肩舆中。其后两鬼随行，一扛长剑，一背负状如巨大软垫的不明物体。官员下方有一全黑矮胖的“墨鬼”，外形迥异于其他鬼仆。
+* **中段：家眷与异域侍女**
+    绘一服饰典雅的女子（钟馗之妹/妻）坐在由两名鬼婢所扛的肩舆中，后随三位女仆。怀抱小猫的侍女与女主人五官发式相似，着落地长袍；另四位女仆则具异国风味，其古怪突出的下颚与动物般的朝天鼻暗示她们非人类身份。
+* **后段（左段）：后勤物资与战利品**
+    由九位鬼仆组成，携带卷毯、巨型酒瓮及大小包裹等家当。他们擒获了六个小鬼，或挂于长竿，或倒悬手中。队尾还跟随一只鬼魅般的多尾异物。
+
 #### 🎨 墨鬼背后的家国离乱
 
 **龚开（1221–1307）**，南宋遗民画家。其笔下的钟馗不再是单纯的辟邪神祇，而是化身为满怀悲愤、寄托民族情绪的符号。
@@ -90,19 +101,31 @@
 
 ---
 
+细节可参考: https://journals.publishing.umich.edu/ars/article/id/5200/.
+
+
 <div style="text-align: center; margin: 24px 0;">
   <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">图一：鬼仆拿家当细节</p>
   
   <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">图二：回首注视后方同样乘舆的妹妹（老婆）</p>
-  
+</div>
+
+#### 🔍 深度解析：图三中的异域面孔
+图三不仅描绘了女主人，更通过其随从展现了元初的社会缩影。在跟随的五位侍女中：
+* **民族融合：** 抱猫侍女为**汉式**装束；而另四位（包括抬舆者）具有显著的**中、西、南亚特征**，即当时泛称的**「回回」**。
+* **头巾细节：** 鬼婢佩戴的头巾是由布条从鬓角斜向上行并在额顶交叉成尖角，这与中式结于脑后的头巾迥异，是典型的**阿拉伯/中亚穆斯林样式**。
+* **写实记录：** 这种造型与西安出土的元初西亚俑吻合，证实了龚开对当时异域劳工形象的精确观察。
+
+<div style="text-align: center; margin: 24px 0;">
   <img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">图三：钟馗妹妹（老婆）</p>
+</div>
 
+<div style="text-align: center; margin: 24px 0;">
   <img src="/images/zhongkui-08.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">图四：龚开自题跋文</p>
-
 </div>
 
 ---

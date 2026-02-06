@@ -45,6 +45,20 @@ Among the extant narrative paintings of Zhong Kui, the earliest is Zhong Kui’s
 
 At the beginning of the scroll, Zhong Kui is depicted in Tang dynasty official robes, seated on a sedan chair carried by two small ghosts, turning his head to gaze back at a woman also traveling by sedan（Figure 2）. At the end of the procession, various ghosts are shown carrying furniture and household items on their shoulders（Figure 1）. This work had a profound influence on the composition and content of later Zhong Kui paintings. Its defining features—such as the linear, sequential progression of the procession, the detail of ghost servants hauling household goods, and the vivid moment of Zhong Kui looking back at his sister (or wife)—became essential archetypes for later works of the same genre.
 
+---
+
+#### 🖼️ Composition and Layout Analysis
+
+"Zhongshan Excursion" depicts a procession moving from left to right, comprising twenty-one figures of both humans and spirits. The composition is divided into three distinct sections:
+
+* **The Leading Section (Right): The Commander**
+    A man with a thick beard and large eyes (Zhong Kui) is shown wearing official robes and a "soft-foot" hat (*futou*), seated in a litter carried by ghost servants. Following him are two spirits: one carrying a long sword and another bearing a large, cushion-like object. Below him is a stout, jet-black "ink ghost," whose appearance is entirely different from the other attendants.
+* **The Middle Section: The Family and Exotic Maidens**
+    An elegantly dressed lady (Zhong Kui's sister or wife) sits in a litter carried by two ghost-maids, followed by three female attendants. The maid cradling a kitten shares similar facial features and hairstyle with the lady, wearing a floor-length robe. In contrast, the other four attendants display exotic styles, with protruding jaws and animal-like upturned noses suggesting their non-human nature.
+* **The Final Section (Left): Logistics and Trophies**
+    Nine ghost servants carry household belongings, including rolled carpets, giant wine jars, and bundles of various sizes. They have captured six smaller ghosts, which are either hung from long poles or held upside down. A phantom-like, multi-tailed strange creature follows at the very end.
+---
+
 #### 🎨 Deep Analysis: Gong Kai's "Zhong Kui's Excursion"
 
 **Gong Kai (1221–1307)** was a "loyalist survivor" (yimin) of the Southern Song Dynasty. In his hands, Zhong Kui is no longer just a ghost-slayer but a symbol of national grief and ethnic resilience.
@@ -89,16 +103,27 @@ Gong Kai’s self-inscribed poem (retaining original lines) reveals deep politic
 
 * **Logistic Details:** The edible ghosts tied to bamboo poles emphasize a sense of urgency. It depicts a race against time—performing filial duties before life ends.
 * **Ghostly Allegory:** Gong Kai grafted the imagery of "seeking refuge" onto ghosts. While the subjects are spectral, the pain is for the fall of the Southern Song, and the satire is aimed at ministers greedier than any ghost.
+---
+Refer to the details here: https://journals.publishing.umich.edu/ars/article/id/5200/.
 
-<div style="text-align: center; margin: 24px 0;"> <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 1: Detail of ghost servants carrying household items</p>
+<div style="text-align: center; margin: 24px 0;"> 
+<img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 1: Detail of ghost servants carrying household items</p>
 
 <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 2: Zhong Kui turning to look at his sister (or wife) in the trailing sedan</p>
+</div>
 
-<img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 3: Zhong Kui's sister (or wife)</p> 
+#### 🔍 Analysis: The Exotic Faces in Figure 3
+Figure 3 reveals a fascinating multicultural narrative through the lady's entourage:
+* **Ethnic Diversity:** While the maid holding a kitten follows **Han tradition**, the other four attendants exhibit distinct **Central, Western, and Southern Asian features**, collectively known as **"Huihui"** (Muslims) in medieval China.
+* **Turban Craftsmanship:** The ghost-maids wear turbans with cloth strips crossing at a sharp peak on the forehead, a hallmark of **Arab and Central Asian styles**, contrasting sharply with Chinese headwear knotted at the back.
+* **Historical Realism:** This imagery aligns with archaeological finds in Xi'an, reflecting Gong Kai's accurate depiction of foreign laborers active during the early Yuan Dynasty.
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 3: Zhong Kui's sister (or wife)</p> 
 
   <img src="/images/zhongkui-08.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 4: Gong Kai's Self-Written Inscription and Postscript</p>
-  
+
 </div>
 
 ---
