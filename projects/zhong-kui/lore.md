@@ -45,11 +45,60 @@ Among the extant narrative paintings of Zhong Kui, the earliest is Zhong Kui’s
 
 At the beginning of the scroll, Zhong Kui is depicted in Tang dynasty official robes, seated on a sedan chair carried by two small ghosts, turning his head to gaze back at a woman also traveling by sedan（Figure 2）. At the end of the procession, various ghosts are shown carrying furniture and household items on their shoulders（Figure 1）. This work had a profound influence on the composition and content of later Zhong Kui paintings. Its defining features—such as the linear, sequential progression of the procession, the detail of ghost servants hauling household goods, and the vivid moment of Zhong Kui looking back at his sister (or wife)—became essential archetypes for later works of the same genre.
 
+#### 🎨 Deep Analysis: Gong Kai's "Zhong Kui's Excursion"
+
+**Gong Kai (1221–1307)** was a "loyalist survivor" (yimin) of the Southern Song Dynasty. In his hands, Zhong Kui is no longer just a ghost-slayer but a symbol of national grief and ethnic resilience.
+
+---
+
+#### I. The Mystery of the Lady in the Litter
+
+A beautifully adorned lady sits in a "Zuodou" (litter) carried by small ghosts. There are three main theories regarding her identity:
+
+| Identity Theory | Literary Basis | Visual Analysis |
+| :--- | :--- | :--- |
+| **Sister Zhong** | The popular folklore "Zhong Kui Marries off His Sister." | The presence of heavy luggage suggests a "relocation" or dowry procession. |
+| **Mother Li** | Zhou Zhuojie's *Zhong Kui*: Fulfilling her wish to tour Zhongnan Mountain. | Ghost soldiers carry "rations" (edible ghosts on poles), showing the urgency of traveling before her time runs out. |
+| **Lady Zhong** | Mentioned in rare documents. | Unlikely, as most traditions state Zhong Kui had no offspring. |
+
+---
+
+#### II. Colophon Interpretation: Four Layers of Meaning
+
+Gong Kai’s self-inscribed poem (retaining original lines) reveals deep political metaphors:
+
+##### 1. An Aimless Beginning: Where to Go?
+> **“髯君家本住中山，驾言出游安所适？谓为小猎无鹰犬，以为意行有家室。”**
+* **Analysis:** Gong Kai likened his own appearance to Zhong Kui. This line asks: without hounds for hunting, yet traveling with family, where are they heading? It reflects the isolation of a Song loyalist with nowhere to go after the Mongol conquest.
+
+##### 2. Satirical Adornment: Black Rouge
+> **“阿妹韶容见靓妆，五色胭脂最宜黑。道逢驿舍须小憩，古屋何人供酒食。”**
+* **Analysis:** The "black rouge" symbolizes a corrupt and murky administration. The relationship between Zhong Kui and the lady metaphors Emperor Xuanzong and Consort Yang Guifei, hinting at the hidden decay of a prosperous era.
+
+##### 3. Venting Indignation: The Wine of中山 (Zhongshan)
+> **“赤帻乌衫固可亨，美人清血终难得。不如归饮中山酿，一醉三年万缘息。”**
+* **Analysis:** Though Zhong Kui devours ghosts, he is powerless against "human demons" (corrupt officials). The despair of being unable to save the nation forces him to seek solace in a three-year-long drunken stupor.
+
+##### 4. Final Hope: Sweeping Away Evil
+> **“却愁有物觑高明，八姨豪买他人宅。待得君醒为扫除，马嵬金驮去无迹。”**
+* **Analysis:** Alluding to the "Eighth Aunt" (Lady Qin) seizing mansions, it critiques the treacherous ministers who ruined the Song. The artist hopes Zhong Kui will eventually sweep away this evil air, more terrifying than any ghost.
+
+---
+
+#### III. Depth Analysis: Loyalism and Metaphor
+
+* **Logistic Details:** The edible ghosts tied to bamboo poles emphasize a sense of urgency. It depicts a race against time—performing filial duties before life ends.
+* **Ghostly Allegory:** Gong Kai grafted the imagery of "seeking refuge" onto ghosts. While the subjects are spectral, the pain is for the fall of the Southern Song, and the satire is aimed at ministers greedier than any ghost.
+
 <div style="text-align: center; margin: 24px 0;"> <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 1: Detail of ghost servants carrying household items</p>
 
 <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 2: Zhong Kui turning to look at his sister (or wife) in the trailing sedan</p>
 
 <img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 3: Zhong Kui's sister (or wife)</p> 
+
+  <img src="/images/zhongkui-08.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
+  <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 4: Gong Kai's Self-Written Inscription and Postscript</p>
+  
 </div>
 
 ---
