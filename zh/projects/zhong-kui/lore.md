@@ -29,17 +29,18 @@
 </div>
 
 ### 🏮 经典故事：钟馗嫁妹 (A Promise Kept)
-“即便身入冥界，亦不负人间之约。”钟馗嫁妹是其传说中最具人情味的篇章。他带领先锋鬼卒重返阳间，为胞妹操办婚事，体现了中国英雄“忠、义、情”的反差美学。
+#### 钟馗题材叙事画研究：龚开《中山出游图》
+在现今留存的钟馗题材叙事画中，年代最早者当属美国弗瑞尔艺廊（Freer Gallery of Art）所藏龚开（1222–1305）的《中山出游图》。该图描绘了中山君钟馗与其妹（亦有学者考为钟馗之妻）率领众鬼仆出游的场景。画卷起首处，以墨笔勾勒出身着唐代官服的钟馗，坐于二小鬼扛抬的肩舆之上，正回首注视后方同样乘舆的女子（图二）。队伍末端，则绘有肩扛各类家具及日用物品的鬼众（图一）。此作在构图与内容上对后世钟馗画影响深远，其特色如：一字排开、前后相继的行进队伍；鬼仆负载家当的细节；以及钟馗袖手回望妹（妻）的生动情节（图三），均成为后来同类绘画的重要范式。
 
 <div style="text-align: center; margin: 24px 0;">
   <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">图一：钟馗出巡，众鬼开路，气势森然</p>
+  <p style="font-style: italic; color: #888; margin-top: 8px;">图一：鬼仆拿家当细节</p>
   
   <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">图二：鬼卒负重，筹备冥界嫁妆</p>
+  <p style="font-style: italic; color: #888; margin-top: 8px;">图二：回首注视后方同样乘舆的妹妹（老婆）</p>
   
   <img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">图三：真君压阵，确保阴阳之约圆满完成</p>
+  <p style="font-style: italic; color: #888; margin-top: 8px;">图三：钟馗妹妹（老婆）</p>
 </div>
 
 ---

@@ -38,17 +38,17 @@
 </div>
 
 ### 🏮 代表的な物語：鍾馗嫁妹（しょうきかまい）
-「冥界に身を置こうとも、人界の約束は違えない。」鍾馗嫁妹は、彼が鬼卒を引き連れて現世に戻り、妹を嫁がせる感動的な物語です。
+鍾馗（しょうき）を題材とした叙事画の研究：龔開『中山出遊図』
+現存する鍾馗を題材とした叙事画の中で、最も古い年代のものとされるのが、米国のフリーア美術館（Freer Gallery of Art）が所蔵する龔開（きょう かい、1222–1305）の『中山出遊図』です。本作は、中山君である鍾馗とその妹（一部の学者は妻であると考証しています）が、多くの鬼の召使いを連れて出かける様子を描いています。
 
-<div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">其の一：鬼卒が先導する鍾馗の行進</p>
-  
-  <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">其の二：冥界の嫁入り道具を運ぶ鬼たち</p>
-  
-  <img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">其の三：儀式を見守る威厳ある鍾馗</p>
+巻首では、唐代の官服を身にまとった鍾馗が、二人の小鬼が担ぐ輿（こし）に座り、後ろから同じく輿に乗ってやってくる女性を振り返り見つめています。行列の最後尾には、さまざまな家具や日用品を肩に担いだ鬼たちの姿が描かれています。本作の構図と内容は、後世の鍾馗画に多大な影響を与えました。一列に並んで進む行列の形式、家財道具を運ぶ鬼たちの細部、そして妹（あるいは妻）を振り返る鍾馗の生き生きとした描写などは、その後の同系統の絵画における重要な規範となりました。
+
+<div style="text-align: center; margin: 24px 0;"> <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図1：家財道具を運ぶ鬼たちの詳細</p>
+
+<img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図2：後ろの輿に乗る妹（妻）を振り返る鍾馗</p>
+
+<img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図3：鍾馗の妹（妻）</p> 
+
 </div>
 
 ---

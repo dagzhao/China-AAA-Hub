@@ -40,17 +40,16 @@ In Ming-Qing New Year paintings and portraits, Zhong Kui is often shown riding a
 </div>
 
 ### 🏮 Iconic Tale: The Bridal Levy
-"Even in the Underworld, a vow must be kept." The story of Zhong Kui marrying off his sister is the most humanizing chapter of his legend. He leads a ghostly retinue back to the mortal world to ensure his sister's happiness, showcasing the complex blend of terror and tenderness.
+A Study of Narrative Paintings on the Zhong Kui Theme: Gong Kai's Zhong Kui’s Excursion to Zhongshan
+Among the extant narrative paintings of Zhong Kui, the earliest is Zhong Kui’s Excursion to Zhongshan by Gong Kai (1222–1305), currently held in the Freer Gallery of Art in the United States. The painting depicts Zhong Kui (the Lord of Zhongshan) and his sister (whom some scholars identify as his wife) leading a procession of ghost servants on an outing.
 
-<div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">Part I: The procession begins, ghostly scouts leading the way</p>
-  
-  <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">Part II: Spirits carrying the supernatural dowry</p>
-  
-  <img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">Part III: The Divine Judge presiding over the ceremony</p>
+At the beginning of the scroll, Zhong Kui is depicted in Tang dynasty official robes, seated on a sedan chair carried by two small ghosts, turning his head to gaze back at a woman also traveling by sedan（Figure 2）. At the end of the procession, various ghosts are shown carrying furniture and household items on their shoulders（Figure 1）. This work had a profound influence on the composition and content of later Zhong Kui paintings. Its defining features—such as the linear, sequential progression of the procession, the detail of ghost servants hauling household goods, and the vivid moment of Zhong Kui looking back at his sister (or wife)—became essential archetypes for later works of the same genre.
+
+<div style="text-align: center; margin: 24px 0;"> <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 1: Detail of ghost servants carrying household items</p>
+
+<img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 2: Zhong Kui turning to look at his sister (or wife) in the trailing sedan</p>
+
+<img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 3: Zhong Kui's sister (or wife)</p> 
 </div>
 
 ---
