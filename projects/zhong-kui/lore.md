@@ -4,7 +4,14 @@
 Zhong Kui, the "Ghost Eater," is a legendary deity in Chinese folklore known as the vanquisher of evil spirits. A brilliant scholar denied his rank due to his appearance, he chose an honorable death and was appointed Supreme Judge of the Underworld.
 
 ### 🐎 The Classic Steed: Bai Ze
-In traditional folklore, Zhong Kui is often depicted riding **Bai Ze**, a divine beast that knows the secrets of all monsters, symbolizing his wisdom and authority.
+#### Tang to Song-Yuan Periods
+Since the Tang Dynasty, Zhong Kui has primarily been known as a deity who captures ghosts and wards off evil. Early texts, such as the Dunhuang manuscript "New Year's Eve Zhong Kui Exorcism Text," depict Zhong Kui actively catching ghosts but make no mention of a mount. During the Song and Yuan periods, works like "Dream Pool Essays" and "The Eastern Capital: A Dream of Splendor" record the custom of hanging Zhong Kui's image at year-end but do not emphasize any specific mount.
+
+#### Ming-Qing Novels
+During the Ming and Qing dynasties, novels like "Zhong Kui Slays Demons" and "Tale of Subduing Ghosts" systematized the stories of Zhong Kui. Some versions mention him riding a "Bai Ze" (a mythical beast capable of understanding all things and warding off evil), though this was not a universally established tradition.
+
+#### Folk Art Depictions
+In Ming-Qing New Year paintings and portraits, Zhong Kui is often shown riding a horse or a tiger—particularly the "tiger-riding" motif, symbolizing the suppression of evil. However, these representations are largely artistic creations and are not strictly documented in historical texts.
 
 <div style="text-align: center; margin: 24px 0;">
   <img src="/images/zhongkui-06.jpg" style="width: 100%; max-width: 500px; border-radius: 4px;" />
