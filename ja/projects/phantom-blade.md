@@ -1,14 +1,14 @@
-# Phantom Blade Zero: Kung Fu Punk
+# 影之刃零：武侠パンク (Kung Fu Punk)
 
-## 1. Revenge in Despair: 66 Days to Live
-The protagonist, "Soul," is framed for the murder of the Patriarch. Rescued by a mysterious healer but left with only 66 days of life, Soul must fight through the treacherous "Order" before his clock runs out.
+## 1. 絶望の中の復讐：余命六十六日
+首領殺しの濡れ衣を着せられた主人公「魂（ソウル）」。瀕死の重傷を負うが、謎の医師によって命を繋ぎ止める。しかし、その余命はわずか66日。カウントダウンが止まる前に、影の組織「秩序」を相手に最後の戦いに挑む。
 
 <div class="image-row">
-  <img src="/images/pbzero-1.jpg" alt="Soul's Combat Stance" />
-  <img src="/images/pbzero-2.jpg" alt="Wuxia Punk Architecture" />
+  <img src="/images/pbzero-1.jpg" alt="ソウルの戦闘スタイル" />
+  <img src="/images/pbzero-2.jpg" alt="武侠パンクの世界観" />
 </div>
 
-## 2. Combat: Redefining the Art of Slaughter
-Directed by **Kenji Tanigaki** (Action Director of the *Rurouni Kenshin* live-action films), the game focuses on intense, high-speed weapon collisions.
-* **Flash Kill & Parry**: Fast-paced tactical combat with cinematic fluidity in every strike.
-* **The Phantom World**: A unique "Wuxia Punk" aesthetic blending steampunk elements with traditional martial arts themes.
+## 2. アクション：殺伐の美の再構築
+アクション監督・**谷垣健治**（『るろうに剣心』実写映画アクション監督）が手掛け、冷兵器がぶつかり合う極限のスピード感を追求。
+* **瞬殺とパリィ**：映画のようなカット割りを感じさせる流れるような攻防。
+* **ファントム・ワールド**：スチームパンクと伝統的な武侠が融合した独自の「武侠パンク」美学が、荒廃した江湖を描き出す。
