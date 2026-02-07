@@ -104,9 +104,8 @@
 ---
 詳細はこちらをご参照：https://journals.publishing.umich.edu/ars/article/id/5200/.
 
-<div style="text-align: center; margin: 24px 0;"> <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図1：家財道具を運ぶ鬼たちの詳細</p>
-
-<img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図2：後ろの輿に乗る妹（妻）を振り返る鍾馗</p>
+<div style="text-align: center; margin: 24px 0;"> <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図1：家財道具を運ぶ鬼たちの詳細 </p>
+<img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図2：後ろの輿に乗る妹（妻）を振り返る鍾馗 </p>
 </div>
 
 #### 🔍 深層解析：図三に見る異国情緒

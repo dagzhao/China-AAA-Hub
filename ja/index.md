@@ -38,7 +38,7 @@ features:
       <img src="/images/zhongkui-04.jpg" alt="鍾馗のキャラクタービジュアル" />
       <img src="/images/zhongkui-04.png" alt="鍾馗の騎獣と剣を運ぶ鬼卒" />
     </div>
-    <a href="/ja/zhong-kui/lore" class="card-btn">詳細を見る →</a>
+    <a href="/ja/projects/zhong-kui/lore" class="card-btn">詳細を見る →</a>
   </div>
 </div>
 

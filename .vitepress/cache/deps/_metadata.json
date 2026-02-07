@@ -1,55 +1,55 @@
 {
-  "hash": "887637f8",
+  "hash": "b204a6d6",
   "configHash": "e248d2d6",
-  "lockfileHash": "a485f689",
-  "browserHash": "7235c977",
+  "lockfileHash": "0b3cc6a4",
+  "browserHash": "fabfc2e8",
   "optimized": {
     "vue": {
       "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "8fdf7107",
+      "fileHash": "01105370",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "8eb9aeb7",
+      "fileHash": "62612d81",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "e18102c0",
+      "fileHash": "19e6ebee",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "758b9a25",
+      "fileHash": "a9d11e13",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "afb82c0a",
+      "fileHash": "a7485aba",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "99a261ed",
+      "fileHash": "9150cba8",
       "needsInterop": false
     },
     "@vercel/analytics": {
       "src": "../../../node_modules/@vercel/analytics/dist/index.mjs",
       "file": "@vercel_analytics.js",
-      "fileHash": "7bcd8fd9",
+      "fileHash": "5163a68b",
       "needsInterop": false
     },
     "@vercel/speed-insights": {
       "src": "../../../node_modules/@vercel/speed-insights/dist/index.mjs",
       "file": "@vercel_speed-insights.js",
-      "fileHash": "c0225910",
+      "fileHash": "eda18f4d",
       "needsInterop": false
     }
   },

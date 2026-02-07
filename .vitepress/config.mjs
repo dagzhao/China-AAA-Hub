@@ -6,7 +6,21 @@ export default defineConfig({
   description: "Decoding the new era of Chinese AAA games",
 
   head: [
-    ['link', { rel: 'icon', href: '/logo.png' }]
+    ['link', { rel: 'icon', href: '/logo.png' }],
+    // --- Google Analytics 脚本开始 ---
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-SLFCYVTHZH' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-SLFCYVTHZH');`
+    ]
+    // --- Google Analytics 脚本结束 ---
   ],
 
   locales: {
