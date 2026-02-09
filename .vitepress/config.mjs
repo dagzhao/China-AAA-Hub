@@ -7,6 +7,11 @@ export default defineConfig({
 
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
+    // 增加以下标签，让分享时的缩略图更好看
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'China AAA Games | Black Myth Lore Hub' }],
+    ['meta', { property: 'og:image', content: 'https://china3agames.com/logo.png' }], 
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     // --- Google Analytics 脚本开始 ---
     [
       'script',
@@ -55,8 +60,13 @@ export default defineConfig({
               ]
             }
           ]
-        }
-      }
+        },
+      editLink: {
+        pattern: 'https://github.com/dagzhao/China-AAA-Hub/edit/main/:path',
+        text: 'Edit this page on GitHub'
+      },
+      lastUpdatedText: 'Last updated'
+         }
     },
     zh: {
       label: '简体中文',
@@ -90,7 +100,12 @@ export default defineConfig({
               ]
             }
           ]
-        }
+        },
+        editLink: {
+        pattern: 'https://github.com/dagzhao/China-AAA-Hub/edit/main/:path',
+        text: '在 GitHub 上编辑此页'
+      },
+      lastUpdatedText: '最后更新时间'
       }
     },
     ja: {
@@ -125,12 +140,26 @@ export default defineConfig({
               ]
             }
           ]
-        }
+        },
+
+        editLink: {
+        pattern: 'https://github.com/dagzhao/China-AAA-Hub/edit/main/:path',
+        text: 'GitHub でこのページを編集'
+      },
+      lastUpdatedText: '最終更新日'
+
       }
     }
   },
 
+  lastUpdated: true, // 开启最后更新时间
+
   themeConfig: {
+    // 1. 配置“编辑此页”按钮
+    editLink: {
+      pattern: 'https://github.com/dagzhao/China-AAA-Hub/edit/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    },
     logo: '/logo.png',
     outline: { label: 'On this page' },
     search: { provider: 'local' },

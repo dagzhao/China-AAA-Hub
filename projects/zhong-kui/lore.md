@@ -107,9 +107,11 @@ Gong Kai’s self-inscribed poem (retaining original lines) reveals deep politic
 Refer to the details here: https://journals.publishing.umich.edu/ars/article/id/5200/.
 
 <div style="text-align: center; margin: 24px 0;"> 
-<img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 1: Detail of ghost servants carrying household items</p>
+  <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" /> 
+  <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 1: Detail of ghost servants carrying household items</p>
 
-<img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 2: Zhong Kui turning to look at his sister (or wife) in the trailing sedan</p>
+  <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> 
+  <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 2: Zhong Kui turning to look at his sister (or wife) in the trailing sedan</p>
 </div>
 
 #### 🔍 Analysis: The Exotic Faces in Figure 3
@@ -183,3 +185,11 @@ Based on the newly released concept art, we can derive crucial details regarding
 </div>
 
 * **"Strange Events in the Mortal Realm"**: The scroll features the text "異事在人間" (Strange events in the human world), suggesting a plot centered on the overlap between the living and the dead. The grotesque creatures represent the theme that "All Living Beings can be Demons."
+
+---
+
+::: tip Copyright Notice
+The research content on this site is collected and curated by the **China AAA Games** team. You are welcome to cite or share this content, provided that you give appropriate credit and link back to the original source: [china3agames.com](https://china3agames.com).
+:::
+
+
