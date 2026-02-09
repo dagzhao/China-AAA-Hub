@@ -176,7 +176,7 @@ Based on the newly released concept art, we can derive crucial details regarding
   <img src="/images/zhongkui-04-1.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 1 </p>
   <img src="/images/zhongkui-04.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 1</p>
+  <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 2</p>
 </div>
 
 Based on the comparison between Figure 1 and Figure 2 from the official website, here are my conjectures:
@@ -205,10 +205,16 @@ Based on the comparison between Figure 1 and Figure 2 from the official website,
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/zhongkui-05.png" style="width: 100%; max-width: 900px; border-radius: 4px;" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">Art Scroll: Displaying the diverse and eerie inhabitants of the Underworld.</p>
+  <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 3</p>
 </div>
 
-* **"Strange Events in the Mortal Realm"**: The scroll features the text "異事在人間" (Strange events in the human world), suggesting a plot centered on the overlap between the living and the dead. The grotesque creatures represent the theme that "All Living Beings can be Demons."
+> **异事本为人间常，神鬼原是衣冠相。-- "Strange occurrences are but the norm of the mortal realm; gods and ghosts are merely humans in masquerade."**
+> — The eerie phenomena of the world are actually commonplace, and the so-called "gods" and "demons," once stripped of their veneers, are nothing more than human hypocrisy and desire (represented by "official robes and caps").
+The image showcases a series of designs based on Chinese folklore and biological mutations:
+* **The Giant Rooster (Left):** In Chinese folklore, the rooster heralds the dawn and possesses the power to dispel "Yin" (dark/evil) energies.
+* **The Turtle Porter (Bottom Left):** A turtle pulls a carrying pole with wine gourds attached; its specific purpose remains mysterious.
+* **Insects and Humanoids (Right):** In the top right, a massive cicada-like insect perches on the back of a disheveled humanoid figure. This "parasitic" or "mutated" design is likely a hallmark of the *Black Myth* artistic style.
+* **The White Rat and the Urn (Bottom Right):** A white spirit rat crouches atop a sealed urn. In Taoism or folk tradition, urns are often used to imprison evil spirits; this rat may be a guardian or a type of "psychic medium."
 
 ---
 
