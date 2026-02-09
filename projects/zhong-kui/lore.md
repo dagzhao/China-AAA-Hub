@@ -190,17 +190,17 @@ Based on the comparison between Figure 1 and Figure 2 from the official website,
 | **Background** | Subtle snowflakes or light motes; solid representation of rocks and vegetation. | Filled with dense noise—likely a curse or miasma—creating an oppressive atmosphere. |
 
 * **Mechanic Conjecture: Interaction similar to *Lords of the Fallen***
-  * **The Dual Worlds of Yin and Yang**
+  * **The Dual Worlds of Yin and Yang】**
   Given the high-standard action design consistent with the **Black Myth** series, this visual disparity will likely translate into core gameplay.
-  * **Parallel Dimensions** 
+  * **【Parallel Dimensions】** 
   Players might possess a specific treasure (like Zhong Kui’s sword or wine gourd) to switch between the "living" and "spirit" worlds instantly.
-  * **The Living Realm:** 
+  * **【The Living Realm】** 
   Focuses on hardcore action combat against physically powerful enemies.
-  * **The Underworld** 
+  * **【The Underworld】** 
   Encounter invisible spirits; paths may appear that don't exist in the living world (e.g., a broken stone bridge that is whole in the spirit realm).
-  * **"Disenchantment" & "Revealing"** 
+  * **【"Disenchantment" & "Revealing"】** 
   Similar to **Lords of the Fallen**, players may need to shift into the Underworld to strike a boss's core or solve environmental puzzles.
-  * **Yin Erosion** 
+  * **【Yin Erosion】** 
   Staying in the "Yin World" for too long might cause Zhong Kui’s appearance to become more hideous (matching Figure 2). This could result in continuous HP loss or more frenzied attack patterns (sacrificing defense for massive shadow damage) :) .
 
 <div style="text-align: center; margin: 30px 0;">
