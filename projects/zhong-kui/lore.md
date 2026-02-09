@@ -210,10 +210,14 @@ Based on the comparison between Figure 1 and Figure 2 from the official website,
 
 > **异事本为人间常，神鬼原是衣冠相。** 
 "Abnormalities are but the rhythm of the mundane; gods and demons alike are but human desires clad in robes."
-* **【Absurd Folklore】**: The giant rooster on the left deconstructs the traditional motif of "the dawn-bringer dispelling evil." Its exaggerated scale dissolves the sacred, replacing it with an eerie, looming presence.
-* **【Netherworld Wayfarer】**: Below, a tortoise bearing wine casks blends mundane objects with a non-human creature, sketching a surreal world of folk anomalies.
-* **【Parasitic Aesthetics】**: The "Giant Cicada atop a Human" in the upper right is the visual crux of unease. Through the heterogenous fusion of insect and human form, it deconstructs the boundaries of life—a signature of the *Black Myth* artistic philosophy.
-* **【Exorcism Vessels】**: The white rat perched on the sealed urn in the lower right hints at Taoist seals and mediumship, concealing a hidden lethality within the silence.
+* **【Absurd Folklore】** 
+The giant rooster on the left deconstructs the traditional motif of "the dawn-bringer dispelling evil." Its exaggerated scale dissolves the sacred, replacing it with an eerie, looming presence.
+* **【Netherworld Wayfarer】** 
+Below, a tortoise bearing wine casks blends mundane objects with a non-human creature, sketching a surreal world of folk anomalies.
+* **【Parasitic Aesthetics】** 
+The "Giant Cicada atop a Human" in the upper right is the visual crux of unease. Through the heterogenous fusion of insect and human form, it deconstructs the boundaries of life—a signature of the *Black Myth* artistic philosophy.
+* **【Exorcism Vessels】** 
+The white rat perched on the sealed urn in the lower right hints at Taoist seals and mediumship, concealing a hidden lethality within the silence.
 
 ---
 
