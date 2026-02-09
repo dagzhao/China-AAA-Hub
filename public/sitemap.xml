@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://china3agames.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://china3agames.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://china3agames.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://china3agames.com/ja/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/projects/wukong</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/projects/zhong-kui/lore</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/projects/wuchang</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/projects/yanyun</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/projects/phantom-blade</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://china3agames.com/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://china3agames.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://china3agames.com/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://china3agames.com/ja/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/zh/projects/wukong</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/zh/projects/zhong-kui/lore</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/zh/projects/wuchang</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/zh/projects/yanyun</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/zh/projects/phantom-blade</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://china3agames.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://china3agames.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://china3agames.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://china3agames.com/zh/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/ja/projects/wukong</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/ja/projects/zhong-kui/lore</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/ja/projects/wuchang</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/ja/projects/yanyun</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://china3agames.com/ja/projects/phantom-blade</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
