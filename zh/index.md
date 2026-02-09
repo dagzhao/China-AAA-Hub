@@ -101,7 +101,7 @@ features:
       <h2><span class="icon">☯️</span> 剑鸣之外：道教文化根基</h2>
       <p>为什么主角总背着 <strong>葫芦</strong>？<strong>内丹修炼</strong> 背后隐藏着什么秘密？</p>
       <p>在中国 3A 大作中，战斗不仅是物理的碰撞，更是 <strong>形而上学</strong> 的博弈。</p>
-      <a class="action-btn" href="/culture/taoism">探索道教入门 101 →</a>
+      <a class="action-btn" href="/zh/culture/taoism">探索道教入门 101 →</a>
     </div>
   </section>
 </div>
