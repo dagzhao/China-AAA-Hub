@@ -208,13 +208,12 @@ Based on the comparison between Figure 1 and Figure 2 from the official website,
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 3</p>
 </div>
 
-> **异事本为人间常，神鬼原是衣冠相。-- "Strange occurrences are but the norm of the mortal realm; gods and ghosts are merely humans in masquerade."**
-> — The eerie phenomena of the world are actually commonplace, and the so-called "gods" and "demons," once stripped of their veneers, are nothing more than human hypocrisy and desire (represented by "official robes and caps").
-The image showcases a series of designs based on Chinese folklore and biological mutations:
-* **The Giant Rooster (Left):** In Chinese folklore, the rooster heralds the dawn and possesses the power to dispel "Yin" (dark/evil) energies.
-* **The Turtle Porter (Bottom Left):** A turtle pulls a carrying pole with wine gourds attached; its specific purpose remains mysterious.
-* **Insects and Humanoids (Right):** In the top right, a massive cicada-like insect perches on the back of a disheveled humanoid figure. This "parasitic" or "mutated" design is likely a hallmark of the *Black Myth* artistic style.
-* **The White Rat and the Urn (Bottom Right):** A white spirit rat crouches atop a sealed urn. In Taoism or folk tradition, urns are often used to imprison evil spirits; this rat may be a guardian or a type of "psychic medium."
+> **异事本为人间常，神鬼原是衣冠相。** 
+"Abnormalities are but the rhythm of the mundane; gods and demons alike are but human desires clad in robes."
+* **【Absurd Folklore】**: The giant rooster on the left deconstructs the traditional motif of "the dawn-bringer dispelling evil." Its exaggerated scale dissolves the sacred, replacing it with an eerie, looming presence.
+* **【Netherworld Wayfarer】**: Below, a tortoise bearing wine casks blends mundane objects with a non-human creature, sketching a surreal world of folk anomalies.
+* **【Parasitic Aesthetics】**: The "Giant Cicada atop a Human" in the upper right is the visual crux of unease. Through the heterogenous fusion of insect and human form, it deconstructs the boundaries of life—a signature of the *Black Myth* artistic philosophy.
+* **【Exorcism Vessels】**: The white rat perched on the sealed urn in the lower right hints at Taoist seals and mediumship, concealing a hidden lethality within the silence.
 
 ---
 
