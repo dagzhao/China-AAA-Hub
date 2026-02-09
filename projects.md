@@ -1,6 +1,6 @@
 # The AAA games Chronicles
 
-Explore the deep narratives and cultural roots of China's rising AAA titles.
+Explore the deep narratives and cultural roots of China's rising AAA games titles.
 
 | Project | Status | Description |
 | :--- | :--- | :--- |
