@@ -173,11 +173,35 @@ Replacing the traditional Bai Ze, Game Science introduces an aggressive, armored
 Based on the newly released concept art, we can derive crucial details regarding the underworld's combat and narrative style:
 
 <div style="text-align: center; margin: 24px 0;">
+  <img src="/images/zhongkui-04-1.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+  <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 1 </p>
   <img src="/images/zhongkui-04.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art: Zhong Kui on his tiger, with minions carrying his massive sword.</p>
+  <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 1</p>
 </div>
 
-* **Divine Heavyweight: Minions Carrying the Sword**: A key detail reveals that the two spirits behind Zhong Kui are working together to carry his massive **Seven-Star Sword**. This suggests the weapon possesses immense weight and divine power, requiring specialized attendants to transport it.
+Based on the comparison between Figure 1 and Figure 2 from the official website, here are my conjectures:
+
+* **"The Two Realms of Yin and Yang"**
+
+| Dimension | Figure 1: The Living World (Yang) | Figure 2: The Underworld (Yin) |
+| --- | --- | --- |
+| **Color & Tone** | Deep, steady ink tones; natural lighting transitions; a strong sense of physicality. | Leans toward grey-white; possesses a texture reminiscent of "paper money ash" or "twisting mist." |
+| **Line Art** | Clear and heavy; emphasizes the character's sense of power and structural stability. | Rough and fragmented; lines appear scattered as if the image might dissipate at any moment. |
+| **Background** | Subtle snowflakes or light motes; solid representation of rocks and vegetation. | Filled with dense noise—likely a curse or miasma—creating an oppressive atmosphere. |
+
+* **Mechanic Conjecture: Interaction similar to *Lords of the Fallen***
+  * **The Dual Worlds of Yin and Yang**
+  Given the high-standard action design consistent with the **Black Myth** series, this visual disparity will likely translate into core gameplay.
+  * **Parallel Dimensions** 
+  Players might possess a specific treasure (like Zhong Kui’s sword or wine gourd) to switch between the "living" and "spirit" worlds instantly.
+  * **The Living Realm:** 
+  Focuses on hardcore action combat against physically powerful enemies.
+  * **The Underworld** 
+  Encounter invisible spirits; paths may appear that don't exist in the living world (e.g., a broken stone bridge that is whole in the spirit realm).
+  * **"Disenchantment" & "Revealing"** 
+  Similar to **Lords of the Fallen**, players may need to shift into the Underworld to strike a boss's core or solve environmental puzzles.
+  * **Yin Erosion** 
+  Staying in the "Yin World" for too long might cause Zhong Kui’s appearance to become more hideous (matching Figure 2). This could result in continuous HP loss or more frenzied attack patterns (sacrificing defense for massive shadow damage) :) .
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/zhongkui-05.png" style="width: 100%; max-width: 900px; border-radius: 4px;" />

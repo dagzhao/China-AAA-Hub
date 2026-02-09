@@ -157,14 +157,14 @@
 
 ### 🗡️ 兵器：七星斩鬼剑
 从官方披露的素材看，钟馗背负的长剑极大概率是道教圣物 **“七星剑”**。
-* **北斗之威**：猜测在战斗中每斩杀一名妖鬼，剑身星辰便会亮起，蓄满后可释放大范围冥府剑气。
+* **北斗之威**：幻想一下，在战斗中每斩杀一名妖鬼，剑身星辰便会亮起，蓄满后可释放大范围冥府剑气，哈哈。
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/zhongkui-04.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
 </div>
 
 ### 🐅 坐骑：幽冥重铠虎
-不同于传统传说中的神兽白泽，游戏科学为钟馗配备了一头威风凛凛的斑纹猛虎，强化了其“悍将”气质。
+不同于传统传说中的神兽白泽，游戏科学为钟馗配备了一头威风凛凛的斑纹猛虎 。
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/zhongkui-05.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
@@ -175,11 +175,30 @@
 根据最新披露的官方原画，我们可以窥见更多关于“冥界战斗”与叙事风格的细节：
 
 <div style="text-align: center; margin: 24px 0;">
+  <img src="/images/zhongkui-04-1.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+  <p style="font-style: italic; color: #888; margin-top: 8px;">游戏官方提供，图一 </p>
   <img src="/images/zhongkui-04.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
-  <p style="font-style: italic; color: #888; margin-top: 8px;">官方原画：钟馗驭虎巡界，随行小鬼合力抬剑。</p>
+  <p style="font-style: italic; color: #888; margin-top: 8px;">游戏官方提供，图二</p>
 </div>
 
-* **神兵重器：小鬼抬剑**：画面细节显示，钟馗身后的两名小鬼正合力抬着那柄巨大的 **七星宝剑**。这暗示了宝剑极具分量，非凡人或寻常鬼卒能轻易挥动，这种“剑重需抬”的设计极大地增强了武器的力量感。
+官网图一，图二对比，猜想如下：
+
+* **“阴阳两界”**
+
+|维度|图一：现世（阳）|图二：幽冥（阴）|
+|:--|:--|:--|
+|色调观感|墨色沉稳，光影过渡自然，具有较强的实体感。|偏向灰白，带有明显的“纸钱灰”或“烟雾绕”质感。|
+|线条特征|清晰、厚重，强调角色的力量感与结构稳固。|毛糙、破碎，线条呈散乱态，仿佛画面随时会消散。|
+|背景细节|天空有细微雪花或光点，山石草木表现扎实。|布满密集噪点，疑为某种诅咒或瘴气，氛围压抑。|
+
+* 机制猜想：类似《堕落之主》的交互：
+**阴阳世界** 
+基于《黑神话》系列一贯的高规格动作设计，这种视觉差异极大概率会转化为核心玩法：
+  * **表里世界** 玩家可能拥有某种法宝（如钟馗的剑或酒葫芦），可以在瞬息之间切换“阳间”与“阴间”。
+  * **阳间** 面对肉身强悍的敌人，侧重硬核动作对拼。
+  * **阴间** 面对不可见的灵体，场景中会出现阳间不存在的路（例如原本断掉的石桥在阴间是完整的）。
+  * **“祛魅”与“显影”** 玩过《堕落之主》的都知道，猜测可能玩家必须切入阴间去攻击其核心，或者在阴间解开机关。
+  * **阴气侵蚀** 在“阴世界”停留时间过长，钟馗的外貌会变得越来越像第二张图那样狰狞，甚至可能导致生命值持续下降或招式变得更加狂暴（牺牲防御换取高额暗影伤害） ：） 。
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/zhongkui-05.png" style="width: 100%; max-width: 900px; border-radius: 4px;" />
