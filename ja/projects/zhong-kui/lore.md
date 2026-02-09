@@ -146,7 +146,7 @@
 </div>
 
 <p style="text-align: center; color: #888; font-size: 0.9em; margin-top: -10px; margin-bottom: 30px;">
-  <i>『黒神話：鍾馗』初回予告CG 徹底解説</i>
+  <i>Game Science's New Title | Black Myth: Zhong Kui - Teaser Trailer</i>
 </p>
 
 ### 🗡️ 兵器：七星斬鬼剣

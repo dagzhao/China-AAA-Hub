@@ -151,7 +151,7 @@ Figure 3 reveals a fascinating multicultural narrative through the lady's entour
 </div>
 
 <p style="text-align: center; color: #888; font-size: 0.9em; margin-top: -10px; margin-bottom: 30px;">
-  <i>Official Teaser Analysis: Game Science's reimagining of the Netherworld general.</i>
+  <i>Game Science's New Title | Black Myth: Zhong Kui - Teaser Trailer.</i>
 </p>
 
 ### 🗡️ Weapon: The Seven-Star Sword

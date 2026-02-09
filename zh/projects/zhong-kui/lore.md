@@ -152,7 +152,7 @@
 </div>
 
 <p style="text-align: center; color: #888; font-size: 0.9em; margin-top: -10px; margin-bottom: 30px;">
-  <i>《黑神话：钟馗》首部预告 CG 解析</i>
+  <i>游戏科学新作 | 《黑神话：钟馗》- 先导预告片</i>
 </p>
 
 ### 🗡️ 兵器：七星斩鬼剑
