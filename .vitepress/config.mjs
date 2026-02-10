@@ -153,7 +153,10 @@ export default defineConfig({
   },
 
   lastUpdated: true, // 开启最后更新时间
-
+  // 重点：直接添加这个内置选项
+  sitemap: {
+    hostname: 'https://china3agames.com' // 
+  },
   themeConfig: {
     // 1. 配置“编辑此页”按钮
     editLink: {

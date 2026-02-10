@@ -8,6 +8,7 @@
     "preview": "vitepress preview"
   },
   "devDependencies": {
+    "sitemap-generator-cli": "^7.5.0",
     "vitepress": "latest",
     "vue": "latest"
   },
