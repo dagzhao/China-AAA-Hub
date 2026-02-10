@@ -39,6 +39,7 @@ export default defineConfig({
           {
             text: 'Games',
             items: [
+              { text: 'Black Myth: 2026 New Year', link: '/projects/zhong-kui/new-year-special' },
               { text: 'Black Myth: Wukong', link: '/projects/wukong' },
               { text: 'Black Myth: Zhong Kui', link: '/projects/zhong-kui/lore' },
               { text: 'WUCHANG: Fallen Feathers', link: '/projects/wuchang' },
@@ -52,6 +53,7 @@ export default defineConfig({
             {
               text: 'AAA Game Chronicles',
               items: [
+                { text: 'Black Myth: 2026 New Year', link: '/projects/zhong-kui/new-year-special' },
                 { text: 'Wukong: Lore', link: '/projects/wukong' },
                 { text: 'Zhong Kui: Lore', link: '/projects/zhong-kui/lore' },
                 { text: 'Wuchang: Lore', link: '/projects/wuchang' },
@@ -79,6 +81,7 @@ export default defineConfig({
           {
             text: '游戏项目',
             items: [
+              { text: '黑神话：2026春节寄语', link: '/zh/projects/zhong-kui/new-year-special' },
               { text: '黑神话：悟空', link: '/zh/projects/wukong' },
               { text: '黑神话：钟馗', link: '/zh/projects/zhong-kui/lore' },
               { text: '明末：渊虚之羽', link: '/zh/projects/wuchang' },
@@ -92,6 +95,7 @@ export default defineConfig({
             {
               text: 'AAA游戏',
               items: [
+                { text: '黑神话：2026春节寄语', link: '/zh/projects/zhong-kui/new-year-special' },
                 { text: '黑神话：悟空', link: '/zh/projects/wukong' },
                 { text: '黑神话：钟馗', link: '/zh/projects/zhong-kui/lore' },
                 { text: '明末：渊虚之羽', link: '/zh/projects/wuchang' },
@@ -119,6 +123,7 @@ export default defineConfig({
           {
             text: 'プロジェクト',
             items: [
+              { text: '黒神話：2026新春特別企画', link: '/ja/projects/zhong-kui/new-year-special' },
               { text: '黒神話：悟空', link: '/ja/projects/wukong' },
               { text: '黒神話：鍾馗', link: '/ja/projects/zhong-kui/lore' },
               { text: '明末：淵虚之羽', link: '/ja/projects/wuchang' },
@@ -132,6 +137,7 @@ export default defineConfig({
             {
               text: '主要プロジェクト',
               items: [
+                { text: '黒神話：2026新春特別企画', link: '/ja/projects/zhong-kui/new-year-special' },
                 { text: '黒神話：悟空', link: '/ja/projects/wukong' },
                 { text: '黒神話：鍾馗', link: '/ja/projects/zhong-kui/lore' },
                 { text: '明末：淵虚之羽', link: '/ja/projects/wuchang' },
