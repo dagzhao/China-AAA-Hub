@@ -16,10 +16,9 @@
 
 ### 🏮 Insights from Feng Ji
 
-On the eve of the Year of the Horse, Feng Ji released this "eerie yet heartwarming" video for *Black Myth: Zhong Kui*. Quoting Nietzsche's *Twilight of the Idols*, he expressed a primal understanding of life: **Happiness often stems from the most stable source—"Eating."**
+On the eve of the Year of the Horse, Feng Ji released this "eerie yet heartwarming" video for **Black Myth: Zhong Kui**. Quoting Nietzsche's **Twilight of the Idols**, he expressed a primal understanding of life: **Happiness often stems from the most stable source—"Eating."**
 
-> The first real-time footage of *Black Myth: Zhong Kui* has arrived out of the blue.
-> 
+> The first real-time footage of **Black Myth: Zhong Kui** has arrived out of the blue.
 > I wonder, after watching this, will you break into a knowing smile? Be left in utter confusion? Or immediately start analyzing a pile of hidden metaphors, plot directions, or new technical features? 
 > 
 > Hey, don't be so serious. Chill out.
@@ -30,7 +29,7 @@ On the eve of the Year of the Horse, Feng Ji released this "eerie yet heartwarmi
 > 
 > We spend every day wielding swords and spears. With the New Year approaching, why not sit down and enjoy a bowl of hot soup? Watch out, it’s hot~
 > 
-> In *Twilight of the Idols*, Nietzsche wrote something a bit mouthful:
+> In **Twilight of the Idols**, Nietzsche wrote something a bit mouthful:
 > "Often, the so-called 'tranquility of the soul' is merely a misunderstanding—perhaps just an unconscious gratitude for a smooth digestion."
 > 
 > A friend of mine once expressed a similar sentiment, saying that after reaching a certain age, he realized that only eating brings the most frequent and stable sense of happiness. As I grow older, I find myself agreeing more and more.
