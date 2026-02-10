@@ -141,12 +141,15 @@ Figure 3 reveals a fascinating multicultural narrative through the lady's entour
       controls 
       preload="none"
       controlsList="nodownload" 
+      oncontextmenu="return false;"
       poster="/images/zhongkui-07.jpg"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; display: block;"
     >
       <source src="/videos/zhongkui-pv.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: calc(100% - 50px); background: transparent;" oncontextmenu="return false;">
+    </div>
   </div>
 </div>
 
