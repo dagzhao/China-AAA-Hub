@@ -2,7 +2,6 @@ User-agent: *
 Allow: /
 
 # 屏蔽示例页面（如果你没删的话）
-Disallow: /api-examples.html
-Disallow: /markdown-examples.html
+# Disallow: /api-examples.html
 
 Sitemap: https://china3agames.com/sitemap.xml
