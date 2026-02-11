@@ -36,7 +36,7 @@ features:
     <p>駆魔真君のダークな叙事詩を深掘り。鬼卒が剣を担ぐ細部から幽冥虎の騎乗変化まで、Game Scienceの東洋ダークファンタジー美学を解析。</p>
     <div class="image-row">
       <img src="/images/zhongkui-04.jpg" alt="鍾馗のキャラクタービジュアル" />
-      <img src="/images/zhongkui-04.png" alt="鍾馗の騎獣と剣を運ぶ鬼卒" />
+      <img src="/images/zhongkui-04-1.jpg" alt="鍾馗の騎獣と剣を運ぶ鬼卒" />
     </div>
     <a href="/ja/projects/zhong-kui/lore" class="card-btn">詳細を見る →</a>
   </div>

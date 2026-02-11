@@ -77,7 +77,8 @@
 
 /* --- 通用文本与结构 --- */
 h1, h2, h3 {
-  font-family: "Microsoft YaHei", "serif";
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  letter-spacing: 1px;
   letter-spacing: 1px;
   text-shadow: 2px 2px 10px rgba(163, 0, 0, 0.5);
   background: linear-gradient(to right, #fff, #a30000);
@@ -101,7 +102,7 @@ h1, h2, h3 {
   display: block;
   margin: 20px auto;
   width: 100%;
-  max-width: 650px; /* 统一所有图片的视觉宽度上限 */
+  max-width: 100%; /* 统一所有图片的视觉宽度上限 */
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.5);
 }
@@ -155,6 +156,8 @@ h1, h2, h3 {
   background: linear-gradient(to right, #fff, var(--vp-c-brand));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  overflow-wrap: break-word; /* 防止长英文标题溢出 */
+  word-break: break-word;
 }
 
 /* 图片并列排版 */
@@ -167,10 +170,12 @@ h1, h2, h3 {
 
 .image-row img {
   width: 100%;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 16/9;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255,255,255,0.05);
+  display: block;
 }
 
 /* 卡片按钮 */

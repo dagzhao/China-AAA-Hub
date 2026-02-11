@@ -176,9 +176,9 @@
 根据最新披露的官方原画，我们可以窥见更多关于“冥界战斗”与叙事风格的细节：
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-04-1.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+  <img src="/images/zhongkui-04-1.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">游戏官方提供，图一 </p>
-  <img src="/images/zhongkui-04.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+  <img src="/images/zhongkui-04-2.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">游戏官方提供，图二</p>
 </div>
 
@@ -207,7 +207,7 @@
   在“阴世界”停留时间过长，钟馗的外貌会变得越来越像第二张图那样狰狞，甚至可能导致生命值持续下降或招式变得更加狂暴（牺牲防御换取高额暗影伤害） ：） 。
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/images/zhongkui-05.png" style="width: 100%; max-width: 900px; border-radius: 4px;" />
+  <img src="/images/zhongkui-05-1.jpg" style="width: 100%; max-width: 900px; border-radius: 4px;" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">游戏官方提供，图三</p>
 </div>
 

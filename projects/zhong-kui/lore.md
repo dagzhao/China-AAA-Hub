@@ -174,9 +174,9 @@ Replacing the traditional Bai Ze, Game Science introduces an aggressive, armored
 Based on the newly released concept art, we can derive crucial details regarding the underworld's combat and narrative style:
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-04-1.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+  <img src="/images/zhongkui-04-1.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 1 </p>
-  <img src="/images/zhongkui-04.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+  <img src="/images/zhongkui-04-2.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 2</p>
 </div>
 
@@ -205,7 +205,7 @@ Based on the comparison between Figure 1 and Figure 2 from the official website,
   Staying in the "Yin World" for too long might cause Zhong Kui’s appearance to become more hideous (matching Figure 2). This could result in continuous HP loss or more frenzied attack patterns (sacrificing defense for massive shadow damage) :) .
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/images/zhongkui-05.png" style="width: 100%; max-width: 900px; border-radius: 4px;" />
+  <img src="/images/zhongkui-05-1.jpg" style="width: 100%; max-width: 900px; border-radius: 4px;" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 3</p>
 </div>
 

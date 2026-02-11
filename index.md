@@ -35,7 +35,7 @@ features:
     <p>Explore the dark epic of the Ghost Eater. From the intricate detail of spirits carrying his sword to the transformation of his tiger mount, delve into Game Science's oriental dark fantasy aesthetics.</p>
     <div class="image-row">
       <img src="/images/zhongkui-04.jpg" alt="Zhong Kui Character Visual" />
-      <img src="/images/zhongkui-04.png" alt="Zhong Kui Mount and Sword Bearers" />
+      <img src="/images/zhongkui-04-1.jpg" alt="Zhong Kui Mount and Sword Bearers" />
     </div>
     <a href="/projects/zhong-kui/lore" class="card-btn">View Details →</a>
   </div>

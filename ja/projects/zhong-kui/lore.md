@@ -167,9 +167,9 @@
 新たに公開されたコンセプトアートから、冥界の戦闘と物語のスタイルに関する重要な詳細を読み取ることができます：
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-04-1.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+  <img src="/images/zhongkui-04-1.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，図1 </p>
-  <img src="/images/zhongkui-04.png" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+  <img src="/images/zhongkui-04-2.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，図2</p>
 </div>
 
@@ -197,7 +197,7 @@
   「陰の世界」に長く留まりすぎると、鍾馗の容貌が図2のように恐ろしく変化し、持続的なダメージを受けたり、攻撃が狂暴化（防御を犠牲にして高火力のシャドウダメージを与える）したりするのではないか :) 。
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/images/zhongkui-05.png" style="width: 100%; max-width: 900px; border-radius: 4px;" />
+  <img src="/images/zhongkui-05-1.jpg" style="width: 100%; max-width: 900px; border-radius: 4px;" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，図3</p>
 </div>
 
