@@ -48,8 +48,8 @@ features:
     </h3>
     <p>The ultimate "Wuxia Punk" action. Under the shadow of "The Organization," experience fast-paced cold weapon parrying and the brutal beauty of assassination.</p>
     <div class="image-row">
-      <img src="/images/pbzero-1.jpg" alt="Phantom Blade Zero Combat Closeup" />
-      <img src="/images/pbzero-2.jpg" alt="Phantom Blade Zero Stylized Art" />
+      <img src="/images/pbzero-1.jpg" alt="Phantom Blade Zero Combat Closeup" loading="lazy"/>
+      <img src="/images/pbzero-2.jpg" alt="Phantom Blade Zero Stylized Art" loading="lazy"/>
     </div>
     <a href="/projects/phantom-blade" class="card-btn">Join the Shadows →</a>
   </div>
@@ -60,8 +60,8 @@ features:
     <h3>Black Myth: Wukong</h3>
     <p>Retrace the Journey to the West, confront destiny. Top-tier technology brings oriental mythology to life, heralding a new era for Chinese AAA games.</p>
     <div class="image-row">
-      <img src="/images/wukong-1.jpg" alt="Wukong Combat Scene" />
-      <img src="/images/wukong-2.jpg" alt="Wukong Game World Landscape" />
+      <img src="/images/wukong-1.jpg" alt="Wukong Combat Scene" loading="lazy"/>
+      <img src="/images/wukong-2.jpg" alt="Wukong Game World Landscape" loading="lazy"/>
     </div>
     <a href="/projects/wukong" class="card-btn">Confront Destiny →</a>
   </div>
@@ -72,8 +72,8 @@ features:
     <h3>WUCHANG: Fallen Feathers</h3>
     <p>The intertwining of ancient Shu civilization and Cthulhu mythos. Uncover the bloody veil behind Sanxingdui culture, exploring the apocalyptic landscape of dark Bashu.</p>
     <div class="image-row">
-      <img src="/images/wuchang-1.jpg" alt="Wuchang Character Visual" />
-      <img src="/images/wuchang-2.jpg" alt="Wuchang Ancient Monster" />
+      <img src="/images/wuchang-1.jpg" alt="Wuchang Character Visual" loading="lazy"/>
+      <img src="/images/wuchang-2.jpg" alt="Wuchang Ancient Monster" loading="lazy"/>
     </div>
     <a href="/projects/wuchang" class="card-btn">Explore Bashu →</a>
   </div>
@@ -84,8 +84,8 @@ features:
     <h3>Where Winds Meet</h3>
     <p>An open-world martial arts game set in the Five Dynasties and Ten Kingdoms era. No sects, no rules—forge your own path and redefine the true laws of Jianghu survival.</p>
     <div class="image-row">
-      <img src="/images/yanyun-1.jpg" alt="Where Winds Meet Landscape" />
-      <img src="/images/yanyun-2.jpg" alt="Where Winds Meet Combat Scene" />
+      <img src="/images/yanyun-1.jpg" alt="Where Winds Meet Landscape" loading="lazy"/>
+      <img src="/images/yanyun-2.jpg" alt="Where Winds Meet Combat Scene" loading="lazy"/>
     </div>
     <a href="/projects/yanyun" class="card-btn">Enter Yanyun →</a>
   </div>

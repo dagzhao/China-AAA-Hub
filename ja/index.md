@@ -49,8 +49,8 @@ features:
     </h3>
     <p>「武侠パンク」究極のアクション。影の組織の暗躍する世界で、ハイスピードな冷兵器によるパリィと殺戮の美学を体験する。</p>
     <div class="image-row">
-      <img src="/images/pbzero-1.jpg" alt="影之刃零の戦闘クローズアップ" />
-      <img src="/images/pbzero-2.jpg" alt="影之刃零のスタイルアート" />
+      <img src="/images/pbzero-1.jpg" alt="影之刃零の戦闘クローズアップ" loading="lazy"/>
+      <img src="/images/pbzero-2.jpg" alt="影之刃零のスタイルアート" loading="lazy"/>
     </div>
     <a href="/projects/phantom-blade" class="card-btn">闇に加わる →</a>
   </div>
@@ -61,8 +61,8 @@ features:
     <h3>黒神話：悟空 (Black Myth: Wukong)</h3>
     <p>西遊記の道を再び辿り、天命と対峙する。最高峰の技術で東洋神話が蘇り、中国3Aゲームの新時代を切り開く。</p>
     <div class="image-row">
-      <img src="/images/wukong-1.jpg" alt="悟空の戦闘シーン" />
-      <img src="/images/wukong-2.jpg" alt="悟空のゲーム世界風景" />
+      <img src="/images/wukong-1.jpg" alt="悟空の戦闘シーン" loading="lazy"/>
+      <img src="/images/wukong-2.jpg" alt="悟空のゲーム世界風景" loading="lazy"/>
     </div>
     <a href="/projects/wukong" class="card-btn">天命に挑む →</a>
   </div>
@@ -73,8 +73,8 @@ features:
     <h3>明末：淵虚之羽 (WUCHANG: Fallen Feathers)</h3>
     <p>古蜀文明とクトゥルフ神話の交錯。三星堆文化の背後にある血塗られた真実を暴き、ダークな巴蜀の終末風景を探索する。</p>
     <div class="image-row">
-      <img src="/images/wuchang-1.jpg" alt="明末のキャラクタービジュアル" />
-      <img src="/images/wuchang-2.jpg" alt="明末の古代怪物" />
+      <img src="/images/wuchang-1.jpg" alt="明末のキャラクタービジュアル" loading="lazy"/>
+      <img src="/images/wuchang-2.jpg" alt="明末の古代怪物" loading="lazy"/>
     </div>
     <a href="/projects/wuchang" class="card-btn">巴蜀を探索 →</a>
   </div>
@@ -85,8 +85,8 @@ features:
     <h3>燕雲十六声 (Where Winds Meet)</h3>
     <p>五代十国時代を舞台にしたオープンワールド武侠。門派に囚われず、自由気ままに、真の武侠サバイバルを再構築する。</p>
     <div class="image-row">
-      <img src="/images/yanyun-1.jpg" alt="燕雲の風景" />
-      <img src="/images/yanyun-2.jpg" alt="燕雲の戦闘シーン" />
+      <img src="/images/yanyun-1.jpg" alt="燕雲の風景" loading="lazy"/>
+      <img src="/images/yanyun-2.jpg" alt="燕雲の戦闘シーン" loading="lazy"/>
     </div>
     <a href="/projects/yanyun" class="card-btn">燕雲へ足を踏み入れる →</a>
   </div>
