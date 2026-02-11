@@ -35,6 +35,7 @@
 ### 🔍 视频细节拆解
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 24px; margin: 24px 0;">
+
   <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #67c23a;">
     <img src="/images/zhongkui-jiucai.jpg" style="width: 100%; aspect-ratio: 16 / 9;border-radius: 4px;" alt="拔韭菜" loading="lazy"/>
     <h4 style="margin-top: 16px;">🌱 “拔韭菜”的隐喻</h4>
@@ -46,6 +47,7 @@
     <h4 style="margin-top: 16px;">🍲 钟馗之妹与人间烟火</h4>
     <p style="color: #aaa; font-size: 0.9em;">会不是是传说的钟馗妹妹？</p>
   </div>
+
   <div style="background: rgba(255,255,255,0.05); padding: 24px; border-radius: 12px; border-left: 4px solid #929599; max-width: 800px; margin: 20px auto; font-family: sans-serif;">
       <div style="display: flex; gap: 10px; margin-bottom: 20px;">
           <div style="flex: 2;">
