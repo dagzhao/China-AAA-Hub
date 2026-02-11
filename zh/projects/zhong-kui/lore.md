@@ -24,7 +24,7 @@
 明清年画与画像中，钟馗常以骑马或骑虎的形象出现，尤其是"骑虎"造型（象征镇邪）。然而，这些多为艺术创作，并未严格见于文献记载。
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-06.jpg" style="width: 100%; max-width: 500px; border-radius: 4px; filter: contrast(1.1);" />
+  <img src="/images/zhongkui-06.jpg" alt="钟馗骑乘神兽白泽图"  style="width: 100%; max-width: 500px; border-radius: 4px; filter: contrast(1.1);" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">古画：钟馗骑乘神兽白泽图</p>
 </div>
 
@@ -105,10 +105,10 @@
 
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;"  loading="lazy"/>
+  <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" alt="鬼仆拿家当细节"  loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">图一：鬼仆拿家当细节</p>
   
-  <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;"  loading="lazy"/>
+  <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" alt="回首注视后方同样乘舆的妹妹（老婆）" loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">图二：回首注视后方同样乘舆的妹妹（老婆）</p>
 </div>
 
@@ -119,12 +119,12 @@
 * **写实记录：** 这种造型与西安出土的元初西亚俑吻合，证实了龚开对当时异域劳工形象的精确观察。
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;"  loading="lazy"/>
+  <img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" alt="钟馗妹妹（老婆）" loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">图三：钟馗妹妹（老婆）</p>
 </div>
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-08.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;"  loading="lazy"/>
+  <img src="/images/zhongkui-08.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" alt="龚开自题跋文" loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">图四：龚开自题跋文</p>
 </div>
 
@@ -161,14 +161,14 @@
 * **北斗之威**：幻想一下，在战斗中每斩杀一名妖鬼，剑身星辰便会亮起，蓄满后可释放大范围冥府剑气，哈哈。
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/zhongkui-04.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"  loading="lazy"/>
+  <img src="/images/zhongkui-04.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="斩鬼剑" loading="lazy"/>
 </div>
 
 ### 🐅 坐骑：幽冥重铠虎
 不同于传统传说中的神兽白泽，游戏科学为钟馗配备了一头威风凛凛的斑纹猛虎 。
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/zhongkui-05.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"  loading="lazy"/>
+  <img src="/images/zhongkui-05.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"  alt="幽冥重铠虎" loading="lazy"/>
 </div>
 
 ### 🎨 官方原画深度解构 (Official Concept Art Analysis)
@@ -176,9 +176,9 @@
 根据最新披露的官方原画，我们可以窥见更多关于“冥界战斗”与叙事风格的细节：
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-04-1.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);"  loading="lazy"/>
+  <img src="/images/zhongkui-04-1.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);"  alt="" loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">游戏官方提供，图一 </p>
-  <img src="/images/zhongkui-04-2.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);"  loading="lazy"/>
+  <img src="/images/zhongkui-04-2.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" alt=""  loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">游戏官方提供，图二</p>
 </div>
 
@@ -207,7 +207,7 @@
   在“阴世界”停留时间过长，钟馗的外貌会变得越来越像第二张图那样狰狞，甚至可能导致生命值持续下降或招式变得更加狂暴（牺牲防御换取高额暗影伤害） ：） 。
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/images/zhongkui-05-1.jpg" style="width: 100%; max-width: 900px; border-radius: 4px;"  loading="lazy"/>
+  <img src="/images/zhongkui-05-1.jpg" style="width: 100%; max-width: 900px; border-radius: 4px;" alt=""  loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">游戏官方提供，图三</p>
 </div>
 

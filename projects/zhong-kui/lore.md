@@ -35,7 +35,7 @@ During the Ming and Qing dynasties, novels like "Zhong Kui Slays Demons" and "Ta
 In Ming-Qing New Year paintings and portraits, Zhong Kui is often shown riding a horse or a tiger—particularly the "tiger-riding" motif, symbolizing the suppression of evil. However, these representations are largely artistic creations and are not strictly documented in historical texts.
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-06.jpg" style="width: 100%; max-width: 500px; border-radius: 4px;" />
+  <img src="/images/zhongkui-06.jpg" style="width: 100%; max-width: 500px; border-radius: 4px;" alt="Ancient Scroll: Zhong Kui riding the mythical Bai Ze" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">Ancient Scroll: Zhong Kui riding the mythical Bai Ze</p>
 </div>
 
@@ -107,10 +107,10 @@ Gong Kai’s self-inscribed poem (retaining original lines) reveals deep politic
 Refer to the details here: https://journals.publishing.umich.edu/ars/article/id/5200/.
 
 <div style="text-align: center; margin: 24px 0;"> 
-  <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;"  loading="lazy"/> 
+  <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" alt="Figure 1: Detail of ghost servants carrying household items" loading="lazy"/> 
   <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 1: Detail of ghost servants carrying household items</p>
 
-  <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;"  loading="lazy"/> 
+  <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" alt="Figure 2: Zhong Kui turning to look at his sister (or wife) in the trailing sedan" loading="lazy"/> 
   <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 2: Zhong Kui turning to look at his sister (or wife) in the trailing sedan</p>
 </div>
 
@@ -121,9 +121,9 @@ Figure 3 reveals a fascinating multicultural narrative through the lady's entour
 * **Historical Realism:** This imagery aligns with archaeological finds in Xi'an, reflecting Gong Kai's accurate depiction of foreign laborers active during the early Yuan Dynasty.
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;"  loading="lazy"/> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 3: Zhong Kui's sister (or wife)</p> 
+  <img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" alt="Figure 3: Zhong Kui's sister (or wife)" loading="lazy"/> <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 3: Zhong Kui's sister (or wife)</p> 
 
-  <img src="/images/zhongkui-08.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;"  loading="lazy"/>
+  <img src="/images/zhongkui-08.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;"  alt="Figure 4: Gong Kai's Self-Written Inscription and Postscript" loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">Figure 4: Gong Kai's Self-Written Inscription and Postscript</p>
 
 </div>
@@ -159,14 +159,14 @@ Figure 3 reveals a fascinating multicultural narrative through the lady's entour
 Visuals suggest his primary weapon is the **Seven-Star Sword**, a Taoist relic capable of channeling celestial power.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/zhongkui-04.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"  loading="lazy"/>
+  <img src="/images/zhongkui-04.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"  alt="sword" loading="lazy"/>
 </div>
 
 ### 🐅 Mount: The Armored Ghost-Tiger
 Replacing the traditional Bai Ze, Game Science introduces an aggressive, armored tiger as Zhong Kui's lethal companion.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/zhongkui-05.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"  loading="lazy"/>
+  <img src="/images/zhongkui-05.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="ghost-tiger" loading="lazy"/>
 </div>
 
 ### 🎨 Official Concept Art Analysis
@@ -174,9 +174,9 @@ Replacing the traditional Bai Ze, Game Science introduces an aggressive, armored
 Based on the newly released concept art, we can derive crucial details regarding the underworld's combat and narrative style:
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-04-1.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);"  loading="lazy"/>
+  <img src="/images/zhongkui-04-1.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" alt="Official Concept Art" loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 1 </p>
-  <img src="/images/zhongkui-04-2.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);"  loading="lazy"/>
+  <img src="/images/zhongkui-04-2.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);"  alt="Official Concept Art" loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 2</p>
 </div>
 
@@ -205,7 +205,7 @@ Based on the comparison between Figure 1 and Figure 2 from the official website,
   Staying in the "Yin World" for too long might cause Zhong Kui’s appearance to become more hideous (matching Figure 2). This could result in continuous HP loss or more frenzied attack patterns (sacrificing defense for massive shadow damage) :) .
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/images/zhongkui-05-1.jpg" style="width: 100%; max-width: 900px; border-radius: 4px;"  loading="lazy"/>
+  <img src="/images/zhongkui-05-1.jpg" style="width: 100%; max-width: 900px; border-radius: 4px;" alt="Official Concept Art"  loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，Figure 3</p>
 </div>
 
