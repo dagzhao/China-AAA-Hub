@@ -105,7 +105,7 @@
 詳細はこちらをご参照：https://journals.publishing.umich.edu/ars/article/id/5200/.
 
 <div style="text-align: center; margin: 24px 0;"> <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図1：家財道具を運ぶ鬼たちの詳細 </p>
-<img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図2：後ろの輿に乗る妹（妻）を振り返る鍾馗 </p>
+<img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;"  loading="lazy"/> <p style="font-style: italic; color: #888; margin-top: 8px;">図2：後ろの輿に乗る妹（妻）を振り返る鍾馗 </p>
 </div>
 
 #### 🔍 深層解析：図三に見る異国情緒
@@ -115,9 +115,9 @@
 * **写実的な記録：** この描写は西安で出土した元代の西アジア人陶俑と一致しており、龔開が当時の異国人労働者の姿を正確に捉えていたことを証明しています。
 
 <div style="text-align: center; margin: 24px 0;">
-<img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図3：鍾馗の妹（妻）</p> 
+<img src="/images/zhongkui-03.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;"  loading="lazy"/> <p style="font-style: italic; color: #888; margin-top: 8px;">図3：鍾馗の妹（妻）</p> 
    
-<img src="/images/zhongkui-08.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" />
+<img src="/images/zhongkui-08.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;"  loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">図四：龔開 自題の跋文</p>
 </div>
 
@@ -152,14 +152,14 @@
 公式素材に登場する長剣は、道教の聖遺物である**「七星剣」**であると考察されます。
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/zhongkui-04.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+  <img src="/images/zhongkui-04.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"  loading="lazy"/>
 </div>
 
 ### 🐅 騎獣：幽冥の重鎧虎
 伝統的な白澤ではなく、より攻撃的な「重鎧を纏った虎」が鍾馗の騎獣として採用されています。
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/zhongkui-05.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+  <img src="/images/zhongkui-05.jpg" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"  loading="lazy"/>
 </div>
 
 ### 🎨 公式コンセプトアートの深度解析
@@ -167,9 +167,9 @@
 新たに公開されたコンセプトアートから、冥界の戦闘と物語のスタイルに関する重要な詳細を読み取ることができます：
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-04-1.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+  <img src="/images/zhongkui-04-1.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);"  loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，図1 </p>
-  <img src="/images/zhongkui-04-2.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" />
+  <img src="/images/zhongkui-04-2.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);"  loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，図2</p>
 </div>
 
@@ -197,7 +197,7 @@
   「陰の世界」に長く留まりすぎると、鍾馗の容貌が図2のように恐ろしく変化し、持続的なダメージを受けたり、攻撃が狂暴化（防御を犠牲にして高火力のシャドウダメージを与える）したりするのではないか :) 。
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="/images/zhongkui-05-1.jpg" style="width: 100%; max-width: 900px; border-radius: 4px;" />
+  <img src="/images/zhongkui-05-1.jpg" style="width: 100%; max-width: 900px; border-radius: 4px;"  loading="lazy"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">Official Art，図3</p>
 </div>
 

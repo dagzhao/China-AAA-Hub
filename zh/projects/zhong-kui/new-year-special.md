@@ -6,7 +6,7 @@
 
 <div style="text-align: center; margin: 32px 0;">
   <a href="https://www.youtube.com/watch?v=l15ZHfTsVmU" target="_blank" rel="noopener noreferrer" style="display: inline-block; position: relative; width: 100%; max-width: 800px; transition: transform 0.3s ease;">
-    <img src="/images/zhongkui-sister.jpg" style="width: 100%;aspect-ratio: 16 / 9; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); filter: brightness(0.8);" />
+    <img src="/images/zhongkui-sister.jpg" style="width: 100%;aspect-ratio: 16 / 9; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); filter: brightness(0.8);" fetchpriority="high"/>
     
 <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80px; height: 80px; background: rgba(0,0,0,0.6); border-radius: 50%; display: flex; align-items: center; justify-content: center; border: 2px solid #fff;">
       <div style="width: 0; height: 0; border-top: 15px solid transparent; border-left: 25px solid white; border-bottom: 15px solid transparent; margin-left: 8px;"></div>
@@ -36,13 +36,13 @@
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 24px; margin: 24px 0;">
   <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #67c23a;">
-    <img src="/images/zhongkui-jiucai.jpg" style="width: 100%; aspect-ratio: 16 / 9;border-radius: 4px;" alt="拔韭菜" />
+    <img src="/images/zhongkui-jiucai.jpg" style="width: 100%; aspect-ratio: 16 / 9;border-radius: 4px;" alt="拔韭菜" loading="lazy"/>
     <h4 style="margin-top: 16px;">🌱 “拔韭菜”的隐喻</h4>
     <p style="color: #aaa; font-size: 0.9em;">画面中看似是在拔韭菜，有意思 ：）</p>
   </div>
 
   <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 8px; border-left: 4px solid #409eff;">
-    <img src="/images/zhongkui-sister.jpg" style="width: 100%; border-radius: 4px;" alt="钟馗妹妹做饭" />
+    <img src="/images/zhongkui-sister.jpg" style="width: 100%; border-radius: 4px;" alt="钟馗妹妹做饭" loading="lazy"/>
     <h4 style="margin-top: 16px;">🍲 钟馗之妹与人间烟火</h4>
     <p style="color: #aaa; font-size: 0.9em;">会不是是传说的钟馗妹妹？</p>
   </div>
