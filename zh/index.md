@@ -48,8 +48,8 @@ features:
     </h3>
     <p>“武侠朋克”的极致动作。在“组织”的阴影下，体验快节奏冷兵器格挡与杀伐之美。</p>
     <div class="image-row">
-      <img loading="lazy" src="/images/pbzero-1.jpg" alt="PBZ Combat" loading="lazy"/>
-      <img loading="lazy" src="/images/pbzero-2.jpg" alt="PBZ Style" loading="lazy"/>
+      <img loading="lazy" src="/images/pbzero-1.jpg" alt="PBZ Combat" />
+      <img loading="lazy" src="/images/pbzero-2.jpg" alt="PBZ Style" />
     </div>
     <a href="/zh/projects/phantom-blade" class="card-btn">入局暗黑 →</a>
   </div>
@@ -60,8 +60,8 @@ features:
     <h3>黑神话：悟空 (Black Myth: Wukong)</h3>
     <p>重走西游路，直面天命。以顶尖技术还原东方神话，开启中国 3A 游戏的新纪元。</p>
     <div class="image-row">
-      <img loading="lazy" src="/images/wukong-1.jpg" alt="Wukong Combat" loading="lazy"/>
-      <img loading="lazy" src="/images/wukong-2.jpg" alt="Wukong World" loading="lazy"/>
+      <img loading="lazy" src="/images/wukong-1.jpg" alt="Wukong Combat" />
+      <img loading="lazy" src="/images/wukong-2.jpg" alt="Wukong World" />
     </div>
     <a href="/zh/projects/wukong" class="card-btn">直面天命 →</a>
   </div>
@@ -72,8 +72,8 @@ features:
     <h3>明末：渊虚之羽 (WUCHANG: Fallen Feathers)</h3>
     <p>古蜀文明与克苏鲁风格的交织。揭开三星堆文化背后的血色面纱，探索暗黑巴蜀的末世景观。</p>
     <div class="image-row">
-      <img loading="lazy" src="/images/wuchang-1.jpg" alt="Wuchang Visual" loading="lazy"/>
-      <img loading="lazy" src="/images/wuchang-2.jpg" alt="Wuchang Action" loading="lazy"/>
+      <img loading="lazy" src="/images/wuchang-1.jpg" alt="Wuchang Visual" />
+      <img loading="lazy" src="/images/wuchang-2.jpg" alt="Wuchang Action" />
     </div>
     <a href="/zh/projects/wuchang" class="card-btn">探索巴蜀 →</a>
   </div>
@@ -84,8 +84,8 @@ features:
     <h3>燕云十六声 (Where Winds Meet)</h3>
     <p>五代十国背景下的开放世界武侠。无门无派，随心所欲，重塑真实的武侠生存法则。</p>
     <div class="image-row">
-      <img loading="lazy" src="/images/yanyun-1.jpg" alt="Yanyun Landscape" loading="lazy"/>
-      <img loading="lazy" src="/images/yanyun-2.jpg" alt="Yanyun Action" loading="lazy"/>
+      <img loading="lazy" src="/images/yanyun-1.jpg" alt="Yanyun Landscape" />
+      <img loading="lazy" src="/images/yanyun-2.jpg" alt="Yanyun Action" />
     </div>
     <a href="/zh/projects/yanyun" class="card-btn">步入燕云 →</a>
   </div>
