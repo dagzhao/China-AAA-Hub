@@ -56,6 +56,30 @@
     <h4 style="margin-top: 16px;">🍲 鍾馗の妹と生活の息吹</h4>
     <p style="color: #aaa; font-size: 0.9em;">伝説に登場する鍾馗の妹でしょうか？</p>
   </div>
+
+  <div style="background: rgba(255,255,255,0.05); padding: 24px; border-radius: 12px; border-left: 4px solid #929599; max-width: 800px; margin: 20px auto; font-family: sans-serif;">
+      <div style="display: flex; gap: 10px; margin-bottom: 20px;">
+          <div style="flex: 2;">
+              <img src="/images/hebang-1.jpg" style="width: 100%; height: 100%; object-fit: cover; border-radius: 6px;" alt="河蚌精（ドブガイの精霊）" loading="lazy"/>
+          </div>
+          <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
+              <img src="/images/hebang-2.jpg" style="width: 100%; height: calc(50% - 5px); object-fit: cover; border-radius: 6px;" alt="河蚌精（ドブガイの精霊）" loading="lazy"/>
+              <img src="/images/hebang-3.jpg" style="width: 100%; height: calc(50% - 5px); object-fit: cover; border-radius: 6px;" alt="河蚌精（ドブガイの精霊）" loading="lazy"/>
+          </div>
+      </div>
+      <h4 style="margin: 0 0 12px 0; color: #fff; font-size: 1.25em; display: flex; align-items: center;">
+          <span style="margin-right: 8px;">🦪</span> 河蚌精（ドブガイの精霊）
+      </h4>
+      <div style="color: #bbb; font-size: 0.95em; line-height: 1.6;">
+          <p style="margin-bottom: 10px;">
+              <strong style="color: #ddd;">ばんぶつせいせい：</strong>中国の伝統的な神怪文化では、あらゆるものに霊魂が宿り、修行ができると考えられています。普通の生き物が数百年にわたって天地の精華を吸収し、超常的な力を得ることを「成精」と呼びます。
+          </p>
+          <p style="margin: 0;">
+              <strong style="color: #ddd;">「巨大さ」は「強さ」の証：</strong>精霊（妖怪）としての格は、その**体の大きさ**に直結します。成人男性を遥かに上回るこの河蚌のサイズは、彼が極めて深い道行（修行の年月）を積んでいることを物語っています。
+          </p>
+      </div>
+  </div>
+
 </div>
 
 ::: tip 著作権声明

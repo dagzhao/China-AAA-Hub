@@ -46,6 +46,28 @@
     <h4 style="margin-top: 16px;">🍲 钟馗之妹与人间烟火</h4>
     <p style="color: #aaa; font-size: 0.9em;">会不是是传说的钟馗妹妹？</p>
   </div>
+  <div style="background: rgba(255,255,255,0.05); padding: 24px; border-radius: 12px; border-left: 4px solid #929599; max-width: 800px; margin: 20px auto; font-family: sans-serif;">
+      <div style="display: flex; gap: 10px; margin-bottom: 20px;">
+          <div style="flex: 2;">
+              <img src="/images/hebang-1.jpg" style="width: 100%; height: 100%; object-fit: cover; border-radius: 6px;" alt="河蚌正视图" loading="lazy"/>
+          </div>
+          <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
+              <img src="/images/hebang-2.jpg" style="width: 100%; height: calc(50% - 5px); object-fit: cover; border-radius: 6px;" alt="河蚌细节" loading="lazy"/>
+              <img src="/images/hebang-3.jpg" style="width: 100%; height: calc(50% - 5px); object-fit: cover; border-radius: 6px;" alt="河蚌场景" loading="lazy"/>
+          </div>
+      </div>
+      <h4 style="margin: 0 0 12px 0; color: #fff; font-size: 1.25em; display: flex; align-items: center;">
+          <span style="margin-right: 8px;">🦪</span> 河蚌精 (River Mussel Spirit)
+      </h4>
+      <div style="color: #bbb; font-size: 0.95em; line-height: 1.6;">
+          <p style="margin-bottom: 10px;">
+              <strong style="color: #ddd;">万物成精：</strong>在中国传统神怪文化中，万物皆可修行。一个生物要“成精”，通常需要吸收天地精华存活数百年。
+          </p>
+          <p style="margin: 0;">
+              <strong style="color: #ddd;">大即是强：</strong>成精的最直观特征就是体型巨大。图中这个河蚌比成年男子还大，足以说明其道行极深。
+          </p>
+      </div>
+  </div>
 </div>
 
 ::: tip 版权声明

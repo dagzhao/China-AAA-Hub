@@ -54,6 +54,29 @@ On the eve of the Year of the Horse, Feng Ji released this "eerie yet heartwarmi
     <h4 style="margin-top: 16px;">🍲 Zhong Kui's Sister & Daily Life</h4>
     <p style="color: #aaa; font-size: 0.9em;">Could this be the legendary sister of Zhong Kui?</p>
   </div>
+
+  <div style="background: rgba(255,255,255,0.05); padding: 24px; border-radius: 12px; border-left: 4px solid #929599; max-width: 800px; margin: 20px auto; font-family: sans-serif;">
+      <div style="display: flex; gap: 10px; margin-bottom: 20px;">
+          <div style="flex: 2;">
+              <img src="/images/hebang-1.jpg" style="width: 100%; height: 100%; object-fit: cover; border-radius: 6px;" alt="River Mussel Spirit" loading="lazy"/>
+          </div>
+          <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
+              <img src="/images/hebang-2.jpg" style="width: 100%; height: calc(50% - 5px); object-fit: cover; border-radius: 6px;" alt="River Mussel Spirit" loading="lazy"/>
+              <img src="/images/hebang-3.jpg" style="width: 100%; height: calc(50% - 5px); object-fit: cover; border-radius: 6px;" alt="River Mussel Spirit" loading="lazy"/>
+          </div>
+      </div>
+      <h4 style="margin: 0 0 12px 0; color: #fff; font-size: 1.25em; display: flex; align-items: center;">
+          <span style="margin-right: 8px;">🦪</span> River Mussel Spirit
+      </h4>
+      <div style="color: #bbb; font-size: 0.95em; line-height: 1.6;">
+          <p style="margin-bottom: 10px;">
+              <strong style="color: #ddd;">Cultivation Myth：</strong>In Chinese folklore, any living thing can attain spiritual powers through "cultivation" (absorbing essence for hundreds of years). This transformation is called *Cheng Jing*.
+          </p>
+          <p style="margin: 0;">
+              <strong style="color: #ddd;">CSize as Power：</strong>A spirit's power is often reflected by its *abnormal size*. A mussel larger than a human indicates it has "cultivated" for centuries as a supernatural entity (Yaoguai).
+          </p>
+      </div>
+  </div>
 </div>
 
 ::: tip Copyright Notice
