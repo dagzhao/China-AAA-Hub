@@ -14,7 +14,6 @@
   }
   .lcp-image {
     width: 100%;
-    aspect-ratio: 16 / 9;
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
     display: block;
@@ -71,7 +70,7 @@
   </a>
 </div>
 
-### 🏮 Insights from Feng Ji
+## 🏮 Insights from Feng Ji
 
 On the eve of the Year of the Horse, Feng Ji released this "eerie yet heartwarming" video for **Black Myth: Zhong Kui**. Quoting Nietzsche's **Twilight of the Idols**, he expressed a primal understanding of life: **Happiness often stems from the most stable source—"Eating."**
 
@@ -90,11 +89,11 @@ On the eve of the Year of the Horse, Feng Ji released this "eerie yet heartwarmi
 
 ---
 
-### 🔍 Breakdown of Details
+## 🔍 Breakdown of Details
 
 <div class="info-card" style="border-left-color: #67c23a;">
-  <img src="/images/zhongkui-jiucai.jpg" style="width: 100%; aspect-ratio: 16 / 9; border-radius: 4px;" alt="Pulling Leeks" loading="lazy"/>
-  <h4 style="margin-top: 16px;">🌱 The Metaphor of "Harvesting Leeks"</h4>
+  <img src="/images/zhongkui-jiucai.jpg" style="width: 100%;  border-radius: 4px;" alt="Pulling Leeks" loading="lazy"/>
+  <h3 style="margin-top: 16px; font-size: 1.1em;">🌱 The Metaphor of "Harvesting Leeks"</h3>
   <p style="color: #aaa; font-size: 0.9em;">It looks like they are harvesting leeks in the scene. Quite interesting :)</p>
 </div>
 
@@ -108,9 +107,9 @@ On the eve of the Year of the Horse, Feng Ji released this "eerie yet heartwarmi
       <img src="/images/hebang-3.jpg" style="width: 100%; border-radius: 6px;" alt="River Mussel Scene" loading="lazy"/>
     </div>
   </div>
-  <h4 style="margin: 0 0 12px 0; color: #fff; font-size: 1.25em; display: flex; align-items: center;">
+  <h3 style="margin: 0 0 12px 0; color: #fff; font-size: 1.25em; display: flex; align-items: center;">
       <span style="margin-right: 8px;">🦪</span> River Mussel Spirit
-  </h4>
+  </h3>
   <div style="color: #bbb; font-size: 0.95em; line-height: 1.6;">
       <p style="margin-bottom: 10px;"><strong style="color: #ddd;">Cultivation Myth:</strong> In folklore, entities become spirits (*Cheng Jing*) by absorbing essence for centuries.</p>
       <p style="margin: 0;"><strong style="color: #ddd;">Size as Power:</strong> Abnormal size indicates immense spiritual power and centuries of cultivation.</p>

@@ -14,7 +14,6 @@
   }
   .lcp-image {
     width: 100%;
-    aspect-ratio: 16 / 9;
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
     display: block;
@@ -72,7 +71,7 @@
   </a>
 </div>
 
-### 🏮 冯骥的新年感悟
+## 🏮 冯骥的新年感悟
 
 在马年春节前夕，冯骥发布了《黑神话：钟馗》的这段“猎奇又温馨”的视频。他借用尼采在《偶像的黄昏》中的名言，表达了对生活最质朴的理解：**幸福感往往来自于最稳定的“吃”。**
 
@@ -99,11 +98,11 @@
 
 ---
 
-### 🔍 视频细节拆解
+## 🔍 视频细节拆解
 
 <div class="card-box" style="border-left-color: #67c23a;">
-  <img src="/images/zhongkui-jiucai.jpg" style="width: 100%; aspect-ratio: 16 / 9; border-radius: 4px;" alt="拔韭菜" loading="lazy"/>
-  <h4 style="margin-top: 16px;">🌱 “拔韭菜”的隐喻</h4>
+  <img src="/images/zhongkui-jiucai.jpg" style="width: 100%;  border-radius: 4px;" alt="拔韭菜" loading="lazy"/>
+  <h3 style="margin-top: 16px; font-size: 1.1em;">🌱 “拔韭菜”的隐喻</h3>
   <p style="color: #aaa; font-size: 0.9em;">画面中看似是在拔韭菜，有意思 ：）</p>
 </div>
 
@@ -117,9 +116,9 @@
       <img src="/images/hebang-3.jpg" style="width: 100%; border-radius: 6px;" alt="河蚌场景" loading="lazy"/>
     </div>
   </div>
-  <h4 style="margin: 0 0 12px 0; color: #fff; font-size: 1.25em; display: flex; align-items: center;">
-      <span style="margin-right: 8px;">🦪</span> 河蚌精 (River Mussel Spirit)
-  </h4>
+  <h3 style="margin: 0 0 12px 0; color: #fff; font-size: 1.25em; display: flex; align-items: center;">
+    <span style="margin-right: 8px;">🦪</span> 河蚌精 (River Mussel Spirit)
+  </h3>
   <div style="color: #bbb; font-size: 0.95em; line-height: 1.6;">
       <p style="margin-bottom: 10px;"><strong style="color: #ddd;">万物成精：</strong>中国神怪文化中，万物吸收天地精华即可“成精”。</p>
       <p style="margin: 0;"><strong style="color: #ddd;">大即是强：</strong>体型巨大象征道行极深。</p>
