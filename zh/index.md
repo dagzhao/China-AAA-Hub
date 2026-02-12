@@ -23,6 +23,8 @@ features:
 
 ---
 
+<main>
+
 ## 🎮 游戏展示 (Games)
 
 ::: {class="special-sections"}
@@ -90,9 +92,6 @@ features:
     <a href="/zh/projects/yanyun" class="card-btn">步入燕云 →</a>
   </div>
 </div>
-
-:::
-
 ---
 
 <div class="special-sections">
@@ -105,6 +104,8 @@ features:
     </div>
   </section>
 </div>
+
+</main>
 
 <style>
 /* 复用之前的样式即可，建议放在 .vitepress/theme/custom.css 中以保持代码整洁 */

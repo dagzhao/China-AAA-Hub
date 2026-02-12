@@ -22,7 +22,7 @@ features:
     details: From Black Myth to upcoming titles, we track the evolution of Chinese game industry.
 
 ---
-
+<main>
 ## 🎮 Games Showcase
 
 ::: {class="special-sections"}
@@ -106,6 +106,8 @@ features:
     </div>
   </section>
 </div>
+
+</main>
 
 <style>
 .special-sections {
