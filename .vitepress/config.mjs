@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  cleanUrls: true, // 核心配置：开启后，VitePress 会生成不带后缀的链接
   appearance: 'dark',
   title: "China AAA Games",
   description: "Decoding the new era of Chinese AAA games",
