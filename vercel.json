@@ -1,11 +1,12 @@
 {
+  "cleanUrls": true,
   "headers": [
     {
       "source": "/videos/(.*)",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "https://china-aaa-games.vercel.app"
+          "value": "https://china3agames.com"
         }
       ]
     }
