@@ -31,19 +31,21 @@ The protagonist, **Soul**, is framed for the murder of the Patriarch. Rescued by
 </div>
 
 ### 3. Combat: Redefining the Art of Slaughter
-Directed by **Kenji Tanigaki** (Action Director of the *Rurouni Kenshin* live-action films), the game focuses on intense, high-speed weapon collisions.
+
+Directed by **Kenji Tanigaki** (Action Director of the **Rurouni Kenshin** live-action films), the game focuses on intense, high-speed weapon collisions.
 
 - **Flash Kill & Parry**: Fast-paced tactical combat with cinematic fluidity in every strike.
 - **The Phantom World**: A unique "Wuxia Punk" aesthetic blending steampunk elements with traditional martial arts themes.
 
 ### 4. Release Date Update: October 29, 2026
 
-> **Important Update**: The release date for *Phantom Blade Zero* has been adjusted.
+**Important Update:** The release date for **Phantom Blade Zero** has been adjusted.
 
 Originally scheduled for a **global simultaneous release on September 9, 2026**, the game will now launch on **October 29, 2026**.
 
 The game will be available on **PlayStation 5** and **PC** (Steam, Epic Games Store), built with **Unreal Engine 5**, and is a **premium one-time purchase single-player action RPG**.
 
-> Pre-orders and the full gameplay trailer will open in **Summer 2026**. Sony will also host a dedicated **State of Play** for *Phantom Blade Zero* in late summer, featuring 15–20 minutes of deep dive gameplay analysis.
+Pre-orders and the full gameplay trailer will open in **Summer 2026**. Sony will also host a dedicated **State of Play** for **Phantom Blade Zero** in late summer, featuring 15–20 minutes of deep dive gameplay analysis.
 
-The countdown has begun — with less than half a year left until Soul's 66-day lifespan ends. Are you ready to battle fate on **October 29**?
+The countdown has begun — with less than half a year left until Soul's **66-day lifespan** ends.  
+Are you ready to battle fate on **October 29**?
