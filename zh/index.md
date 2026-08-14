@@ -46,7 +46,7 @@ features:
 <div class="project-card-custom">
   <div class="card-content">
     <h3>影之刃零 (Phantom Blade Zero)
-    <span class="badge-upcoming">期待作</span>
+    <span class="badge-upcoming">预购开启</span>
     </h3>
     <p>“武侠朋克”的极致动作。在“组织”的阴影下，体验快节奏冷兵器格挡与杀伐之美。</p>
     <div class="image-row">

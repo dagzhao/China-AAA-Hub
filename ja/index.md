@@ -46,7 +46,7 @@ features:
 <div class="project-card-custom">
   <div class="card-content">
     <h3>影之刃零 (Phantom Blade Zero)
-    <span class="badge-upcoming">期待作</span>
+    <span class="badge-upcoming">予約受付中</span>
     </h3>
     <p>「武侠パンク」究極のアクション。影の組織の暗躍する世界で、ハイスピードな冷兵器によるパリィと殺戮の美学を体験する。</p>
     <div class="image-row">

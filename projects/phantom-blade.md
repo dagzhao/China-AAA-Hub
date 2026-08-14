@@ -37,15 +37,21 @@ Directed by **Kenji Tanigaki** (Action Director of the **Rurouni Kenshin** live-
 - **Flash Kill & Parry**: Fast-paced tactical combat with cinematic fluidity in every strike.
 - **The Phantom World**: A unique "Wuxia Punk" aesthetic blending steampunk elements with traditional martial arts themes.
 
-## 4. Release Date Update: October 29, 2026
+## 4. Pre-Orders Live: October 29, 2026
 
-**Important Update:** The release date for **Phantom Blade Zero** has been adjusted.
+**Pre-orders are now open worldwide!** Pre-orders opened on **August 11, 2026 at 7 PM PT** (August 12, 10 AM Beijing Time for platform pre-sale), alongside a brand-new **11-minute extended gameplay trailer** released by PlayStation.
 
-Originally scheduled for a **global simultaneous release on September 9, 2026**, the game will now launch on **October 29, 2026**.
+> 📅 **Dedicated State of Play:** Sony will host an exclusive State of Play for *Phantom Blade Zero* on **August 17, 2026 at 7 PM PT** (August 18, 10 AM Beijing Time), featuring nearly **20 minutes** of deep-dive gameplay analysis.
 
-The game will be available on **PlayStation 5** and **PC** (Steam, Epic Games Store), built with **Unreal Engine 5**, and is a **premium one-time purchase single-player action RPG**.
+**Pre-Order Bonuses:**
+* **Treasure Basin** accessory
+* **Legacy** outfit — an early unlock that can also be obtained through gameplay
 
-Pre-orders and the full gameplay trailer will open in **Summer 2026**. Sony will also host a dedicated **State of Play** for **Phantom Blade Zero** in late summer, featuring 15–20 minutes of deep dive gameplay analysis.
+**Donnie Yen:** Since **2023**, martial arts superstar **Donnie Yen** has served as a **creative consultant** for the project. In the game, he performs the face and motion capture for **Mó Yuan** — the father of protagonist **Soul**, whose fate is bound to Soul's 66-day countdown.
 
-The countdown has begun — with less than half a year left until Soul's **66-day lifespan** ends.  
+**China Pricing:** Standard Edition **¥268** (pre-order price **¥258**), Deluxe Edition **¥328**.
+
+The game launches on **October 29, 2026** for **PlayStation 5** and **PC** (Steam, Epic Games Store), built with **Unreal Engine 5** as a **premium one-time purchase single-player action RPG**.
+
+The countdown continues — with just over two months left until Soul's **66-day lifespan** ends.  
 Are you ready to battle fate on **October 29**?

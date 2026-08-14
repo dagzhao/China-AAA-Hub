@@ -155,6 +155,14 @@ Figure 3 reveals a fascinating multicultural narrative through the lady's entour
   <i>Game Science's New Title | Black Myth: Zhong Kui - Teaser Trailer.</i>
 </p>
 
+### 📰 Latest Updates: No AIGC & August 20 Expectations
+
+**"Handcrafted, No AIGC":** On **August 10, 2026**, Game Science co-founder and art director **Yang Qi** responded to fan questions about *Black Myth: Zhong Kui*. He stated that the team will **deliberately avoid AI-generated content (AIGC) tools** in the game's design and asset production, insisting on handcrafted creation.
+
+**August 20 — "A Simple Meal":** Asked whether a major reveal is coming on **August 20** (the second anniversary of *Black Myth: Wukong*), Yang Qi hinted that players should not expect big gameplay footage or a new trailer. Instead, he described it as a "gathering of old friends" and a "simple meal" — suggesting a lightweight CG piece, possibly in the style of the studio's previous New Year short films.
+
+> Note: The AIGC stance applies to the design and asset-creation phase of *Zhong Kui*. The "simple meal" remark is a hint to manage expectations, not a confirmed roadmap.
+
 ### 🗡️ Weapon: The Seven-Star Sword
 Visuals suggest his primary weapon is the **Seven-Star Sword**, a Taoist relic capable of channeling celestial power.
 
@@ -225,5 +233,4 @@ The white rat perched on the sealed urn in the lower right hints at Taoist seals
 ::: tip Copyright Notice
 The research content on this site is collected and curated by the **China AAA Games** team. You are welcome to cite or share this content, provided that you give appropriate credit and link back to the original source: [china3agames.com](https://china3agames.com).
 :::
-
 

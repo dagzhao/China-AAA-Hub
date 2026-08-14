@@ -44,7 +44,7 @@ features:
 <div class="project-card-custom">
   <div class="card-content">
     <h3>Phantom Blade Zero
-    <span class="badge-upcoming">Wishlist</span>
+    <span class="badge-upcoming">Pre-Orders Open</span>
     </h3>
     <p>The ultimate "Wuxia Punk" action. Under the shadow of "The Organization," experience fast-paced cold weapon parrying and the brutal beauty of assassination.</p>
     <div class="image-row">
