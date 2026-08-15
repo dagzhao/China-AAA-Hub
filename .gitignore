@@ -15,3 +15,6 @@ Thumbs.db
 .vscode/
 .cursor/
 .vercel
+
+# 排除 VitePress 构建缓存
+.vitepress/cache/
