@@ -41,7 +41,7 @@ Directed by **Kenji Tanigaki** (Action Director of the **Rurouni Kenshin** live-
 
 **Pre-orders are now open worldwide!** Pre-orders opened on **August 11, 2026 at 7 PM PT** (August 12, 10 AM Beijing Time for platform pre-sale), alongside a brand-new **11-minute extended gameplay trailer** released by PlayStation.
 
-> 📅 **Dedicated State of Play:** Sony will host an exclusive State of Play for *Phantom Blade Zero* on **August 17, 2026 at 7 PM PT** (August 18, 10 AM Beijing Time), featuring nearly **20 minutes** of deep-dive gameplay analysis.
+> 📅 **Dedicated State of Play (Recap):** Sony hosted an exclusive State of Play for *Phantom Blade Zero* on **August 17, 2026 at 7 PM PT** (August 18, 10 AM Beijing Time), delivering nearly **20 minutes** of deep-dive gameplay analysis. Full highlights in **Section 5** below.
 
 **Pre-Order Bonuses:**
 * **Treasure Basin** accessory
@@ -52,6 +52,18 @@ Directed by **Kenji Tanigaki** (Action Director of the **Rurouni Kenshin** live-
 **China Pricing:** Standard Edition **¥268** (pre-order price **¥258**), Deluxe Edition **¥328**.
 
 The game launches on **October 29, 2026** for **PlayStation 5** and **PC** (Steam, Epic Games Store), built with **Unreal Engine 5** as a **premium one-time purchase single-player action RPG**.
+
+## 5. State of Play Deep Dive: What We Learned
+
+Sony's dedicated State of Play delivered nearly **20 minutes** of deep-dive gameplay covering combat, weapons, and the Wulin world. Key reveals:
+
+- **Four difficulty levels**, topped by the brutal **"66 Days" mode (六十六天)** — the protagonist's 66-day countdown becomes a game system: you have only **66 lives**, each defeat consumes one, and depleting them all **deletes your save** and forces a fresh start. This mode unlocks in **New Game +**.
+- **A deep weapon system** — reportedly **50+ weapons** including the **Drunken Sword (醉剑)**, **Twin Swords (双剑)**, **Lion Head (狮头)** and **Tiger Cannon (虎炮)**, each with its own moveset.
+- **New bosses & characters** — a blazing **lion-dance boss (Lion Dance Lord / 舞狮尊主)**, the sword-obsessed **Jian Chi (剑痴)**, and a mysterious **white-haired female character**; the full **game map** was revealed for the first time.
+- **PS5 features trailer** — the PS5 version showcases **adaptive triggers, haptic feedback and 3D audio** for immersive combat.
+- **Donnie Yen's Mó Yuán is a hidden boss** — producer **Liang Qiwei** confirmed that Soul's father Mó Yuán appears as a **secret boss**, unlocked by completing specific trials.
+- The main story reportedly spans **30–40 hours** with **multiple endings**.
+- Despite pre-show rumors, **no PS5 demo** was announced during the event.
 
 The countdown continues — with just over two months left until Soul's **66-day lifespan** ends.  
 Are you ready to battle fate on **October 29**?
