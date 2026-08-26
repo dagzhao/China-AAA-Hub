@@ -155,6 +155,27 @@ Figure 3 reveals a fascinating multicultural narrative through the lady's entour
   <i>Game Science's New Title | Black Myth: Zhong Kui - Teaser Trailer.</i>
 </p>
 
+<div style="position: relative; max-width: 900px; margin: 30px auto; border: 1px solid #333; border-radius: 12px; overflow: hidden; background: #000; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; pointer-events: none; display: flex; justify-content: flex-end; align-items: flex-end; padding: 20px; opacity: 0.5;">
+    <span style="color: white; font-size: 14px; text-shadow: 1px 1px 2px #000; font-family: sans-serif;">china3agames.com</span>
+  </div>
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+    <iframe
+      src="https://www.youtube.com/embed/oi2QgPH61JM"
+      title="Black Myth: Zhong Kui – 15 Minutes Gameplay Trailer"
+      frameborder="0"
+      loading="lazy"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+  </div>
+</div>
+
+<p style="text-align: center; color: #888; font-size: 0.9em; margin-top: 6px; margin-bottom: 30px;">
+  <i>Black Myth: Zhong Kui – 15 Minutes Gameplay Trailer.</i>
+</p>
+
 ### 📰 Latest Updates: No AIGC & August 20 Expectations
 
 **"Handcrafted, No AIGC":** On **August 10, 2026**, Game Science co-founder and art director **Yang Qi** responded to fan questions about *Black Myth: Zhong Kui*. He stated that the team will **deliberately avoid AI-generated content (AIGC) tools** in the game's design and asset production, insisting on handcrafted creation.

@@ -148,6 +148,27 @@
   <i>Game Science's New Title | Black Myth: Zhong Kui - Teaser Trailer</i>
 </p>
 
+<div style="position: relative; max-width: 900px; margin: 30px auto; border: 1px solid #333; border-radius: 12px; overflow: hidden; background: #000; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; pointer-events: none; display: flex; justify-content: flex-end; align-items: flex-end; padding: 20px; opacity: 0.5;">
+    <span style="color: white; font-size: 14px; text-shadow: 1px 1px 2px #000; font-family: sans-serif;">china3agames.com</span>
+  </div>
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+    <iframe
+      src="https://www.youtube.com/embed/oi2QgPH61JM"
+      title="黒神話：鍾馗 – 15分の実機プレイ映像トレーラー"
+      frameborder="0"
+      loading="lazy"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+  </div>
+</div>
+
+<p style="text-align: center; color: #888; font-size: 0.9em; margin-top: 6px; margin-bottom: 30px;">
+  <i>黒神話：鍾馗 – 15分の実機プレイ映像トレーラー</i>
+</p>
+
 ### 📰 最新情報：AIGC不使用と8月20日の見通し
 
 **「手作り、AIGCなし」：** **2026年8月10日**、Game Scienceの共同創設者兼アートディレクター **楊奇（ヤン・チー）** は、『黒神話：鍾馗』に関するファンの質問に応え、ゲームのデザインとアセット制作において **AIGC（生成AI）ツールを意図的に避け**、あくまで手作業での創作を貫くと表明しました。

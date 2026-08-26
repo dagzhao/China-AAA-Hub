@@ -156,6 +156,27 @@
   <i>游戏科学新作 | 《黑神话：钟馗》- 先导预告片</i>
 </p>
 
+<div style="position: relative; max-width: 900px; margin: 30px auto; border: 1px solid #333; border-radius: 12px; overflow: hidden; background: #000; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; pointer-events: none; display: flex; justify-content: flex-end; align-items: flex-end; padding: 20px; opacity: 0.5;">
+    <span style="color: white; font-size: 14px; text-shadow: 1px 1px 2px #000; font-family: sans-serif;">china3agames.com</span>
+  </div>
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+    <iframe
+      src="https://www.youtube.com/embed/oi2QgPH61JM"
+      title="黑神话：钟馗 – 15 分钟实机演示预告片"
+      frameborder="0"
+      loading="lazy"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+  </div>
+</div>
+
+<p style="text-align: center; color: #888; font-size: 0.9em; margin-top: 6px; margin-bottom: 30px;">
+  <i>《黑神话：钟馗》- 15 分钟实机演示预告片</i>
+</p>
+
 ### 📰 最新动态：拒绝AIGC与8月20日预期
 
 **“手搓，不用AIGC”：** **2026年8月10日**，游戏科学联合创始人、美术总监 **杨奇** 在回应玩家关于《黑神话：钟馗》的提问时表示，游戏的设计与资产制作将**主动避开 AIGC 生成式工具**，坚持人工创作（“手搓”）。
