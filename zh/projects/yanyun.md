@@ -26,5 +26,6 @@
 * **「皇宫」**（2026年5月28日）：首部大型资料片。
 * **「不见山」**（2026年7月23日）：第二部大型资料片。
 * **「不见山」第二章「天陉」**（2026年8月20日）：新增巨型机械 BOSS、醉拳等全新招式。
+* **2.2 版本「Perilous Eminence」**（2026年9月16日）：**「不见山」主线迎来终章**——新增 **Skyward City Ruins** 战役、反派 **Qianye the Witch** 回归、两大世界 BOSS（**Golden Colossus Taicu** 与 **Goshawk**）、多人撤离玩法 **Transdust Ruins**（9月23日）、**Wildtrail Journal – Ruffled Up** 玩法，以及 **Chilled Current** 战令赛季。
 
 **Gamescom 2026：** 网易将携《燕云十六声》参展 **2026科隆游戏展**（8月26日–30日，Hall 7.1，展位 B-050），并提供「不见山」资料片的压轴试玩 Demo。

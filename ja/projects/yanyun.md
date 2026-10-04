@@ -26,5 +26,6 @@
 * **「皇宫（Imperial Palace）」**（2026年5月28日）：第1弾大型拡張。
 * **「不見山（Hidden Mountain）」**（2026年7月23日）：第2弾大型拡張。
 * **「不見山」第2章「天陉（Heaven's Threshold）」**（2026年8月20日）：巨大機械ボスや酔拳など新たな技を追加。
+* **Ver 2.2「Perilous Eminence」**（2026年9月16日）：**「不見山」本編のフィナーレ**——新キャンペーン **Skyward City Ruins**、敵役 **Qianye the Witch** の復帰、新ワールドボス2体（**Golden Colossus Taicu**／**Goshawk**）、マルチ対戦モード **Transdust Ruins**（9月23日）、**Wildtrail Journal – Ruffled Up**、そして **Chilled Current** バトルパスシーズンが開幕。
 
 **Gamescom 2026：** NetEaseは **gamescom 2026**（ケルン、8月26日〜30日、Hall 7.1、ブース B-050）に出展し、「不見山」拡張の試遊デモを提供します。

@@ -26,5 +26,6 @@ Set during the turbulent end of the Five Dynasties and Ten Kingdoms period, the 
 * **Imperial Palace** (May 28, 2026): the first major expansion.
 * **Hidden Mountain** (July 23, 2026): the second major expansion.
 * **Hidden Mountain Chapter 2: "Heaven's Threshold"** (August 20, 2026): a new giant mechanical boss, Drunken Fist techniques, and more.
+* **Version 2.2 "Perilous Eminence"** (September 16, 2026): the **finale of the Hidden Mountain storyline** — the **Skyward City Ruins** campaign, the return of villain **Qianye the Witch**, two new world bosses (**Golden Colossus Taicu** and **Goshawk**), the **Transdust Ruins** multiplayer extraction mode (September 23), the **Wildtrail Journal – Ruffled Up** mode, and the **Chilled Current** battle pass season.
 
 **Gamescom 2026:** NetEase will showcase *Where Winds Meet* at **Gamescom 2026** (Cologne, August 26–30, Hall 7.1, Booth B-050), featuring a playable demo of the Hidden Mountain expansion as the finale.

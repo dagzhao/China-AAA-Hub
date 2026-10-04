@@ -39,6 +39,8 @@ Directed by **Kenji Tanigaki** (Action Director of the **Rurouni Kenshin** live-
 
 ## 4. Pre-Orders Live: October 29, 2026
 
+> ✅ **Gone Gold:** On **August 7, 2026**, S-GAME confirmed that development on *Phantom Blade Zero* is **complete** — unusually early, more than two months ahead of launch.
+
 **Pre-orders are now open worldwide!** Pre-orders opened on **August 11, 2026 at 7 PM PT** (August 12, 10 AM Beijing Time for platform pre-sale), alongside a brand-new **11-minute extended gameplay trailer** released by PlayStation.
 
 > 📅 **Dedicated State of Play (Recap):** Sony hosted an exclusive State of Play for *Phantom Blade Zero* on **August 17, 2026 at 7 PM PT** (August 18, 10 AM Beijing Time), delivering nearly **20 minutes** of deep-dive gameplay analysis. Full highlights in **Section 5** below.
