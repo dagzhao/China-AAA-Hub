@@ -47,6 +47,13 @@ export default defineConfig({
               { text: 'Where Winds Meet', link: '/projects/yanyun' },
               { text: 'Phantom Blade Zero', link: '/projects/phantom-blade' }
             ]
+          },
+          {
+            text: 'Tools',
+            items: [
+              { text: 'Archetype Quiz', link: '/quiz' },
+              { text: 'Culture Glossary', link: '/glossary' }
+            ]
           }
         ],
         sidebar: {
@@ -89,6 +96,13 @@ export default defineConfig({
               { text: '燕云十六声', link: '/zh/projects/yanyun' },
               { text: '影之刃零', link: '/zh/projects/phantom-blade' }
             ]
+          },
+          {
+            text: '小工具',
+            items: [
+              { text: '神话人格测验', link: '/zh/quiz' },
+              { text: '文化解码词典', link: '/zh/glossary' }
+            ]
           }
         ],
         sidebar: {
@@ -130,6 +144,13 @@ export default defineConfig({
               { text: '明末：淵虚之羽', link: '/ja/projects/wuchang' },
               { text: '燕雲十六声', link: '/ja/projects/yanyun' },
               { text: '影之刃零', link: '/ja/projects/phantom-blade' }
+            ]
+          },
+          {
+            text: 'ツール',
+            items: [
+              { text: '神話原型診断', link: '/ja/quiz' },
+              { text: '文化デコード辞典', link: '/ja/glossary' }
             ]
           }
         ],
