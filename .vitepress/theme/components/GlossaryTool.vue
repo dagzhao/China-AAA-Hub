@@ -111,7 +111,7 @@ function clear() {
     </div>
 
     <div v-if="visible.length" class="glossary-grid">
-      <article v-for="entry in visible" :key="entry.id" class="glossary-card">
+      <article v-for="entry in visible" :id="entry.id" :key="entry.id" class="glossary-card">
         <p class="glossary-card-cat">
           {{ categoryLabel(CATEGORIES.find((c) => c.id === entry.category)) }}
         </p>

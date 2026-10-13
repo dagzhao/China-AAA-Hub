@@ -231,3 +231,36 @@ h1, h2, h3 {
 .VPNavBarAppearance {
   display: none !important;
 }
+
+/* --- 折叠块（::: details）：把整块卡片变成可点击区域 ---
+   VitePress 默认把 padding 加在容器上，而只有 summary 能触发展开，
+   于是卡片上下各留了约 17px 的"点了没反应"的死区。
+   这里把 padding 移到 summary 自己身上，整块区域都能点。 */
+.vp-doc .custom-block.details {
+  padding: 0;
+}
+
+.vp-doc .custom-block.details > summary {
+  margin: 0;
+  padding: 13px 16px;
+  transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+.vp-doc .custom-block.details:not([open]) > summary {
+  border-radius: 8px;
+}
+
+.vp-doc .custom-block.details > summary:hover {
+  color: var(--vp-c-brand-light);
+  background-color: rgba(163, 0, 0, 0.07);
+}
+
+/* 展开后容器恢复左右留白，summary 再用负 margin 拉回铺满整宽 */
+.vp-doc .custom-block.details[open] {
+  padding: 0 16px 10px;
+}
+
+.vp-doc .custom-block.details[open] > summary {
+  margin: 0 -16px;
+  padding-bottom: 10px;
+}
