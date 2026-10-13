@@ -27,7 +27,7 @@ features:
 
 ## 🎮 游戏展示 (Games)
 
-::: {class="special-sections"}
+<div class="special-sections">
 
 <div class="project-card-custom">
   <div class="card-content">
@@ -92,6 +92,31 @@ features:
     <a href="/zh/projects/yanyun" class="card-btn">步入燕云 →</a>
   </div>
 </div>
+
+</div>
+
+---
+
+## 🧰 小工具
+
+<div class="tool-grid">
+  <a class="tool-card" href="/zh/quiz">
+    <span class="tool-card-icon">🔮</span>
+    <h3>神话人格测验</h3>
+    <p>六道意象题，没有标准答案。天命人、钟馗、炼气士、影刃、无名者、游侠——这六种原型，你一直在演的是哪一个。</p>
+    <span class="tool-card-meta">6 道题 · 约 90 秒</span>
+    <span class="tool-card-cta">开始测验 →</span>
+  </a>
+
+  <a class="tool-card" href="/zh/glossary">
+    <span class="tool-card-icon">📖</span>
+    <h3>文化解码词典</h3>
+    <p>39 条中国游戏默认你早就该懂的词——妖、气、五行、因果、丹田。支持中文、拼音、英文、日文四路检索。</p>
+    <span class="tool-card-meta">39 条词条 · 5 大分类</span>
+    <span class="tool-card-cta">打开词典 →</span>
+  </a>
+</div>
+
 ---
 
 <div class="special-sections">

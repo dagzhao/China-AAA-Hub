@@ -25,7 +25,7 @@ features:
 <main>
 ## 🎮 Games Showcase
 
-::: {class="special-sections"}
+<div class="special-sections">
 
 <div class="project-card-custom">
   <div class="card-content">
@@ -91,7 +91,29 @@ features:
   </div>
 </div>
 
-:::
+</div>
+
+---
+
+## 🧰 Tools
+
+<div class="tool-grid">
+  <a class="tool-card" href="/quiz">
+    <span class="tool-card-icon">🔮</span>
+    <h3>Archetype Quiz</h3>
+    <p>Six questions, no right answers. Find out which of six archetypes you have been playing all along — the rebel, the judge, the alchemist, the blade, the nameless, the wanderer.</p>
+    <span class="tool-card-meta">6 questions · about 90 seconds</span>
+    <span class="tool-card-cta">Take the quiz →</span>
+  </a>
+
+  <a class="tool-card" href="/glossary">
+    <span class="tool-card-icon">📖</span>
+    <h3>Culture Glossary</h3>
+    <p>39 terms Chinese games assume you already know — yao, qi, wuxing, karma, dantian. Search by English, Chinese, pinyin, or Japanese.</p>
+    <span class="tool-card-meta">39 entries · 5 categories</span>
+    <span class="tool-card-cta">Open the glossary →</span>
+  </a>
+</div>
 
 ---
 

@@ -26,7 +26,7 @@ features:
 <main>
 ## 🎮 主要プロジェクト 
 
-::: {class="special-sections"}
+<div class="special-sections">
 
 <div class="project-card-custom">
   <div class="card-content">
@@ -53,7 +53,7 @@ features:
       <img src="/images/pbzero-1.jpg" alt="影之刃零の戦闘クローズアップ" loading="lazy"/>
       <img src="/images/pbzero-2.jpg" alt="影之刃零のスタイルアート" loading="lazy"/>
     </div>
-    <a href="/projects/phantom-blade" class="card-btn">闇に加わる →</a>
+    <a href="/ja/projects/phantom-blade" class="card-btn">闇に加わる →</a>
   </div>
 </div>
 
@@ -65,7 +65,7 @@ features:
       <img src="/images/wukong-1.jpg" alt="悟空の戦闘シーン" loading="lazy"/>
       <img src="/images/wukong-2.jpg" alt="悟空のゲーム世界風景" loading="lazy"/>
     </div>
-    <a href="/projects/wukong" class="card-btn">天命に挑む →</a>
+    <a href="/ja/projects/wukong" class="card-btn">天命に挑む →</a>
   </div>
 </div>
 
@@ -77,7 +77,7 @@ features:
       <img src="/images/wuchang-1.jpg" alt="明末のキャラクタービジュアル" loading="lazy"/>
       <img src="/images/wuchang-2.jpg" alt="明末の古代怪物" loading="lazy"/>
     </div>
-    <a href="/projects/wuchang" class="card-btn">巴蜀を探索 →</a>
+    <a href="/ja/projects/wuchang" class="card-btn">巴蜀を探索 →</a>
   </div>
 </div>
 
@@ -89,11 +89,33 @@ features:
       <img src="/images/yanyun-1.jpg" alt="燕雲の風景" loading="lazy"/>
       <img src="/images/yanyun-2.jpg" alt="燕雲の戦闘シーン" loading="lazy"/>
     </div>
-    <a href="/projects/yanyun" class="card-btn">燕雲へ足を踏み入れる →</a>
+    <a href="/ja/projects/yanyun" class="card-btn">燕雲へ足を踏み入れる →</a>
   </div>
 </div>
 
-:::
+</div>
+
+---
+
+## 🧰 ツール
+
+<div class="tool-grid">
+  <a class="tool-card" href="/ja/quiz">
+    <span class="tool-card-icon">🔮</span>
+    <h3>神話原型診断</h3>
+    <p>六つの問い、正解はありません。天命人、鍾馗、煉気士、影刃、無名者、遊侠——あなたがずっと演じてきたのは、どの原型でしょうか。</p>
+    <span class="tool-card-meta">全6問 · 約90秒</span>
+    <span class="tool-card-cta">診断を始める →</span>
+  </a>
+
+  <a class="tool-card" href="/ja/glossary">
+    <span class="tool-card-icon">📖</span>
+    <h3>文化デコード辞典</h3>
+    <p>中国のゲームが「知っていて当然」として使う39の言葉——妖、気、五行、因果、丹田。日本語・中国語・ピンインで検索できます。</p>
+    <span class="tool-card-meta">全39項目 · 5カテゴリ</span>
+    <span class="tool-card-cta">辞典を開く →</span>
+  </a>
+</div>
 
 ---
 
