@@ -1,17 +1,24 @@
 # Culture 101: The Player's Manual
 
-Confused by the flying gourds or why everyone is talking about "Destiny"? You've come to the right place. To master Chinese AAA games, you need to understand the **Logic of the East**.
+Confused by the flying gourds, or why everyone keeps talking about "Destiny"? You are in the right place. To play these games properly you need the **Logic of the East** — and it turns out to be teachable.
 
-### 🎓 Core Curriculum
+### 🎓 How each module works
+
+Four modules. Each one is built in three layers:
+
+1. **What you see on screen** — a cheat sheet of the symbols, each one linking straight to its glossary entry.
+2. **How the pieces connect** — the ideas underneath, folded behind panels you can open or ignore.
+3. **Where it came from** — the actual texts, with dates, authors, and arguments attached.
 
 | Module | Topic | Why it matters |
 | :--- | :--- | :--- |
-| **01** | **[The Taoism Code](./taoism)** | Alchemy, Talismans, and the "Qi" system. |
-| **02** | **The Three Realms** | Heaven, Earth, and the Underworld (Zhong Kui's domain). |
-| **03** | **Samsara & Karma** | Why death is just a new beginning in these stories. |
-| **04** | **Beasts & Myths** | From the *Classic of Mountains and Seas* to modern bosses. |
+| **01** | **[The Taoism Code](./taoism)** | Alchemy, talismans, and the "qi" system behind every combat design. |
+| **02** | **[The Three Realms](./three-realms)** | Heaven, earth, and the underworld — Zhong Kui's jurisdiction. |
+| **03** | **[Samsara & Karma](./karma)** | Why death is never the end in these stories. |
+| **04** | **[Beasts & Myths](./beasts)** | From the *Classic of Mountains and Seas* to modern boss design. |
 
 ---
 
-### 🏮 Ready to begin?
-Start with **[Lesson 01: Taoism 101](./taoism)** to unlock the secrets of internal alchemy and combat metaphysics.
+### 🏮 Ready?
+
+Start with **[Module 01 · The Taoism Code](./taoism)** — or jump straight to **[The Glossary](../glossary)** if you only want to look something up.

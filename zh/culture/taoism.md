@@ -201,4 +201,5 @@ Boss 抡起重击的时候，游戏奖励你迎上去接，而不是滚开。为
 
 - **[文化解码词典](/zh/glossary)** —— 39 条术语集中可查，如果第一层翻得太快。
 - **去游戏里看** —— [黑神话：悟空](/zh/projects/wukong) · [黑神话：钟馗](/zh/projects/zhong-kui/lore) · [明末：渊虚之羽](/zh/projects/wuchang) · [影之刃零](/zh/projects/phantom-blade)
-- **[文化 101](/zh/culture/basics)** —— 这是模块 01。三界观、轮回与因果、山海异兽还没写。
+- **下一课** —— [三界观](/zh/culture/three-realms)，讲为什么这套宇宙观是一张组织结构图。
+- **[文化 101](/zh/culture/basics)** —— 课程目录。

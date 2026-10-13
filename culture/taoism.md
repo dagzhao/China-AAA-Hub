@@ -203,4 +203,5 @@ We only want you to know one thing: every "lore" you meet in a game has a real t
 
 - **[The Glossary](/glossary)** — all 39 terms in one searchable place, if layer 1 went too fast.
 - **In the games** — [Black Myth: Wukong](/projects/wukong) · [Black Myth: Zhong Kui](/projects/zhong-kui/lore) · [WUCHANG: Fallen Feathers](/projects/wuchang) · [Phantom Blade Zero](/projects/phantom-blade)
-- **[Culture 101](/culture/basics)** — this is Module 01. The Three Realms, Samsara & Karma, and Beasts & Myths are still to come.
+- **Next module** — [The Three Realms](/culture/three-realms), on why the cosmos is an org chart.
+- **[Culture 101](/culture/basics)** — the course index.

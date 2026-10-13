@@ -49,6 +49,16 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Culture',
+            items: [
+              { text: 'Culture 101', link: '/culture/basics' },
+              { text: '01 · The Taoism Code', link: '/culture/taoism' },
+              { text: '02 · The Three Realms', link: '/culture/three-realms' },
+              { text: '03 · Samsara & Karma', link: '/culture/karma' },
+              { text: '04 · Beasts & Myths', link: '/culture/beasts' }
+            ]
+          },
+          {
             text: 'Tools',
             items: [
               { text: 'Archetype Quiz', link: '/quiz' },
@@ -98,6 +108,16 @@ export default defineConfig({
             ]
           },
           {
+            text: '文化',
+            items: [
+              { text: '文化 101', link: '/zh/culture/basics' },
+              { text: '01 · 道教密码', link: '/zh/culture/taoism' },
+              { text: '02 · 三界观', link: '/zh/culture/three-realms' },
+              { text: '03 · 轮回与因果', link: '/zh/culture/karma' },
+              { text: '04 · 山海异兽', link: '/zh/culture/beasts' }
+            ]
+          },
+          {
             text: '小工具',
             items: [
               { text: '神话人格测验', link: '/zh/quiz' },
@@ -144,6 +164,16 @@ export default defineConfig({
               { text: '明末：淵虚之羽', link: '/ja/projects/wuchang' },
               { text: '燕雲十六声', link: '/ja/projects/yanyun' },
               { text: '影之刃零', link: '/ja/projects/phantom-blade' }
+            ]
+          },
+          {
+            text: '文化',
+            items: [
+              { text: '文化 101', link: '/ja/culture/basics' },
+              { text: '01 · 道教のコード', link: '/ja/culture/taoism' },
+              { text: '02 · 三界観', link: '/ja/culture/three-realms' },
+              { text: '03 · 輪廻と因果', link: '/ja/culture/karma' },
+              { text: '04 · 山海の異獣', link: '/ja/culture/beasts' }
             ]
           },
           {

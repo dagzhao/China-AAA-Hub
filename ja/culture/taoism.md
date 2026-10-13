@@ -205,4 +205,5 @@
 
 - **[文化デコード辞典](/ja/glossary)** —— 39 の用語を一括検索。第一層が速すぎたなら。
 - **ゲーム本編へ** —— [黒神話：悟空](/ja/projects/wukong) · [黒神話：鍾馗](/ja/projects/zhong-kui/lore) · [明末：淵虚之羽](/ja/projects/wuchang) · [影之刃零](/ja/projects/phantom-blade)
-- **[文化 101](/ja/culture/basics)** —— これはモジュール 01 です。三界、輪廻と因果、山海の異獣はこれからです。
+- **次のモジュール** —— [三界観](/ja/culture/three-realms)。なぜこの宇宙観が組織図なのか。
+- **[文化 101](/ja/culture/basics)** —— コース一覧。
