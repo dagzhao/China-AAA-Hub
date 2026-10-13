@@ -18,3 +18,6 @@ Thumbs.db
 
 # 排除 VitePress 构建缓存
 .vitepress/cache/
+
+# 排除本地验证截图（QA 用，不入库）
+_shots/
