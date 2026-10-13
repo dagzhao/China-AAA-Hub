@@ -107,15 +107,12 @@ h1, h2, h3 {
   box-shadow: 0 4px 20px rgba(0,0,0,0.5);
 }
 
-/* 让图片说明文字也居中 */
-.vp-doc p em {
-  display: block;
-  text-align: center;
-  font-size: 0.9em;
-  color: var(--vp-c-text-2);
-  margin-top: -10px;
-  margin-bottom: 20px;
-}
+/* 注意：切勿给 .vp-doc p em（或任何自动选择器）加 display:block / text-align:center——
+   那会把段落里的行内 *强调* 拆成居中块、把句子打断，而且纯 CSS 无法区分
+   「整段就是一个 <em>」（图注）和「句子中间的单个 <em>」（强调）:
+   :only-child 只数元素兄弟节点，两种形态都会命中，试过，不行。
+   2026-10 已确认全站没有任何页面用 <em> 做图注，相关规则已删除。
+   将来若要做图注，请用显式 class，如 <p class="caption"><em>…</em></p>。 */
 
 /* --- 手机端兼容性优化 --- */
 @media (max-width: 768px) {
