@@ -1,5 +1,12 @@
 {
   "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/upload/:path*",
+      "destination": "/",
+      "statusCode": 410
+    }
+  ],
   "headers": [
     {
       "source": "/videos/(.*)",
