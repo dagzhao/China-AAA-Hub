@@ -4,12 +4,14 @@
  * link 为不带语言前缀的站内路径，由组件按当前语言补前缀
  */
 
+// 图标用单字，跟着文字颜色走（原来那套彩色 emoji 自带五套色相，和红黑水墨体系打架；
+// ☯️ 的紫最跳，⚖️ 在暗底几乎糊掉）。五个字简繁日通用：器 / 妖 / 道 / 界 / 龍。
 export const CATEGORIES = [
-  { id: 'artifact', icon: '🏮', en: 'Artifacts & Talismans', zh: '法宝与法器', ja: '法宝・法器' },
-  { id: 'being', icon: '👹', en: 'Beings & Spirits', zh: '妖灵鬼怪', ja: '妖・霊・鬼' },
-  { id: 'taoist', icon: '☯️', en: 'Taoist Practice', zh: '道家修行', ja: '道家の修行' },
-  { id: 'cosmos', icon: '⚖️', en: 'Cosmology & Order', zh: '三界与秩序', ja: '三界と秩序' },
-  { id: 'beast', icon: '🐉', en: 'Beasts & Classics', zh: '神兽与典籍', ja: '神獣と典籍' }
+  { id: 'artifact', icon: '器', en: 'Artifacts & Talismans', zh: '法宝与法器', ja: '法宝・法器' },
+  { id: 'being', icon: '妖', en: 'Beings & Spirits', zh: '妖灵鬼怪', ja: '妖・霊・鬼' },
+  { id: 'taoist', icon: '道', en: 'Taoist Practice', zh: '道家修行', ja: '道家の修行' },
+  { id: 'cosmos', icon: '界', en: 'Cosmology & Order', zh: '三界与秩序', ja: '三界と秩序' },
+  { id: 'beast', icon: '龍', en: 'Beasts & Classics', zh: '神兽与典籍', ja: '神獣と典籍' }
 ]
 
 export const UI = {
@@ -23,7 +25,8 @@ export const UI = {
     empty: 'Nothing matches that yet.',
     emptyHint: 'Try a shorter word, or a pinyin like "yao".',
     clear: 'Clear',
-    related: 'Related'
+    related: 'Related',
+    filtersLabel: 'Filter by category'
   },
   zh: {
     kicker: '文化解码 · 模块 01',
@@ -35,7 +38,8 @@ export const UI = {
     empty: '没有匹配的词条。',
     emptyHint: '试试更短的词，或者拼音，比如「yao」。',
     clear: '清空',
-    related: '相关专题'
+    related: '相关专题',
+    filtersLabel: '按分类筛选'
   },
   ja: {
     kicker: '文化デコード · モジュール 01',
@@ -47,7 +51,8 @@ export const UI = {
     empty: '一致する項目がありません。',
     emptyHint: '短い語か、"yao" のようなピンインで試してください。',
     clear: 'クリア',
-    related: '関連記事'
+    related: '関連記事',
+    filtersLabel: 'カテゴリで絞り込む'
   }
 }
 

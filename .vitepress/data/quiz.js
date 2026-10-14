@@ -1,6 +1,7 @@
 /**
  * 神话人格测验数据（三语）
- * - ARCHETYPE_META：原型的视觉/跳转信息，三语共用
+ * - ARCHETYPE_META：原型的视觉/跳转信息；hanzi 为简体字形，hanziJa 为日文字形
+ *   （「钟馗/鍾馗」这类简繁差异会让日文结果页的印章与标题对不上）
  * - SCORES：每题每个选项的加权分值，三语共用，保证三种语言的计分逻辑一致
  * - QUIZ：分语言的文案；questions[i].options 与 SCORES[i] 一一对应
  */
@@ -17,36 +18,42 @@ export const TIE_ORDER = [
 export const ARCHETYPE_META = {
   destined: {
     hanzi: '天命人',
+    hanziJa: '天命人',
     pinyin: 'Tiānmìng Rén',
     accent: '#d4a017',
     link: '/projects/wukong'
   },
   judge: {
     hanzi: '钟馗',
+    hanziJa: '鍾馗',
     pinyin: 'Zhōng Kuí',
     accent: '#a30000',
     link: '/projects/zhong-kui/lore'
   },
   alchemist: {
     hanzi: '炼气士',
+    hanziJa: '煉気士',
     pinyin: 'Liànqì Shì',
     accent: '#6a9955',
     link: '/culture/taoism'
   },
   blade: {
     hanzi: '影刃',
+    hanziJa: '影刃',
     pinyin: 'Yǐng Rèn',
     accent: '#4a90d9',
     link: '/projects/phantom-blade'
   },
   nameless: {
     hanzi: '无名者',
+    hanziJa: '無名者',
     pinyin: 'Wúmíng Zhě',
     accent: '#9a9a9a',
     link: '/projects/wuchang'
   },
   wanderer: {
     hanzi: '游侠',
+    hanziJa: '遊侠',
     pinyin: 'Yóuxiá',
     accent: '#c98b2e',
     link: '/projects/yanyun'

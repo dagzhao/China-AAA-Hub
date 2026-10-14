@@ -218,14 +218,14 @@ export default defineConfig({
   themeConfig: {
     // 1. 配置“编辑此页”按钮
     editLink: {
-      pattern: 'https://github.com/dagzhao/China-AAA-Hub/edit/main/docs/:path',
+      pattern: 'https://github.com/dagzhao/China-AAA-Hub/edit/main/:path',
       text: 'Edit this page on GitHub'
     },
     logo: '/logo.png',
     outline: { label: 'On this page' },
     search: { provider: 'local' },
     socialLinks: [
-      { icon: 'github', link: '' }
+      { icon: 'github', link: 'https://github.com/dagzhao/China-AAA-Hub' }
     ]
   }
 })

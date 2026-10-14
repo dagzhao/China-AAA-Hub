@@ -131,13 +131,3 @@ features:
 </div>
 
 </main>
-
-<style>
-/* 复用之前的样式即可，建议放在 .vitepress/theme/custom.css 中以保持代码整洁 */
-.special-sections { margin-top: 40px; display: flex; flex-direction: column; gap: 24px; }
-.highlight-card { background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(139, 0, 0, 0.2); border-radius: 12px; padding: 32px; transition: all 0.3s ease; }
-.highlight-card:hover { background: rgba(139, 0, 0, 0.05); border-color: #a30000; transform: translateY(-2px); }
-.highlight-card h2 { margin-top: 0; color: #ff4d4d; font-size: 1.5rem; }
-.action-btn { display: inline-block; margin-top: 15px; padding: 8px 18px; background: #a30000; color: white !important; border-radius: 6px; font-weight: 600; text-decoration: none !important; }
-.action-btn:hover { background: #ff4d4d; }
-</style>
