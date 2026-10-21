@@ -1,4 +1,12 @@
+---
+title: "Who Is Zhong Kui? Lore, 15-Minute Gameplay & Release Status"
+description: "Zhong Kui's legend, Seven-Star Sword and tiger mount, plus the August 2026 15-minute gameplay demo, Great Clam Lord boss, combat and release status."
+image: "/images/zhongkui-04.jpg"
+---
+
 # Who is Zhong Kui?
+
+> 📰 **Latest:** [Zhong Kui's 15-Minute Gameplay, Explained](/news/black-myth-zhong-kui-15-minute-gameplay)
 
 ## 1. The Divine Inquisitor: Origin of the Legend
 Zhong Kui, the "Ghost Eater," is a legendary deity in Chinese folklore known as the vanquisher of evil spirits. A brilliant scholar denied his rank due to his appearance, he chose an honorable death and was appointed Supreme Judge of the Underworld.
@@ -176,13 +184,36 @@ Figure 3 reveals a fascinating multicultural narrative through the lady's entour
   <i>Black Myth: Zhong Kui – 15 Minutes Gameplay Trailer.</i>
 </p>
 
-### 📰 Latest Updates: No AIGC & August 20 Expectations
+### 📰 Latest Updates: The 15-Minute Gameplay Reveal
 
-**"Handcrafted, No AIGC":** On **August 10, 2026**, Game Science co-founder and art director **Yang Qi** responded to fan questions about *Black Myth: Zhong Kui*. He stated that the team will **deliberately avoid AI-generated content (AIGC) tools** in the game's design and asset production, insisting on handcrafted creation.
+**August 20, 2026 — first real gameplay.** At 10:00 AM Beijing Time, Game Science released a **15-minute (about 952-second) gameplay demo** in 21:9, recorded from an early build and labelled "still in early development; final content may change." It was published simultaneously on Bilibili, Weibo, YouTube and the official site. **No release date was announced.**
 
-**August 20 — "A Simple Meal":** Asked whether a major reveal is coming on **August 20** (the second anniversary of *Black Myth: Wukong*), Yang Qi hinted that players should not expect big gameplay footage or a new trailer. Instead, he described it as a "gathering of old friends" and a "simple meal" — suggesting a lightweight CG piece, possibly in the style of the studio's previous New Year short films.
+**Combat: from staff to sword.** The white-robed protagonist wields a **single-handed sword**, with **parry and deflect** at the center of combat rather than Wukong's dodge-first style — the team describes it as "receiving, neutralizing, and releasing" an opponent's force. A **"sword momentum" (剑势)** resource fuels multiple sword arts; the demo UI shows four skill slots. He can **enchant the blade with fire or lightning** drawn from the environment, use **fire, lightning and binding talismans**, and finish enemies with execution moves.
 
-> Note: The AIGC stance applies to the design and asset-creation phase of *Zhong Kui*. The "simple meal" remark is a hint to manage expectations, not a confirmed roadmap.
+**Summons and possession.** The demo shows ghost underlings summoned to fight alongside the protagonist, and a short **possession** mechanic that hands control to the summoned character with a different moveset. Game Science has not officially named this system; "five ghosts" is a media and community label.
+
+**First named boss: Great Clam Lord (大蚌真君).** The demo's boss carries two giant clam shells; breaking one triggers a second phase with water-mist illusions and wide-area attacks. The fight runs about four minutes. Note: some early reports misheard the name as "Great Roc (大鹏真君)" — the on-screen health bar reads **大蚌真君**.
+
+**Setting and cast.** The demo opens on a deserted coastal island, where the protagonist and a white-haired old man build a raft before a tsunami hits. The old man's face and motion capture are performed by **Li Guangfu (李光复)**, a National First-Class actor; in the story he eventually transforms into a yellow talisman that points the way. The footage also hints at underwater exploration, a drowned-woman side story and lantern-lit night woods.
+
+**How early is it?** Art director **Yang Qi** said the video contains only **"one test map and a few unfinished story slices."** The protagonist is silent because a voice actor has not been cast. The team is deliberately using overcast lighting, rebuilding scene collision to eliminate "invisible walls," and restraining the combat camera.
+
+**Reception.** The demo hit No. 1 on Bilibili's trending list within 10 minutes, peaked at roughly **95,000–100,000 concurrent viewers**, passed **1 million views in under an hour**, **8.5 million by August 21**, and **10 million by August 22** with about **829,000 likes**. On YouTube it drew **1.9 million views and 11,000 comments in 24 hours** (later over 2 million); on Weibo the topic passed **130 million reads**; cross-platform views reportedly exceeded **50 million** in the first days. Geoff Keighley shared it on X, where the post passed **2.08 million views**.
+
+**"Handcrafted, no AIGC."** On **August 10**, Yang Qi said the team will deliberately avoid **AI-generated content** in design and asset production, insisting on handcrafted work.
+
+**Still no release date.** The official FAQ says even producer Feng Ji "doesn't know" yet. The game is a premium single-player action RPG for PC and mainstream consoles, not a Wukong DLC or direct sequel.
+
+### 🗓️ September–October: A Nomination, a Clay Bird and the Music
+
+- **September 1** — Yang Qi posted an in-engine lighting and material test on ArtStation, saying there is **no final design or render yet** and the team is still polishing.
+- **September 6** — Fans spotted a Game Science job listing for a **senior 3D scene/map editor**, with open-world or large-map experience as a plus — fuelling open-world speculation, though a job requirement is not an official confirmation.
+- **September 25** — *Zhong Kui* was nominated for **Most Wanted Game** at the **2026 Golden Joystick Awards**. Voting closes **October 23**; the ceremony is in **London on November 11**. The category usually favors titles arriving in 2027 or later.
+- **October 19** — Yang Qi posted a clay sculpture on Xiaohongshu; its big-nosed, heron-like look reminded fans of *The Boy and the Heron*, sparking a theory that the protagonist is Zhong Kui's friend **Du Ping**, with Zhong Kui appearing as a guide. Game Science has not responded.
+- **October 21** — **Li Jiaqi**, founder of 8082Audio and the audio lead on *Wukong*, said the *Zhong Kui* score is still being polished. Feng Ji's reaction: it makes you feel **"the exhaustion of middle age"** — more relaxed and street-level than Wukong's bombast.
+- **Development timeline** — Full production reportedly began in **June 2025**, about 16 months ago. The frequently cited **2028** release window is media and community speculation, not an official date.
+- **No new trailer** — Gamescom's Opening Night Live did not show a new *Zhong Kui* film (the August 20 demo served as the material), and there was no TGS 2026 showing. The official accounts' latest *Zhong Kui* post remains **August 20**.
+- **Still unconfirmed** — Real-time Yin-Yang realm switching, the Seven-Star Sword's two forms, and a rideable tiger are all fan deductions. The game keeps *Wukong*'s combat feel but rebuilds it around sword momentum, parrying, talismans and possession.
 
 ### 🗡️ Weapon: The Seven-Star Sword
 Visuals suggest his primary weapon is the **Seven-Star Sword**, a Taoist relic capable of channeling celestial power.

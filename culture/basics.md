@@ -1,3 +1,7 @@
+---
+description: "Chinese games assume you know qi, yao, samsara and the Three Realms. A plain-language Culture 101 for Black Myth, WUCHANG and Where Winds Meet."
+---
+
 # Culture 101: The Player's Manual
 
 Confused by the flying gourds, or why everyone keeps talking about "Destiny"? You are in the right place. To play these games properly you need the **Logic of the East** — and it turns out to be teachable.

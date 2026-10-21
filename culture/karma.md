@@ -1,3 +1,7 @@
+---
+description: "Samsara and karma explained: how Chinese games turn rebirth, debt and delayed justice into story mechanics."
+---
+
 # Samsara & Karma: Nobody Gets To Win And Be Finished
 
 Western games kill the protagonist and the story ends. Chinese games kill the protagonist and the story keeps going — often as if nothing had happened.

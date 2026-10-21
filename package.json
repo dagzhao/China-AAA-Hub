@@ -4,6 +4,9 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
+    "check:i18n": "node scripts/check-i18n.mjs",
+    "check:bold": "node scripts/find-broken-bold.mjs zh ja",
+    "prebuild": "npm run check:i18n && npm run check:bold",
     "build": "vitepress build",
     "preview": "vitepress preview"
   },

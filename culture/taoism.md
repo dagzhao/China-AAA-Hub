@@ -1,3 +1,7 @@
+---
+description: "Alchemy, talismans, gourd healing and internal cultivation: how Taoist ideas shape combat and power systems in Chinese AAA games."
+---
+
 # The Taoism Code: Why Chinese Combat Is Metaphysics
 
 In *Black Myth: Wukong*, when your health runs low you drink from a **gourd**. Why a gourd?

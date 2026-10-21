@@ -1,3 +1,9 @@
+---
+title: "AAA 游戏编年史 — 2026 最新动态"
+description: "《黑神话：悟空》《钟馗》《明末》《燕云十六声》《影之刃零》的发售日、考据与 2026 年最新动态。"
+image: "/images/zhongkui-04.jpg"
+---
+
 # AAA 游戏编年史
 
 深度解析正在崛起的中国 AAA 游戏及其背后的文化脉络。
@@ -23,7 +29,7 @@
 </a>
 
 <a class="chronicle-card" href="./projects/phantom-blade">
-  <span class="chronicle-status">🔜 预购开启</span>
+  <span class="chronicle-status">🔜 10月29日发售</span>
   <h3>影之刃零</h3>
   <p>极致的“武侠朋克”动作盛宴。</p>
 </a>

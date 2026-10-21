@@ -1,4 +1,20 @@
 import { defineConfig } from 'vitepress'
+import en from './i18n/en.mjs'
+import zh from './i18n/zh.mjs'
+import ja from './i18n/ja.mjs'
+import { createLocaleTheme } from './navigation.mjs'
+import { createPageIndex, createSeoTransform } from './seo.mjs'
+
+const pageIndex = createPageIndex()
+
+function localeConfig(locale) {
+  return {
+    label: locale.label,
+    lang: locale.lang,
+    ...(locale.link ? { link: locale.link } : {}),
+    themeConfig: createLocaleTheme(locale)
+  }
+}
 
 export default defineConfig({
   cleanUrls: true, // 核心配置：开启后，VitePress 会生成不带后缀的链接
@@ -8,10 +24,7 @@ export default defineConfig({
 
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
-    // 增加以下标签，让分享时的缩略图更好看
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'China AAA Games | Black Myth Lore Hub' }],
-    ['meta', { property: 'og:image', content: 'https://china3agames.com/logo.png' }], 
+    // Open Graph / Twitter 标签由 transformHead 按页面动态生成
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     // --- Google Analytics 脚本开始 ---
     [
@@ -30,197 +43,19 @@ export default defineConfig({
   ],
 
   locales: {
-    root: {
-      label: 'English',
-      lang: 'en',
-      themeConfig: {
-        logo: '/logo.png',
-        nav: [
-          { text: 'Home', link: '/' },
-          {
-            text: 'Games',
-            items: [
-              { text: 'Black Myth: 2026 New Year', link: '/projects/zhong-kui/new-year-special' },
-              { text: 'Black Myth: Wukong', link: '/projects/wukong' },
-              { text: 'Black Myth: Zhong Kui', link: '/projects/zhong-kui/lore' },
-              { text: 'WUCHANG: Fallen Feathers', link: '/projects/wuchang' },
-              { text: 'Where Winds Meet', link: '/projects/yanyun' },
-              { text: 'Phantom Blade Zero', link: '/projects/phantom-blade' }
-            ]
-          },
-          {
-            text: 'Culture',
-            items: [
-              { text: 'Culture 101', link: '/culture/basics' },
-              { text: '01 · The Taoism Code', link: '/culture/taoism' },
-              { text: '02 · The Three Realms', link: '/culture/three-realms' },
-              { text: '03 · Samsara & Karma', link: '/culture/karma' },
-              { text: '04 · Beasts & Myths', link: '/culture/beasts' }
-            ]
-          },
-          {
-            text: 'Tools',
-            items: [
-              { text: 'Archetype Quiz', link: '/quiz' },
-              { text: 'Culture Glossary', link: '/glossary' }
-            ]
-          }
-        ],
-        sidebar: {
-          '/projects/': [
-            {
-              text: 'AAA Game Chronicles',
-              items: [
-                { text: 'Black Myth: 2026 New Year', link: '/projects/zhong-kui/new-year-special' },
-                { text: 'Wukong: Lore', link: '/projects/wukong' },
-                { text: 'Zhong Kui: Lore', link: '/projects/zhong-kui/lore' },
-                { text: 'Wuchang: Lore', link: '/projects/wuchang' },
-                { text: 'Yanyun: Lore', link: '/projects/yanyun' },
-                { text: 'Phantom Blade: Lore', link: '/projects/phantom-blade' }
-              ]
-            }
-          ]
-        },
-      editLink: {
-        pattern: 'https://github.com/dagzhao/China-AAA-Hub/edit/main/:path',
-        text: 'Edit this page on GitHub'
-      },
-      lastUpdatedText: 'Last updated'
-         }
-    },
-    zh: {
-      label: '简体中文',
-      lang: 'zh-CN',
-      link: '/zh/',
-      themeConfig: {
-        logo: '/logo.png',
-        nav: [
-          { text: '首页', link: '/zh/' },
-          {
-            text: '游戏项目',
-            items: [
-              { text: '黑神话：2026春节寄语', link: '/zh/projects/zhong-kui/new-year-special' },
-              { text: '黑神话：悟空', link: '/zh/projects/wukong' },
-              { text: '黑神话：钟馗', link: '/zh/projects/zhong-kui/lore' },
-              { text: '明末：渊虚之羽', link: '/zh/projects/wuchang' },
-              { text: '燕云十六声', link: '/zh/projects/yanyun' },
-              { text: '影之刃零', link: '/zh/projects/phantom-blade' }
-            ]
-          },
-          {
-            text: '文化',
-            items: [
-              { text: '文化 101', link: '/zh/culture/basics' },
-              { text: '01 · 道教密码', link: '/zh/culture/taoism' },
-              { text: '02 · 三界观', link: '/zh/culture/three-realms' },
-              { text: '03 · 轮回与因果', link: '/zh/culture/karma' },
-              { text: '04 · 山海异兽', link: '/zh/culture/beasts' }
-            ]
-          },
-          {
-            text: '小工具',
-            items: [
-              { text: '神话人格测验', link: '/zh/quiz' },
-              { text: '文化解码词典', link: '/zh/glossary' }
-            ]
-          }
-        ],
-        sidebar: {
-          '/zh/projects/': [
-            {
-              text: 'AAA游戏',
-              items: [
-                { text: '黑神话：2026春节寄语', link: '/zh/projects/zhong-kui/new-year-special' },
-                { text: '黑神话：悟空', link: '/zh/projects/wukong' },
-                { text: '黑神话：钟馗', link: '/zh/projects/zhong-kui/lore' },
-                { text: '明末：渊虚之羽', link: '/zh/projects/wuchang' },
-                { text: '燕云十六声', link: '/zh/projects/yanyun' },
-                { text: '影之刃零', link: '/zh/projects/phantom-blade' }
-              ]
-            }
-          ]
-        },
-        editLink: {
-        pattern: 'https://github.com/dagzhao/China-AAA-Hub/edit/main/:path',
-        text: '在 GitHub 上编辑此页'
-      },
-      lastUpdatedText: '最后更新时间'
-      }
-    },
-    ja: {
-      label: '日本語',
-      lang: 'ja',
-      link: '/ja/',
-      themeConfig: {
-        logo: '/logo.png',
-        nav: [
-          { text: 'ホーム', link: '/ja/' },
-          {
-            text: 'プロジェクト',
-            items: [
-              { text: '黒神話：2026新春特別企画', link: '/ja/projects/zhong-kui/new-year-special' },
-              { text: '黒神話：悟空', link: '/ja/projects/wukong' },
-              { text: '黒神話：鍾馗', link: '/ja/projects/zhong-kui/lore' },
-              { text: '明末：淵虚之羽', link: '/ja/projects/wuchang' },
-              { text: '燕雲十六声', link: '/ja/projects/yanyun' },
-              { text: '影之刃零', link: '/ja/projects/phantom-blade' }
-            ]
-          },
-          {
-            text: '文化',
-            items: [
-              { text: '文化 101', link: '/ja/culture/basics' },
-              { text: '01 · 道教のコード', link: '/ja/culture/taoism' },
-              { text: '02 · 三界観', link: '/ja/culture/three-realms' },
-              { text: '03 · 輪廻と因果', link: '/ja/culture/karma' },
-              { text: '04 · 山海の異獣', link: '/ja/culture/beasts' }
-            ]
-          },
-          {
-            text: 'ツール',
-            items: [
-              { text: '神話原型診断', link: '/ja/quiz' },
-              { text: '文化デコード辞典', link: '/ja/glossary' }
-            ]
-          }
-        ],
-        sidebar: {
-          '/ja/projects/': [
-            {
-              text: '主要プロジェクト',
-              items: [
-                { text: '黒神話：2026新春特別企画', link: '/ja/projects/zhong-kui/new-year-special' },
-                { text: '黒神話：悟空', link: '/ja/projects/wukong' },
-                { text: '黒神話：鍾馗', link: '/ja/projects/zhong-kui/lore' },
-                { text: '明末：淵虚之羽', link: '/ja/projects/wuchang' },
-                { text: '燕雲十六声', link: '/ja/projects/yanyun' },
-                { text: '影之刃零', link: '/ja/projects/phantom-blade' }
-              ]
-            }
-          ]
-        },
-
-        editLink: {
-        pattern: 'https://github.com/dagzhao/China-AAA-Hub/edit/main/:path',
-        text: 'GitHub でこのページを編集'
-      },
-      lastUpdatedText: '最終更新日'
-
-      }
-    }
+    root: localeConfig(en),
+    zh: localeConfig(zh),
+    ja: localeConfig(ja)
   },
+
+  transformHead: createSeoTransform(pageIndex),
 
   lastUpdated: true, // 开启最后更新时间
   // 重点：直接添加这个内置选项
   sitemap: {
-    hostname: 'https://china3agames.com' // 
+    hostname: 'https://china3agames.com' //
   },
   themeConfig: {
-    // 1. 配置“编辑此页”按钮
-    editLink: {
-      pattern: 'https://github.com/dagzhao/China-AAA-Hub/edit/main/:path',
-      text: 'Edit this page on GitHub'
-    },
     logo: '/logo.png',
     outline: { label: 'On this page' },
     search: { provider: 'local' },

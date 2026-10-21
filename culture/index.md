@@ -1,3 +1,7 @@
+---
+description: "Four visual essays on Chinese mythology for games: Taoism, the Three Realms, karma and rebirth, and the beasts of the Classic of Mountains and Seas."
+---
+
 # Culture 101
 
 Chinese AAA games don't just borrow from myth — they run on it. To read the **Logic of the East**, work through the four modules below.

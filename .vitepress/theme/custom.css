@@ -33,7 +33,8 @@
   /* 纸：文字色（正文偏暖，像宣纸） */
   --paper: #e8e6e3;
   --paper-dim: #a8a29b;
-  --paper-faint: #807a74;
+  /* 4.78:1 on ink-600 —— 原来的 #807a74 只有 4.11:1，工具卡元信息不达标 */
+  --paper-faint: #8c857e;
 
   /* 朱砂：只用于面积/边框/色条，不用于文字 */
   --cinnabar: #a30000;
@@ -64,6 +65,10 @@
   --radius-pill: 999px;
 
   --ring: 0 0 0 3px rgba(255, 77, 77, 0.45);
+
+  /* 阴影：卡片悬停与图片共用同一套，避免各写各的 */
+  --shadow-card: 0 12px 28px rgba(0, 0, 0, 0.5);
+  --shadow-image: 0 4px 20px rgba(0, 0, 0, 0.45);
 }
 
 /* ===== 2. VitePress 变量覆盖 ============================================
@@ -98,6 +103,8 @@
   --vp-c-bg-alt: var(--ink-900);
   --vp-c-bg-soft: var(--ink-600);
   --vp-c-bg-mute: var(--ink-500);
+  /* 浮层（下拉菜单/搜索弹窗）默认会落到纯黑，和页面层次断开 */
+  --vp-c-bg-elv: var(--ink-600);
   --vp-c-divider: var(--ink-400);
   --vp-c-border: var(--ink-400);
   --vp-c-gutter: var(--ink-900);
@@ -108,6 +115,13 @@
 
   --vp-font-family-base: "Microsoft YaHei", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* 英文页面走纯西文字体栈。根节点的 "Microsoft YaHei" 放在最前面会让
+   英文正文也用中文 UI 字体的西文字形（字重偏轻、标点间距偏紧）。 */
+:lang(en) {
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
 }
 
 /* 日文页面：VitePress 只给了 :lang(zh) 的覆盖，没有 :lang(ja)。
@@ -217,6 +231,44 @@
   line-height: 1.75;
 }
 
+/* 引用块：默认只有一条 2px 灰线 + 1.5 行高，在暗色里几乎读不清 */
+.vp-doc blockquote {
+  margin: var(--sp-5) 0;
+  padding: var(--sp-4) var(--sp-5);
+  border-left: 3px solid var(--cinnabar);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  background: var(--ink-700);
+  color: var(--paper-dim);
+  line-height: 1.75;
+}
+
+.vp-doc blockquote > p {
+  margin: 0;
+}
+
+.vp-doc blockquote > p + p {
+  margin-top: var(--sp-3);
+}
+
+.vp-doc blockquote strong {
+  color: var(--paper);
+}
+
+/* 列表：默认 li 间距 8px，密到成块；项目符号用朱砂暗档，不抢正文 */
+.vp-doc li + li {
+  margin-top: var(--sp-3);
+}
+
+.vp-doc li > ul,
+.vp-doc li > ol {
+  margin-top: var(--sp-2);
+}
+
+.vp-doc ul > li::marker,
+.vp-doc ol > li::marker {
+  color: var(--accent-dim);
+}
+
 /* 最该细读的两块，字号别比正文还小 */
 .vp-doc .custom-block.details .custom-block-title,
 .vp-doc .custom-block.details > summary {
@@ -260,7 +312,64 @@
   display: none !important;
 }
 
+/* 当前页在侧边栏里原本只有字色变化，扫视时定位慢；补一条朱砂指示条 */
+.VPSidebarItem.level-1.is-active > .item > .indicator {
+  width: 3px;
+  background-color: var(--accent);
+}
+
+/* 下拉菜单：默认 hover 是通用灰底，和整站的朱砂语言脱节 */
+.VPMenu {
+  border-color: var(--ink-400);
+  box-shadow: 0 18px 48px rgba(0, 0, 0, 0.55);
+}
+
+.VPMenuLink .link:hover,
+.VPMenuLink .link.active {
+  background-color: var(--cinnabar-soft);
+  color: var(--accent);
+}
+
+/* 右侧目录：默认 nowrap + ellipsis，长中文/日文标题会被截成半句 */
+.VPDocAsideOutline .outline-link {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+  line-height: 1.5;
+  padding: 5px 0;
+}
+
+.VPDocAsideOutline .outline-link:hover {
+  color: var(--paper);
+}
+
+.VPDocAsideOutline .outline-link.active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.VPDocAsideOutline .outline-marker {
+  height: 22px;
+  background: linear-gradient(to bottom, var(--accent), var(--cinnabar));
+}
+
 /* ===== 6. 首页 Hero ===================================================== */
+/* 顶部一层极淡的朱砂晕染，给纯黑首屏一点纵深；压得很低，避免发棕 */
+.VPHome {
+  background:
+    radial-gradient(
+      ellipse 58% 420px at 6% 0%,
+      rgba(163, 0, 0, 0.1),
+      transparent 72%
+    ),
+    radial-gradient(
+      ellipse 34% 300px at 94% 2%,
+      rgba(255, 77, 77, 0.04),
+      transparent 70%
+    ),
+    var(--vp-c-bg);
+}
+
 .VPHomeHero .name,
 .VPHomeHero .text {
   letter-spacing: -0.02em;
@@ -275,6 +384,14 @@
 
 .VPHomeHero .text {
   color: var(--accent-dim);
+}
+
+/* -0.02em 是给西文大标题的；中日文是满框字，负字距会让笔画粘连 */
+:lang(zh) .VPHomeHero .name,
+:lang(zh) .VPHomeHero .text,
+:lang(ja) .VPHomeHero .name,
+:lang(ja) .VPHomeHero .text {
+  letter-spacing: 0;
 }
 
 .VPHomeHero .tagline {
@@ -313,6 +430,19 @@
   transition: all 0.7s ease-in-out;
 }
 
+/* 次按钮：默认那版灰底在暗色里像"禁用"，改成描边 */
+.VPHomeHero .action .VPButton.alt {
+  background: transparent;
+  border-color: var(--ink-400);
+  color: var(--paper);
+}
+
+.VPHomeHero .action .VPButton.alt:hover {
+  border-color: var(--cinnabar);
+  background: var(--cinnabar-soft);
+  color: var(--accent);
+}
+
 /* feature 卡 */
 .VPFeature {
   border: 1px solid var(--ink-400);
@@ -325,7 +455,7 @@
 .VPFeature:hover {
   border-color: var(--cinnabar);
   transform: translateY(-4px);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-card);
 }
 
 .VPFeature .title {
@@ -345,6 +475,98 @@
   margin-top: var(--sp-6);
 }
 
+/* 宽屏下的游戏卡：第一张做特写（左文右图），其余 2×2。
+   原来是 5 张通栏竖排，正文行长约 1100px，远超舒适阅读宽度。 */
+@media (min-width: 960px) {
+  .special-sections:has(.project-card-custom) {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--sp-5);
+  }
+
+  .special-sections .highlight-card {
+    grid-column: 1 / -1;
+  }
+
+  .special-sections .project-card-custom {
+    display: flex;
+    flex-direction: column;
+    padding: var(--sp-5);
+  }
+
+  .special-sections .project-card-custom .card-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .special-sections .project-card-custom .card-content > p {
+    flex: 1;
+    max-width: 58ch;
+  }
+
+  .special-sections .project-card-custom .image-row {
+    margin: 0 0 var(--sp-4);
+  }
+
+  .special-sections .project-card-custom .image-row img {
+    height: 10.5rem;
+  }
+
+  .special-sections .project-card-custom .card-btn {
+    align-self: flex-start;
+  }
+
+  .special-sections .project-card-custom:first-child {
+    grid-column: 1 / -1;
+  }
+
+  .special-sections .project-card-custom:first-child .card-content {
+    display: grid;
+    grid-template-columns: minmax(0, 1.05fr) minmax(0, 1.5fr);
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas:
+      "head media"
+      "desc media"
+      "cta media";
+    column-gap: var(--sp-6);
+    align-items: start;
+    height: auto;
+  }
+
+  .special-sections .project-card-custom:first-child .card-content > h3 {
+    grid-area: head;
+  }
+
+  .special-sections .project-card-custom:first-child .card-content > p {
+    grid-area: desc;
+    max-width: none;
+    margin-bottom: var(--sp-4);
+  }
+
+  .special-sections .project-card-custom:first-child .card-content > .card-btn {
+    grid-area: cta;
+    align-self: end;
+    justify-self: start;
+  }
+
+  .special-sections .project-card-custom:first-child .card-content > .image-row {
+    grid-area: media;
+    align-self: stretch;
+    margin: 0;
+    height: 100%;
+  }
+
+  .special-sections
+    .project-card-custom:first-child
+    .card-content
+    > .image-row
+    img {
+    height: 100%;
+    min-height: 220px;
+  }
+}
+
 .project-card-custom {
   background: var(--ink-600);
   border: 1px solid var(--ink-400);
@@ -357,7 +579,7 @@
 .project-card-custom:hover {
   border-color: var(--cinnabar);
   transform: translateY(-4px);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-card);
 }
 
 /* 未发售：朱砂左边条 */
@@ -437,14 +659,22 @@
   border-color: var(--cinnabar);
   background: var(--ink-700);
   transform: translateY(-4px);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-card);
 }
 
+/* 工具卡图标：裸 emoji 在暗底上像漏排的字符，给一个砚台式的方形底 */
 .tool-card-icon {
-  font-size: 1.6rem;
+  width: 48px;
+  height: 48px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
   line-height: 1;
-  margin-bottom: var(--sp-3);
-  display: block;
+  margin-bottom: var(--sp-4);
+  background: var(--ink-500);
+  border: 1px solid var(--ink-400);
+  border-radius: var(--radius);
 }
 
 .tool-card h3 {
@@ -516,9 +746,10 @@
   white-space: nowrap;
   display: inline-flex;
   align-items: center;
-  font-size: 0.68rem;
+  font-size: 0.72rem;
   font-weight: 700;
-  padding: 3px 8px;
+  padding: 4px 10px;
+  letter-spacing: 0.02em;
   border-radius: var(--radius-pill);
   background: var(--cinnabar-soft);
   color: var(--accent) !important;
@@ -533,7 +764,7 @@
   width: auto;
   max-width: 100%;
   border-radius: var(--radius);
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-image);
 }
 
 /* 注意：切勿给 .vp-doc p em（或任何自动选择器）加 display:block / text-align:center——
@@ -572,6 +803,17 @@
   background:
     linear-gradient(to left, var(--ink-800) 0%, transparent 24px) right /
       24px 100% no-repeat;
+  scrollbar-width: thin;
+  scrollbar-color: var(--ink-400) transparent;
+}
+
+/* 窄屏下表格原本会被挤到与容器同宽，每列只剩几十像素。
+   设了单元格下限后，表格保持可读并出现横向滚动。 */
+@media (max-width: 640px) {
+  .vp-doc th,
+  .vp-doc td {
+    min-width: 160px;
+  }
 }
 
 .vp-doc th {
@@ -616,11 +858,19 @@
   padding-bottom: var(--sp-3);
 }
 
-/* md 里的 --- 会和 h2 的装饰叠成两条平行灰线，去掉一条 */
+/* md 里的 --- 会和 h2 的装饰叠成两条平行灰线，去掉一条。
+   改成两端淡出的墨线，避免硬边把长文切得太生硬。 */
 .vp-doc hr {
   border: none;
-  border-top: 1px solid var(--ink-400);
+  height: 1px;
   margin: var(--sp-7) 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--ink-400) 12%,
+    var(--ink-400) 88%,
+    transparent
+  );
 }
 
 /* ===== 11. 可访问性 =====================================================
@@ -639,6 +889,14 @@
   outline: 2px solid var(--accent);
   outline-offset: 2px;
   border-radius: 2px;
+}
+
+.VPSidebarItem .link:focus-visible,
+.VPMenuLink .link:focus-visible,
+.VPDocAsideOutline .outline-link:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -702,6 +960,15 @@
     background:
       linear-gradient(to left, var(--ink-800) 0%, transparent 28px) right /
         28px 100% no-repeat;
+  }
+
+  /* 窄屏收紧标题节奏：桌面那档 64px 的章间距在手机上一屏放不下 */
+  .vp-doc h1 {
+    padding-bottom: var(--sp-3);
+  }
+
+  .vp-doc h2 {
+    margin-top: var(--sp-7);
   }
 }
 
@@ -807,9 +1074,24 @@
 
 .chronicle-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: var(--sp-5);
   margin-top: var(--sp-5);
+}
+
+/* 这一页没有目录，右栏原本只是空占位，还把内容挤到左边。
+   收起 aside 并放宽内容，5 张卡在桌面正好排成 3 + 2 居中。 */
+.VPDoc:has(.chronicle-grid) .aside {
+  display: none;
+}
+
+/* Vue scoped 的 .VPDoc.has-aside .content-container 特异性更高，必须 !important */
+.VPDoc:has(.chronicle-grid) .content {
+  max-width: 1024px !important;
+}
+
+.VPDoc:has(.chronicle-grid) .content-container {
+  max-width: 960px !important;
 }
 
 .chronicle-card {
@@ -828,7 +1110,7 @@
 .chronicle-card:hover {
   border-color: var(--cinnabar);
   transform: translateY(-4px);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.5);
+  box-shadow: var(--shadow-card);
 }
 
 .chronicle-card:focus-visible {
@@ -836,11 +1118,20 @@
   box-shadow: var(--ring);
 }
 
+/* 状态标签：原来只是一行小字，和卡片标题、描述挤在同一节奏里。
+   改成独立的胶囊，扫视时先看到状态。 */
 .chronicle-status {
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px;
+  border: 1px solid var(--ink-400);
+  border-radius: var(--radius-pill);
+  background: var(--ink-500);
   color: var(--paper-dim);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  line-height: 1.5;
 }
 
 .chronicle-card h3 {
@@ -855,4 +1146,37 @@
   font-size: 0.9rem;
   line-height: 1.7;
   color: var(--paper-dim);
+}
+
+/* ===== 15. 搜索 / 页脚 ===================================================
+   这两块原来完全走 VitePress 默认：搜索按钮没有边界，在暗色导航里像一段
+   普通文字；页脚的"最后更新"又和正文同级抢注意力。 */
+
+.VPNavBarSearch .DocSearch-Button {
+  height: 42px;
+  border: 1px solid var(--ink-400);
+  background: var(--ink-900);
+}
+
+.VPNavBarSearch .DocSearch-Button:hover {
+  border-color: var(--cinnabar);
+}
+
+.VPDocFooter .last-updated {
+  font-size: 13px;
+  color: var(--paper-faint);
+}
+
+.VPDocFooter .edit-link-button {
+  font-size: 13px;
+}
+
+.VPDocFooter .pager-link {
+  border-radius: var(--radius-sm);
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.VPDocFooter .pager-link:hover {
+  border-color: var(--cinnabar);
+  background: var(--ink-700);
 }

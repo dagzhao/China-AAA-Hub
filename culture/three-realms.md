@@ -1,3 +1,7 @@
+---
+description: "Heaven, earth and the underworld: the Three Realms model behind Chinese mythology, death and the spirit world in Black Myth and WUCHANG."
+---
+
 # The Three Realms: Heaven, Earth, and the Office Below
 
 Zhong Kui is the Supreme Judge of the Underworld. So why does he spend the game personally chasing ghosts with a sword, instead of sitting at a desk ruling on them?

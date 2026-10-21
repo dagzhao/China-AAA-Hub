@@ -1,3 +1,7 @@
+---
+description: "From the Classic of Mountains and Seas to the Nine-Tailed Fox: how Chinese games adapt mythical beasts and yaoguai."
+---
+
 # Beasts & Myths: Why Chinese Monsters Are Researched, Not Invented
 
 Play a Western fantasy game and you can often name the design conversation behind each monster: this one is a dragon variant, that one is a zombie with a twist, the boss is a spider because spiders read well at that scale.

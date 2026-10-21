@@ -1,0 +1,70 @@
+---
+title: "Phantom Blade Zero Launches October 29: Final Previews, Wishlists & Unlock Times"
+description: "Phantom Blade Zero arrives October 29 on PS5 and PC. Final preview consensus, 3 million wishlists, 8 endings, 66 Days mode and global unlock times."
+image: "/images/pbzero-1.jpg"
+date: 2026-10-21
+---
+
+# Phantom Blade Zero Launches October 29: Final Previews, Wishlists & Unlock Times
+
+<p><em>Published October 21, 2026 · Phantom Blade Zero · 6 min read</em></p>
+
+*Phantom Blade Zero* is eight days away. After a 50-day delay from its original September 9 date, S-GAME's "kungfupunk" action RPG arrives on **October 29, 2026** for PlayStation 5, PlayStation 5 Pro and PC. The final preview embargo lifted on October 8–9, and the response has been unusually unanimous: several outlets are calling it the best action game since *Sekiro* and a Game of the Year contender.
+
+## Release date and unlock time
+
+- **October 29, 2026 at 02:00 UTC** — that is **10:00 AM Beijing Time**.
+- **Platforms:** PS5, PS5 Pro, Steam, Epic Games Store, WeGame and TapTap PC.
+- **No Xbox version at launch.** Multiple outlets report a 12-month PS5 console exclusivity window, but neither S-GAME nor Sony has officially confirmed it.
+- **China pricing:** Standard Edition ¥268 (pre-order ¥258), Deluxe Edition ¥328.
+
+The delay was announced on **June 3, 2026**. Creative director **Liang Qiwei (Soulframe)** said the extra time was used to upgrade character models, rebuild parts of the environments and improve visual quality without relying on ray tracing. He also said the team was not moving out of another game's way.
+
+## What the final previews say
+
+From **October 8–9**, IGN, GameSpot, Game Rant, DualShockers, Wccftech and others published four-to-six-hour hands-on impressions. The consensus:
+
+- **Combat is the headline.** The parry- and "Sha-Chi" (killing intent) driven system draws constant *Sekiro* comparisons, with blue attacks that can be blocked and red attacks that must be dodged. Precise defense triggers **Ghost Step**, an automatic reposition-and-counter.
+- **Bosses and weapons are deep.** Every boss drops its own weapon, and previews praise the variety of fighting styles rather than a single optimal build.
+- **The main concern is performance.** Some journalists reported frame-rate drops on high-end PCs; others ran at 4K/ultra smoothly. S-GAME says optimization continues through launch.
+- **It is not a strict Soulslike.** Enemies do not respawn, there is no death penalty, and the game is built around fast combos and cinematic set pieces.
+
+## Scale, length and endings
+
+- **8 chapters across eight seamlessly connected semi-open maps**, not one open world.
+- **30+ main weapons** and about **25 Phantom Edge secondary weapons**; reportedly **50+ bosses**.
+- **25–30 hours** for the main story, or about **40 hours** with side content. New Game+ and a full re-spec system are included.
+- **8 endings**, confirmed by Liang Qiwei — two more than *Elden Ring*. Side-quest completion and clue flags determine the outcome; a mainline-only run leads to a "bad" ending.
+- **66 Days mode:** 66 lives, one lost per death, with a **separate save file**, autosave only, and no tie to the Platinum trophy. Running out triggers a special "regret" ending.
+
+## Pre-orders and wishlists
+
+The game passed **3 million wishlists** on **September 17** and was Steam's fourth most-wishlisted title at the time. Pre-orders opened on **August 11** and, according to S-GAME, "far exceeded expectations"; the game topped the Steam global bestseller chart within about an hour and led the PlayStation Hong Kong pre-order chart.
+
+## The last big reveal
+
+On **October 13**, IGN premiered **The Hunt**, the opening carriage boss fight. The boss grows extra arms in its second phase and wields four axes at once. The same video showed the Deluxe Edition cosmetic **Blood-Steel Form**, a purely visual skin.
+
+## No demo, no DLC roadmap
+
+Despite a PS Store demo listing that briefly appeared in August, S-GAME has announced **no public demo** and **no post-launch DLC roadmap**. Playable builds have only been available at events. As of **October 20**, the final launch trailer had not been released.
+
+## What to watch at launch
+
+- **Day-one performance**, especially on PC and PS5 Pro.
+- **Review scores**, which had not gone live as of October 21.
+- **Whether the 12-month console exclusivity is ever officially confirmed.**
+- **Post-launch support** — S-GAME has not announced DLC, but a successful launch would make an expansion likely.
+
+## Sources
+
+- [S-GAME official news](https://pbz.s-game.com/zh-CN/news/creative-director-letter/)
+- [IGN hands-on preview](https://in.ign.com/phantom-blade-zero/273975/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview)
+- [Game Rant final preview](https://gamerant.com/phantom-blade-zero-hands-on-preview/)
+- [Wccftech PC preview](https://wccftech.com/phantom-blade-zero-pc-final-preview/)
+- [GosuGamers preview round-up](https://www.gosugamers.net/entertainment/news/79380-preview-10-things-you-should-know-about-phantom-blade-zero-s-boss-fights-weapons-and-story)
+- [17173 preview summary](https://news.17173.com/content/10102026/110329880.shtml)
+
+---
+
+**Related:** [Phantom Blade Zero lore and combat guide](/projects/phantom-blade) · [All game updates](/news/)

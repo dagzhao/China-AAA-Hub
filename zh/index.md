@@ -21,6 +21,8 @@ features:
   - title: "未来展望"
     details: 从《黑神话》到更多潜力之作，我们持续追踪中国游戏工业的进化。
 
+description: "中国 3A 游戏站：深度解析《黑神话：悟空》《钟馗》《明末：渊虚之羽》《燕云十六声》《影之刃零》的叙事、玩法与文化脉络。"
+image: "/images/wukong-2.jpg"
 ---
 
 <main>
@@ -32,7 +34,7 @@ features:
 <div class="project-card-custom">
   <div class="card-content">
     <h3>黑神话：钟馗 (Black Myth: Zhong Kui)
-    <span class="badge-upcoming">即将到来</span>
+    <span class="badge-upcoming">开发中</span>
     </h3>
     <p>探讨驱魔真君的暗黑史诗。从小鬼抬剑的细节到幽冥虎坐骑的变革，解析 Game Science 的中式奇幻美学。</p>
     <div class="image-row">
@@ -46,7 +48,7 @@ features:
 <div class="project-card-custom">
   <div class="card-content">
     <h3>影之刃零 (Phantom Blade Zero)
-    <span class="badge-upcoming">预购开启</span>
+    <span class="badge-upcoming">10月29日发售</span>
     </h3>
     <p>“武侠朋克”的极致动作。在“组织”的阴影下，体验快节奏冷兵器格挡与杀伐之美。</p>
     <div class="image-row">
@@ -94,6 +96,34 @@ features:
 </div>
 
 </div>
+
+---
+
+## 📰 最新动态
+
+<div class="chronicle-grid">
+
+<a class="chronicle-card" href="/zh/news/phantom-blade-zero-october-29-launch">
+  <span class="chronicle-status">10月21日 · 影之刃零</span>
+  <h3>影之刃零 10 月 29 日发售</h3>
+  <p>媒体最终前瞻、300 万愿望单与解锁时间。</p>
+</a>
+
+<a class="chronicle-card" href="/zh/news/black-myth-zhong-kui-15-minute-gameplay">
+  <span class="chronicle-status">10月21日 · 黑神话：钟馗</span>
+  <h3>钟馗 15 分钟实机解析</h3>
+  <p>剑术弹反、附身鬼差与大蚌真君。</p>
+</a>
+
+<a class="chronicle-card" href="/zh/news/black-myth-wukong-dlc-status">
+  <span class="chronicle-status">10月21日 · 黑神话：悟空</span>
+  <h3>悟空 DLC：暂停，而非取消</h3>
+  <p>游戏科学对资料片的官方表态。</p>
+</a>
+
+</div>
+
+[查看全部动态 →](/zh/news/)
 
 ---
 

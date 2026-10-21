@@ -21,6 +21,8 @@ features:
   - title: "Future Projects"
     details: From Black Myth to upcoming titles, we track the evolution of Chinese game industry.
 
+description: "China AAA Games: in-depth lore, news and culture guides for Black Myth: Wukong, Zhong Kui, WUCHANG, Where Winds Meet and Phantom Blade Zero."
+image: "/images/wukong-2.jpg"
 ---
 <main>
 
@@ -31,7 +33,7 @@ features:
 <div class="project-card-custom">
   <div class="card-content">
     <h3>Black Myth: Zhong Kui
-    <span class="badge-upcoming">Coming Soon</span>
+    <span class="badge-upcoming">In Development</span>
     </h3>
     <p>Explore the dark epic of the Ghost Eater. From the intricate detail of spirits carrying his sword to the transformation of his tiger mount, delve into Game Science's oriental dark fantasy aesthetics.</p>
     <div class="image-row">
@@ -45,7 +47,7 @@ features:
 <div class="project-card-custom">
   <div class="card-content">
     <h3>Phantom Blade Zero
-    <span class="badge-upcoming">Pre-Orders Open</span>
+    <span class="badge-upcoming">Launches Oct 29</span>
     </h3>
     <p>The ultimate "Wuxia Punk" action. Under the shadow of "The Organization," experience fast-paced cold weapon parrying and the brutal beauty of assassination.</p>
     <div class="image-row">
@@ -93,6 +95,34 @@ features:
 </div>
 
 </div>
+
+---
+
+## 📰 Latest Updates
+
+<div class="chronicle-grid">
+
+<a class="chronicle-card" href="/news/phantom-blade-zero-october-29-launch">
+  <span class="chronicle-status">Oct 21 · Phantom Blade Zero</span>
+  <h3>Phantom Blade Zero Launches October 29</h3>
+  <p>Final previews, 3 million wishlists and unlock times.</p>
+</a>
+
+<a class="chronicle-card" href="/news/black-myth-zhong-kui-15-minute-gameplay">
+  <span class="chronicle-status">Oct 21 · Black Myth: Zhong Kui</span>
+  <h3>Zhong Kui's 15-Minute Gameplay</h3>
+  <p>Sword combat, possession and the Great Clam Lord.</p>
+</a>
+
+<a class="chronicle-card" href="/news/black-myth-wukong-dlc-status">
+  <span class="chronicle-status">Oct 21 · Black Myth: Wukong</span>
+  <h3>Wukong DLC: Paused, Not Cancelled</h3>
+  <p>What Game Science has said about the expansion.</p>
+</a>
+
+</div>
+
+[All game updates →](/news/)
 
 ---
 

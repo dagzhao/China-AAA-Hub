@@ -1,3 +1,9 @@
+---
+title: "China AAA Games Chronicle — 2026 Updates"
+description: "Release dates, lore and 2026 news for Black Myth: Wukong, Zhong Kui, WUCHANG, Where Winds Meet and Phantom Blade Zero."
+image: "/images/zhongkui-04.jpg"
+---
+
 # The AAA games Chronicles
 
 Explore the deep narratives and cultural roots of China's rising AAA games titles.
@@ -23,7 +29,7 @@ Explore the deep narratives and cultural roots of China's rising AAA games title
 </a>
 
 <a class="chronicle-card" href="./projects/phantom-blade">
-  <span class="chronicle-status">🔜 Pre-Orders Open</span>
+  <span class="chronicle-status">🔜 Launches Oct 29</span>
   <h3>Phantom Blade Zero</h3>
   <p>"Kungfupunk" action at its peak.</p>
 </a>

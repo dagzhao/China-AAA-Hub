@@ -1,3 +1,9 @@
+---
+title: "AAAゲーム・クロニクル — 2026年最新情報"
+description: "『黒神話：悟空』『鍾馗』『明末：淵虚之羽』『燕雲十六声』『影之刃零』の発売日、考証、2026年の最新動向。"
+image: "/images/zhongkui-04.jpg"
+---
+
 # AAA ゲーム・クロニクル
 
 台頭する中国のAAAタイトルと、その背後に流れる深い文化的文脈を解読します。
@@ -23,7 +29,7 @@
 </a>
 
 <a class="chronicle-card" href="./projects/phantom-blade">
-  <span class="chronicle-status">🔜 予約受付中</span>
+  <span class="chronicle-status">🔜 10月29日発売</span>
   <h3>ファントムブレイド ゼロ</h3>
   <p>「カンフーパンク」を掲げるハイスピード・アクション。</p>
 </a>
