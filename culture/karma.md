@@ -1,5 +1,6 @@
 ---
 description: "Samsara and karma explained: how Chinese games turn rebirth, debt and delayed justice into story mechanics."
+date: 2026-10-13
 ---
 
 # Samsara & Karma: Nobody Gets To Win And Be Finished

@@ -1,5 +1,6 @@
 import fs from 'node:fs'
 import path from 'node:path'
+import { execFileSync } from 'node:child_process'
 import { fileURLToPath } from 'node:url'
 
 export const SITE_URL = 'https://china3agames.com'
@@ -23,6 +24,26 @@ export const PROJECT_ROOT = path.resolve(
   path.dirname(fileURLToPath(import.meta.url)),
   '..'
 )
+
+const DEFAULT_OG = {
+  '': '/og-default.jpg',
+  '/zh': '/og-default-zh.jpg',
+  '/ja': '/og-default-ja.jpg'
+}
+
+const COLLECTION_ROUTES = new Set([
+  '/projects',
+  '/news',
+  '/culture',
+  '/projects/zhong-kui'
+])
+
+const SCHEMA_TYPES = {
+  home: 'WebSite',
+  collection: 'CollectionPage',
+  tool: 'WebPage',
+  article: 'Article'
+}
 
 function walk(dir, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -68,6 +89,97 @@ export function createPageIndex(root = PROJECT_ROOT) {
   return routes
 }
 
+/** 统一去掉末尾斜杠，便于把页面路由映射回源文件。 */
+export function normalizeRoute(route) {
+  if (route === '/') return '/'
+  return route.replace(/\/+$/, '') || '/'
+}
+
+/** 路由 -> 仓库内相对路径（如 /zh/projects -> zh/projects.md）。 */
+export function createRouteFileMap(root = PROJECT_ROOT) {
+  const map = new Map()
+  for (const file of walk(root)) {
+    if (!file.endsWith('.md')) continue
+    const rel = path.relative(root, file).replace(/\\/g, '/')
+    map.set(normalizeRoute(routeFromRel(rel)), rel)
+  }
+  return map
+}
+
+function pageKind(route) {
+  const { base } = splitLocale(route)
+  const normalized = normalizeRoute(base)
+  if (normalized === '/') return 'home'
+  if (normalized === '/glossary' || normalized === '/quiz') return 'tool'
+  if (COLLECTION_ROUTES.has(normalized)) return 'collection'
+  return 'article'
+}
+
+let gitLastDatesCache
+
+function runGitLog(args) {
+  try {
+    return execFileSync('git', args, {
+      cwd: PROJECT_ROOT,
+      encoding: 'utf8',
+      maxBuffer: 64 * 1024 * 1024
+    })
+  } catch {
+    return ''
+  }
+}
+
+/**
+ * 一次 git log 拿到每个文件的最后提交时间。
+ * 拿不到 git 历史时返回空 Map，调用方会省略 lastmod 而不是写构建时间。
+ */
+export function getGitLastDates() {
+  if (gitLastDatesCache) return gitLastDatesCache
+
+  const dates = new Map()
+  let date = ''
+  for (const raw of runGitLog([
+    'log',
+    '--format=@@%cI',
+    '--name-only',
+    '--',
+    '.'
+  ]).split(/\r?\n/)) {
+    const line = raw.trim()
+    if (line.startsWith('@@')) {
+      date = line.slice(2)
+    } else if (line && date && !dates.has(line)) {
+      dates.set(line, date)
+    }
+  }
+
+  gitLastDatesCache = dates
+  return dates
+}
+
+export function gitLastDate(relativePath) {
+  return getGitLastDates().get(relativePath.replace(/\\/g, '/'))
+}
+
+function resolveOgImage(pageData, prefix) {
+  const raw = pageData.frontmatter?.image
+  if (raw) {
+    const match = /^\/images\/(.+)$/.exec(raw)
+    if (match) {
+      const ogPath = `/images/og/${match[1]}`
+      if (fs.existsSync(path.join(PROJECT_ROOT, 'public', ogPath.slice(1)))) {
+        return { url: `${SITE_URL}${ogPath}`, width: 1200, height: 630 }
+      }
+    }
+    return { url: new URL(raw, SITE_URL).href }
+  }
+  return {
+    url: `${SITE_URL}${DEFAULT_OG[prefix] || DEFAULT_OG['']}`,
+    width: 1200,
+    height: 630
+  }
+}
+
 const HOME_LABELS = {
   '': 'Home',
   '/zh': '首页',
@@ -91,9 +203,16 @@ export function createSeoTransform(pageIndex) {
       pageData.frontmatter?.description ||
       description ||
       siteConfig.description
-    const image = pageData.frontmatter?.image
-      ? new URL(pageData.frontmatter.image, SITE_URL).href
-      : `${SITE_URL}/logo.png`
+    const kind = pageKind(route)
+    // 首页用带站点品牌与本地化副标题的通用图，其余页面优先用文章图。
+    const image =
+      kind === 'home'
+        ? {
+            url: `${SITE_URL}${DEFAULT_OG[prefix] || DEFAULT_OG['']}`,
+            width: 1200,
+            height: 630
+          }
+        : resolveOgImage(pageData, prefix)
 
     const alternates = LOCALES.map((locale) => ({
       ...locale,
@@ -131,10 +250,29 @@ export function createSeoTransform(pageIndex) {
     ])
     head.push([
       'meta',
-      { property: 'og:type', content: isHome ? 'website' : 'article' }
+      {
+        property: 'og:type',
+        content: kind === 'article' ? 'article' : 'website'
+      }
     ])
     head.push(['meta', { property: 'og:url', content: url }])
-    head.push(['meta', { property: 'og:image', content: image }])
+    head.push(['meta', { property: 'og:image', content: image.url }])
+    if (image.width) {
+      head.push([
+        'meta',
+        { property: 'og:image:width', content: String(image.width) }
+      ])
+    }
+    if (image.height) {
+      head.push([
+        'meta',
+        { property: 'og:image:height', content: String(image.height) }
+      ])
+    }
+    head.push([
+      'meta',
+      { property: 'og:image:alt', content: pageTitle }
+    ])
     head.push([
       'meta',
       { property: 'og:site_name', content: 'China AAA Games' }
@@ -155,7 +293,11 @@ export function createSeoTransform(pageIndex) {
       'meta',
       { name: 'twitter:description', content: pageDescription }
     ])
-    head.push(['meta', { name: 'twitter:image', content: image }])
+    head.push(['meta', { name: 'twitter:image', content: image.url }])
+    head.push([
+      'meta',
+      { name: 'twitter:image:alt', content: pageTitle }
+    ])
     head.push([
       'meta',
       {
@@ -165,41 +307,46 @@ export function createSeoTransform(pageIndex) {
       }
     ])
 
-    const article = {
+    const node = {
       '@context': 'https://schema.org',
-      '@type': isHome ? 'WebSite' : 'Article',
-      name: isHome ? 'China AAA Games' : undefined,
-      headline: isHome ? undefined : pageTitle,
+      '@type': SCHEMA_TYPES[kind],
       url,
       description: pageDescription,
-      image: [image],
-      inLanguage: currentLocale.code,
-      mainEntityOfPage: { '@type': 'WebPage', '@id': url },
-      author: { '@type': 'Organization', name: 'China AAA Games', url: SITE_URL },
-      publisher: {
+      image: [image.url],
+      inLanguage: currentLocale.code
+    }
+
+    if (kind === 'article') {
+      node.headline = pageTitle
+      node.mainEntityOfPage = { '@type': 'WebPage', '@id': url }
+      node.author = {
+        '@type': 'Organization',
+        name: 'China AAA Games',
+        url: SITE_URL
+      }
+      node.publisher = {
         '@type': 'Organization',
         name: 'China AAA Games',
         logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png` }
       }
-    }
-    if (isHome) {
-      delete article.headline
-      delete article.mainEntityOfPage
-      delete article.author
-      delete article.publisher
+      const publishedDate = pageData.frontmatter?.date
+        ? new Date(pageData.frontmatter.date)
+        : null
+      if (publishedDate && !Number.isNaN(publishedDate.getTime())) {
+        node.datePublished = publishedDate.toISOString()
+      }
     } else {
-      delete article.name
-    }
-    if (pageData.frontmatter?.date) {
-      article.datePublished = new Date(
-        pageData.frontmatter.date
-      ).toISOString()
-    }
-    if (pageData.lastUpdated) {
-      article.dateModified = new Date(pageData.lastUpdated).toISOString()
+      node.name = kind === 'home' ? 'China AAA Games' : pageTitle
     }
 
-    const graph = [article]
+    if (pageData.lastUpdated) {
+      const modified = new Date(pageData.lastUpdated)
+      if (!Number.isNaN(modified.getTime())) {
+        node.dateModified = modified.toISOString()
+      }
+    }
+
+    const graph = [node]
     if (!isHome) {
       graph.push({
         '@context': 'https://schema.org',

@@ -2,6 +2,7 @@
 title: "黑神话：悟空 DLC 现状与 2026 二周年更新"
 description: "《黑神话：悟空》2026 年二周年：7 折史低、《钟馗》15 分钟实机、DLC 暂停原因、销量、音乐会与 Xbox 表现。"
 image: "/images/wukong-1.jpg"
+date: 2026-02-05
 ---
 
 # 黑神话：悟空 (Black Myth: Wukong)

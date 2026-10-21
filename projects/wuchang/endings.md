@@ -2,6 +2,7 @@
 title: "Wuchang Fallen Feathers All Endings & True Ending Guide (2026)"
 description: "All four Wuchang endings explained: exact unlock steps for Dream's Sweet Deceit, Bound by Fate's Threads, Jarful of Medicine and Successor of the Bo."
 image: "/images/wuchang-1.jpg"
+date: 2026-10-21
 ---
 
 # WUCHANG: Fallen Feathers — All Endings & True Ending Guide

@@ -1,5 +1,6 @@
 ---
 description: "Chinese games assume you know qi, yao, samsara and the Three Realms. A plain-language Culture 101 for Black Myth, WUCHANG and Where Winds Meet."
+date: 2026-02-05
 ---
 
 # Culture 101: The Player's Manual

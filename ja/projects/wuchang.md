@@ -2,6 +2,7 @@
 title: "明末：ウツロノハネ — 500万人と続編の進捗"
 description: "『明末：ウツロノハネ（中国語名：明末：淵虚之羽）』2026年の動向：500万人、100万本販売、白無常の続編、2,150万ユーロ投資、パッチとGame Passの状況。全エンディング攻略付き。"
 image: "/images/wuchang-1.jpg"
+date: 2026-02-05
 ---
 
 # 明末：ウツロノハネ (WUCHANG: Fallen Feathers)

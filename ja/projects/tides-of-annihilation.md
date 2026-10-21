@@ -2,6 +2,7 @@
 title: "『Tides of Annihilation（壊滅の潮汐）』発売日・物語・ゲームプレイ・2026年最新情報"
 description: "『Tides of Annihilation』はEclipse Glow Gamesによるアーサー王モチーフのアクションRPG。崩壊したロンドン、グウェンドリン、円卓の騎士、発売日情報と10月29日プレースホルダーの真相。"
 image: "/images/tides-gwendolyn.jpg"
+date: 2026-10-21
 ---
 
 # 『Tides of Annihilation（壊滅の潮汐）』発売日・物語・ゲームプレイ

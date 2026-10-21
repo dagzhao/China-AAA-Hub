@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "中国3Aゲーム — 黒神話：悟空・鍾馗の攻略とニュース"
+titleTemplate: false
 
 hero:
   name: "中国 3A ゲームハブ"

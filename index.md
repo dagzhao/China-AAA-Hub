@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "China AAA Games — Wukong, Zhong Kui News, Lore & Guides"
+titleTemplate: false
 
 hero:
   name: "China AAA Games"

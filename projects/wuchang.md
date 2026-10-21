@@ -2,6 +2,7 @@
 title: "WUCHANG: Fallen Feathers — 5 Million Players & Sequel News"
 description: "WUCHANG's 2026 status: 5 million players, 1 million sales, Bai Wuchang sequel at Indolphinity, €21.5M funding, patch and Game Pass updates — plus a full endings guide."
 image: "/images/wuchang-1.jpg"
+date: 2026-02-05
 ---
 
 # WUCHANG: Fallen Feathers

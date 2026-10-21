@@ -2,6 +2,7 @@
 title: "Tides of Annihilation: Release Date, Story, Gameplay & 2026 News"
 description: "Tides of Annihilation is Eclipse Glow's Arthurian action RPG set in a shattered London. Release date status, the Oct 29 placeholder explained, Gwendolyn and Round Table combat."
 image: "/images/tides-gwendolyn.jpg"
+date: 2026-10-21
 ---
 
 # Tides of Annihilation: Release Date, Story & Gameplay

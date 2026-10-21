@@ -1,5 +1,6 @@
 ---
 description: "Alchemy, talismans, gourd healing and internal cultivation: how Taoist ideas shape combat and power systems in Chinese AAA games."
+date: 2026-02-05
 ---
 
 # The Taoism Code: Why Chinese Combat Is Metaphysics

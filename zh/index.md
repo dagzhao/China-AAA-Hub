@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "中国 3A 游戏 — 黑神话：悟空、钟馗攻略与资讯"
+titleTemplate: false
 
 hero:
   name: "中国 3A 游戏站"

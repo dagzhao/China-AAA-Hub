@@ -2,6 +2,7 @@
 title: "燕云十六声 — 2.3 青州、2.2 终章与 1 亿玩家"
 description: "《燕云十六声》2026 更新：2.2 不见山终章、2.3 青州、DLSS 5、国服 2.8.5、1 亿玩家与联动。"
 image: "/images/yanyun-1.jpg"
+date: 2026-02-05
 ---
 
 # 燕云十六声 (Where Winds Meet)

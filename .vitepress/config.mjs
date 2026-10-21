@@ -3,9 +3,17 @@ import en from './i18n/en.mjs'
 import zh from './i18n/zh.mjs'
 import ja from './i18n/ja.mjs'
 import { createLocaleTheme } from './navigation.mjs'
-import { createPageIndex, createSeoTransform } from './seo.mjs'
+import {
+  SITE_URL,
+  createPageIndex,
+  createRouteFileMap,
+  createSeoTransform,
+  gitLastDate,
+  normalizeRoute
+} from './seo.mjs'
 
 const pageIndex = createPageIndex()
+const routeFiles = createRouteFileMap()
 
 function localeConfig(locale) {
   return {
@@ -53,7 +61,23 @@ export default defineConfig({
   lastUpdated: true, // 开启最后更新时间
   // 重点：直接添加这个内置选项
   sitemap: {
-    hostname: 'https://china3agames.com' //
+    hostname: SITE_URL,
+    // 默认 lastmod 是全站构建时间，Google 会忽略；改为逐页取 git 最后提交时间。
+    transformItems(items) {
+      return items.map((item) => {
+        // VitePress 的 url 不带前导斜杠（根路径为空字符串）。
+        const route = item.url.startsWith('/') ? item.url : `/${item.url}`
+        const file = routeFiles.get(normalizeRoute(route))
+        const lastmod = file ? gitLastDate(file) : undefined
+        const next = { ...item }
+        if (lastmod) {
+          next.lastmod = lastmod
+        } else {
+          delete next.lastmod
+        }
+        return next
+      })
+    }
   },
   themeConfig: {
     logo: '/logo.png',

@@ -2,6 +2,7 @@
 title: "Who Is Zhong Kui? Lore, Release Date Status & Gameplay"
 description: "Zhong Kui's legend, Seven-Star Sword and tiger mount, plus the August 2026 15-minute gameplay, release date status and Golden Joystick nomination."
 image: "/images/zhongkui-04.jpg"
+date: 2026-02-05
 ---
 
 # Who is Zhong Kui?

@@ -2,6 +2,7 @@
 title: "Phantom Blade Zero: October 29 Launch, Final Previews & Wishlists"
 description: "Phantom Blade Zero launches October 29, 2026. Final previews, 3 million wishlists, 8 endings, 66 Days mode, platforms and unlock times."
 image: "/images/pbzero-1.jpg"
+date: 2026-02-05
 ---
 
 # Phantom Blade Zero: Kung Fu Punk

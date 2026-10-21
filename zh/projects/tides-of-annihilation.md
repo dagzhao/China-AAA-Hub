@@ -2,6 +2,7 @@
 title: "《湮灭之潮》：发售日、剧情、玩法与 2026 最新消息"
 description: "《湮灭之潮》（Tides of Annihilation）是 Eclipse Glow Games 的亚瑟王题材动作 RPG，舞台为崩坏的现代伦敦。发售日、10月29日占位日期解析、格雯德琳与圆桌骑士战斗。"
 image: "/images/tides-gwendolyn.jpg"
+date: 2026-10-21
 ---
 
 # 《湮灭之潮》：发售日、剧情与玩法

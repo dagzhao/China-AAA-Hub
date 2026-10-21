@@ -2,6 +2,7 @@
 title: "Black Myth: Wukong — DLC Status & 2026 Anniversary Update"
 description: "Black Myth: Wukong's 2026 anniversary: 30% off, the Zhong Kui 15-minute reveal, why Wukong DLC is paused, sales, concerts and Xbox updates."
 image: "/images/wukong-1.jpg"
+date: 2026-02-05
 ---
 
 # Black Myth: Wukong

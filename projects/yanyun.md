@@ -2,6 +2,7 @@
 title: "Where Winds Meet 2.3 Qingzhou, 2.2 Finale & 100M Players"
 description: "Where Winds Meet's 2026 updates: 2.2 Hidden Mountain finale, 2.3 Qingzhou, DLSS 5, China server 2.8.5, 100 million players and crossovers."
 image: "/images/yanyun-1.jpg"
+date: 2026-02-05
 ---
 
 # Where Winds Meet

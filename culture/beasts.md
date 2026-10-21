@@ -1,5 +1,6 @@
 ---
 description: "From the Classic of Mountains and Seas to the Nine-Tailed Fox: how Chinese games adapt mythical beasts and yaoguai."
+date: 2026-10-13
 ---
 
 # Beasts & Myths: Why Chinese Monsters Are Researched, Not Invented

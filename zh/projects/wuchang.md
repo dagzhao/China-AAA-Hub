@@ -2,6 +2,7 @@
 title: "明末：渊虚之羽 — 500 万玩家与续作进展"
 description: "《明末：渊虚之羽》2026 年动态：500 万玩家、100 万销量、白无常续作、2150 万欧元投资、补丁与 Game Pass 状态，附全结局攻略。"
 image: "/images/wuchang-1.jpg"
+date: 2026-02-05
 ---
 
 # 明末：渊虚之羽 (WUCHANG: Fallen Feathers)

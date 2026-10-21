@@ -1,5 +1,6 @@
 ---
 description: "Game Science's 2026 New Year short film for Black Myth: Zhong Kui, plus a scene-by-scene breakdown of its folk-horror details."
+date: 2026-02-10
 ---
 
 # 2026 New Year Special: Life is More Than Just Games

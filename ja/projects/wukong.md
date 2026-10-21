@@ -2,6 +2,7 @@
 title: "黒神話：悟空 DLCの現状と2026年2周年アップデート"
 description: "『黒神話：悟空』2026年2周年：30％オフ、『鍾馗』15分実機、DLC一時停止の理由、販売本数、コンサート、Xbox版の状況。"
 image: "/images/wukong-1.jpg"
+date: 2026-02-05
 ---
 
 # 黒神話：悟空 (Black Myth: Wukong)

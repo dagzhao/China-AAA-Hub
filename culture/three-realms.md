@@ -1,5 +1,6 @@
 ---
 description: "Heaven, earth and the underworld: the Three Realms model behind Chinese mythology, death and the spirit world in Black Myth and WUCHANG."
+date: 2026-10-13
 ---
 
 # The Three Realms: Heaven, Earth, and the Office Below
