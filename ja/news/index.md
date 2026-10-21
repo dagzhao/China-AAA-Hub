@@ -1,14 +1,20 @@
 ---
 title: "ゲームニュース・更新情報 — 2026"
-description: "『黒神話：悟空』『鍾馗』『影之刃零』『明末：淵虚之羽』『燕雲十六声』の2026年最新情報。発売日、アップデート、公式発言をまとめます。"
+description: "『黒神話：悟空』『鍾馗』『影之刃零』『明末：ウツロノハネ』『燕雲十六声』『Tides of Annihilation』の2026年最新情報。発売日、アップデート、公式発言をまとめます。"
 image: "/images/zhongkui-04.jpg"
 ---
 
 # 最新ゲーム情報
 
-追跡している5つの中国AAAタイトルの継続取材。各記事から、対応する考証・分析ページへ移動できます。
+追跡している6つの中国AAAタイトルの継続取材。各記事から、対応する考証・分析ページへ移動できます。
 
 <div class="chronicle-grid">
+
+<a class="chronicle-card" href="./tides-of-annihilation-gamescom-2026-story-trailer">
+  <span class="chronicle-status">10月21日 · Tides of Annihilation</span>
+  <h3>gamescom 2026：ストーリートレーラーと試遊</h3>
+  <p>グウェンドリン、グィネヴィア、初の公開試遊——発売日は依然TBA。</p>
+</a>
 
 <a class="chronicle-card" href="./phantom-blade-zero-october-29-launch">
   <span class="chronicle-status">10月21日 · 影之刃零</span>
@@ -29,7 +35,7 @@ image: "/images/zhongkui-04.jpg"
 </a>
 
 <a class="chronicle-card" href="./wuchang-sequel-bai-wuchang">
-  <span class="chronicle-status">10月21日 · 明末：淵虚之羽</span>
+  <span class="chronicle-status">10月21日 · 明末：ウツロノハネ</span>
   <h3>『明末』続編：白無常が再び主役に</h3>
   <p>Indolphinityの新章、2,150万ユーロの資金、IP買収後に確認されたこと。</p>
 </a>

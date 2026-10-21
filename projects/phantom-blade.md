@@ -16,6 +16,11 @@ The protagonist, **Soul**, is framed for the murder of the Patriarch. Rescued by
   <img src="/images/pbzero-2.jpg" alt="Wuxia Punk Architecture" />
 </div>
 
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/images/pbz-girl.jpg" style="width: 100%; max-width: 900px; border-radius: 8px;" alt="The white-haired swordswoman in Phantom Blade Zero" loading="lazy" />
+  <p style="font-style: italic; color: #888; margin-top: 8px;">The mysterious white-haired swordswoman.</p>
+</div>
+
 ## 2. State of Play 2026 Teaser Trailer
 
 <div style="position: relative; max-width: 900px; margin: 30px auto; border: 1px solid #333; border-radius: 12px; overflow: hidden; background: #000; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">

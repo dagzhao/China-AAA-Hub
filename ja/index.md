@@ -21,7 +21,7 @@ features:
   - title: "次世代の展望"
     details: 「黒神話」から次なる期待作まで、進化し続ける中国ゲーム産業を追跡します。
 
-description: "中国3Aゲームハブ：『黒神話：悟空』『鍾馗』『明末：淵虚之羽』『燕雲十六声』『影之刃零』の物語・ゲームシステム・文化を解説。"
+description: "中国3Aゲームハブ：『黒神話：悟空』『鍾馗』『明末：ウツロノハネ』『燕雲十六声』『影之刃零』『Tides of Annihilation』の物語・ゲームシステム・文化を解説。"
 image: "/images/wukong-2.jpg"
 ---
 
@@ -74,7 +74,7 @@ image: "/images/wukong-2.jpg"
 
 <div class="project-card-custom">
   <div class="card-content">
-    <h3>明末：淵虚之羽 (WUCHANG: Fallen Feathers)</h3>
+    <h3>明末：ウツロノハネ（淵虚の羽）</h3>
     <p>古蜀文明とクトゥルフ神話の交錯。三星堆文化の背後にある血塗られた真実を暴き、ダークな巴蜀の終末風景を探索する。</p>
     <div class="image-row">
       <img src="/images/wuchang-1.jpg" alt="明末のキャラクタービジュアル" loading="lazy"/>
@@ -86,13 +86,27 @@ image: "/images/wukong-2.jpg"
 
 <div class="project-card-custom">
   <div class="card-content">
-    <h3>燕雲十六声 (Where Winds Meet)</h3>
+    <h3>風燕伝（燕雲十六声）</h3>
     <p>五代十国時代を舞台にしたオープンワールド武侠。門派に囚われず、自由気ままに、真の武侠サバイバルを再構築する。</p>
     <div class="image-row">
       <img src="/images/yanyun-1.jpg" alt="燕雲の風景" loading="lazy"/>
       <img src="/images/yanyun-2.jpg" alt="燕雲の戦闘シーン" loading="lazy"/>
     </div>
     <a href="/ja/projects/yanyun" class="card-btn">燕雲へ足を踏み入れる →</a>
+  </div>
+</div>
+
+<div class="project-card-custom">
+  <div class="card-content">
+    <h3>Tides of Annihilation
+    <span class="badge-upcoming">開発中</span>
+    </h3>
+    <p>崩壊したロンドンを舞台にしたアーサー王アクション。グウェンドリンとなり、円卓の騎士の幽影を率いて霧の向こうへ。</p>
+    <div class="image-row">
+      <img src="/images/tides-gwendolyn.jpg" alt="『Tides of Annihilation』主人公グウェンドリン" loading="lazy"/>
+      <img src="/images/tides-bow.jpg" alt="幽影の弓を構えるグウェンドリン" loading="lazy"/>
+    </div>
+    <a href="/ja/projects/tides-of-annihilation" class="card-btn">霧の向こうへ →</a>
   </div>
 </div>
 

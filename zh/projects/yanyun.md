@@ -16,6 +16,11 @@ image: "/images/yanyun-1.jpg"
   <img src="/images/yanyun-2.jpg" alt="樊楼乐舞特写" />
 </div>
 
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/images/yanyun-hero.jpg" style="width: 100%; max-width: 1000px; border-radius: 8px;" alt="《燕云十六声》中的游侠与同伴" loading="lazy" />
+  <p style="font-style: italic; color: #888; margin-top: 8px;">游侠与同伴。</p>
+</div>
+
 ## 2. 核心机制：无门无派，万物皆武
 《燕云十六声》重新定义了开放世界武侠的自由度。
 * **无门无派**：玩家不再受限于单一门派，可以通过“偷师”或挑战宗师来习得点穴、太极等百家武学。
@@ -29,6 +34,20 @@ image: "/images/yanyun-1.jpg"
 * **2025年11月14日** —— 国际版上线 **PC 与 PlayStation 5**。
 * **2025年12月12日** —— 登陆 **iOS / Android**。
 * **2026年6月8日** —— 登陆 **Xbox Series X|S**，并加入 **Game Pass**。
+
+### 平台与跨平台
+
+| 平台 | 上线时间 |
+| :--- | :--- |
+| PC（国服） | 2024年12月27日 |
+| 移动端（国服） | 2025年1月 |
+| PC + PS5（国际服） | 2025年11月14日 |
+| iOS / Android（国际服） | 2025年12月12日 |
+| Xbox Series X\|S + Game Pass | 2026年6月8日 |
+
+《燕云十六声》是**免费游玩**。PC、PlayStation、Xbox 与移动端玩家共享同一世界，**支持跨平台联机**。跨存档（cross-save）官方尚未详细说明，暂视为未确认。
+
+**日文官方名：** 日服名为 **風燕伝（ふうえんでん）**；与《燕云十六声》/ *Where Winds Meet* 是同一款游戏。
 
 **资料片时间线：**
 * **「皇宫」**（2026年5月28日）：首部大型资料片。

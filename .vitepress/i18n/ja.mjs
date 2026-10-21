@@ -15,9 +15,10 @@ export default {
       newYear: '黒神話：2026新春特別企画',
       wukong: '黒神話：悟空',
       zhongkui: '黒神話：鍾馗',
-      wuchang: '明末：淵虚之羽',
-      yanyun: '燕雲十六声',
-      phantomBlade: '影之刃零'
+      wuchang: '明末：ウツロノハネ',
+      yanyun: '風燕伝',
+      phantomBlade: '影之刃零',
+      tides: 'Tides of Annihilation'
     },
     culture: {
       basics: '文化 101',
@@ -35,15 +36,17 @@ export default {
       newYear: '黒神話：2026新春特別企画',
       wukong: '黒神話：悟空',
       zhongkui: '黒神話：鍾馗',
-      wuchang: '明末：淵虚之羽',
-      yanyun: '燕雲十六声',
+      wuchang: '明末：ウツロノハネ',
+      yanyun: '風燕伝',
       phantomBlade: '影之刃零',
+      tides: 'Tides of Annihilation',
       news: '最新情報',
+      tidesNews: 'Tides of Annihilation gamescom',
       phantomLaunch: '影之刃零 発売',
       zhongkuiGameplay: '鍾馗 実機解説',
       wukongDlc: '悟空 DLCの現状',
       wuchangSequel: '明末 続編',
-      yanyunQingzhou: '燕雲 2.3 青州'
+      yanyunQingzhou: '風燕伝 2.3 青州'
     },
     editLink: 'GitHub でこのページを編集',
     lastUpdated: '最終更新日',

@@ -1,10 +1,10 @@
 ---
-title: "燕雲十六声 — 2.3青州、2.2フィナーレ、1億人"
-description: "『燕雲十六声』2026年アップデート：2.2不見山フィナーレ、2.3青州、DLSS 5、中国版2.8.5、1億人、コラボ。"
+title: "風燕伝（燕雲十六声） — 2.3青州、2.2フィナーレ、1億人"
+description: "『風燕伝（燕雲十六声）』2026年アップデート：2.2不見山フィナーレ、2.3青州、DLSS 5、中国版2.8.5、1億人、コラボ。"
 image: "/images/yanyun-1.jpg"
 ---
 
-# 燕雲十六声 (Where Winds Meet)
+# 風燕伝（燕雲十六声）
 
 > 📰 **最新:** [『燕雲十六声』2.3：青州とDLSS 5](/ja/news/where-winds-meet-2-3-qingzhou)
 
@@ -14,6 +14,11 @@ image: "/images/yanyun-1.jpg"
 <div class="image-row">
   <img src="/images/yanyun-1.jpg" alt="燕雲の広大な風景" />
   <img src="/images/yanyun-2.jpg" alt="樊楼の舞姫と美学" />
+</div>
+
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/images/yanyun-hero.jpg" style="width: 100%; max-width: 1000px; border-radius: 8px;" alt="『風燕伝』の侠客と仲間" loading="lazy" />
+  <p style="font-style: italic; color: #888; margin-top: 8px;">侠客と仲間。</p>
 </div>
 
 ## 2. コアメカニクス：無門無派、万物が武となる
@@ -29,6 +34,20 @@ image: "/images/yanyun-1.jpg"
 * **2025年11月14日** —— 国際版が **PC / PlayStation 5** で配信。
 * **2025年12月12日** —— **iOS / Android** 版配信。
 * **2026年6月8日** —— **Xbox Series X|S** 版が **Game Pass** と同時に登場。
+
+### 対応機種・クロスプレイ・正式名称
+
+| 機種 | 配信開始 |
+| :--- | :--- |
+| PC（中国版） | 2024年12月27日 |
+| モバイル（中国版） | 2025年1月 |
+| PC + PS5（国際版） | 2025年11月14日 |
+| iOS / Android（国際版） | 2025年12月12日 |
+| Xbox Series X\|S + Game Pass | 2026年6月8日 |
+
+『風燕伝』は**基本無料**。PC、PlayStation、Xbox、モバイルのプレイヤーは同じ世界で**クロスプレイ**できます。クロスセーブは公式に詳細未発表のため、未確認として扱ってください。
+
+**正式名称：** 日本では **風燕伝（ふうえんでん）**、中国では **燕雲十六声**、英語圏では **Where Winds Meet**。すべて同じゲームです。
 
 **拡張パックの歩み：**
 * **「皇宫（Imperial Palace）」**（2026年5月28日）：第1弾大型拡張。

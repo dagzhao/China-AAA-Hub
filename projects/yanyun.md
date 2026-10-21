@@ -16,6 +16,11 @@ Set during the turbulent end of the Five Dynasties and Ten Kingdoms period, the 
   <img src="/images/yanyun-2.jpg" alt="Fanlou Dance Close-up" />
 </div>
 
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/images/yanyun-hero.jpg" style="width: 100%; max-width: 1000px; border-radius: 8px;" alt="The wanderer and his companion in Where Winds Meet" loading="lazy" />
+  <p style="font-style: italic; color: #888; margin-top: 8px;">The wanderer and his companion.</p>
+</div>
+
 ## 2. Core Philosophy: No Sects, Total Freedom
 *Where Winds Meet* redefines the boundaries of open-world martial arts.
 * **No Sect Restrictions**: Players are not bound to a single school. You can learn diverse techniques like Acupuncture and Tai Chi by "observing" others or challenging masters.
@@ -29,6 +34,20 @@ Set during the turbulent end of the Five Dynasties and Ten Kingdoms period, the 
 * **November 14, 2025** — international version on **PC** and **PlayStation 5**.
 * **December 12, 2025** — **iOS / Android** launch.
 * **June 8, 2026** — **Xbox Series X|S**, joining **Game Pass**.
+
+### Platforms and crossplay
+
+| Platform | Launch |
+| :--- | :--- |
+| PC (China) | December 27, 2024 |
+| Mobile (China) | January 2025 |
+| PC + PS5 (global) | November 14, 2025 |
+| iOS / Android (global) | December 12, 2025 |
+| Xbox Series X\|S + Game Pass | June 8, 2026 |
+
+*Where Winds Meet* is **free-to-play**. PC, PlayStation, Xbox and mobile players share the same world and can **play together across platforms**. Cross-save is not officially detailed; treat it as unconfirmed.
+
+**Japanese title:** the game is released in Japan as **風燕伝 (Fūenden)**. If you searched for that name, this is the same game as *Where Winds Meet* / 《燕云十六声》.
 
 **Expansion Timeline:**
 * **Imperial Palace** (May 28, 2026): the first major expansion.

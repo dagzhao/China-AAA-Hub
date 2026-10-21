@@ -1,6 +1,6 @@
 ---
-title: "Who Is Zhong Kui? Lore, 15-Minute Gameplay & Release Status"
-description: "Zhong Kui's legend, Seven-Star Sword and tiger mount, plus the August 2026 15-minute gameplay demo, Great Clam Lord boss, combat and release status."
+title: "Who Is Zhong Kui? Lore, Release Date Status & Gameplay"
+description: "Zhong Kui's legend, Seven-Star Sword and tiger mount, plus the August 2026 15-minute gameplay, release date status and Golden Joystick nomination."
 image: "/images/zhongkui-04.jpg"
 ---
 

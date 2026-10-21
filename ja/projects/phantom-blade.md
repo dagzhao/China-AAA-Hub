@@ -16,6 +16,11 @@ image: "/images/pbzero-1.jpg"
   <img src="/images/pbzero-2.jpg" alt="武侠パンクの世界観" />
 </div>
 
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/images/pbz-girl.jpg" style="width: 100%; max-width: 900px; border-radius: 8px;" alt="『影之刃零』の白髪の女剣士" loading="lazy" />
+  <p style="font-style: italic; color: #888; margin-top: 8px;">謎の白髪の女剣士。</p>
+</div>
+
 ## 2. State of Play 2026 ティーザー予告編
 
 <div style="position: relative; max-width: 900px; margin: 30px auto; border: 1px solid #333; border-radius: 12px; overflow: hidden; background: #000; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">

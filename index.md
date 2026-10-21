@@ -21,7 +21,7 @@ features:
   - title: "Future Projects"
     details: From Black Myth to upcoming titles, we track the evolution of Chinese game industry.
 
-description: "China AAA Games: in-depth lore, news and culture guides for Black Myth: Wukong, Zhong Kui, WUCHANG, Where Winds Meet and Phantom Blade Zero."
+description: "China AAA Games: in-depth lore, news and culture guides for Black Myth: Wukong, Zhong Kui, WUCHANG, Where Winds Meet, Phantom Blade Zero and Tides of Annihilation."
 image: "/images/wukong-2.jpg"
 ---
 <main>
@@ -91,6 +91,20 @@ image: "/images/wukong-2.jpg"
       <img src="/images/yanyun-2.jpg" alt="Where Winds Meet Combat Scene" loading="lazy"/>
     </div>
     <a href="/projects/yanyun" class="card-btn">Enter Yanyun →</a>
+  </div>
+</div>
+
+<div class="project-card-custom">
+  <div class="card-content">
+    <h3>Tides of Annihilation
+    <span class="badge-upcoming">In Development</span>
+    </h3>
+    <p>Arthurian action in a shattered London. Command the spectral Knights of the Round Table as Gwendolyn, and uncover what lies beyond the Fog.</p>
+    <div class="image-row">
+      <img src="/images/tides-gwendolyn.jpg" alt="Gwendolyn, protagonist of Tides of Annihilation" loading="lazy"/>
+      <img src="/images/tides-bow.jpg" alt="Gwendolyn drawing a spectral bow" loading="lazy"/>
+    </div>
+    <a href="/projects/tides-of-annihilation" class="card-btn">Enter the Fog →</a>
   </div>
 </div>
 

@@ -1,14 +1,20 @@
 ---
 title: "游戏资讯与更新 — 2026"
-description: "《黑神话：悟空》《钟馗》《影之刃零》《明末：渊虚之羽》《燕云十六声》2026 年最新动态：发售、版本更新与官方表态。"
+description: "《黑神话：悟空》《钟馗》《影之刃零》《明末：渊虚之羽》《燕云十六声》《湮灭之潮》2026 年最新动态：发售、版本更新与官方表态。"
 image: "/images/zhongkui-04.jpg"
 ---
 
 # 最新游戏动态
 
-持续追踪我们关注的五款中国 AAA 游戏。每篇资讯都附有对应游戏的完整考据与分析页面链接。
+持续追踪我们关注的六款中国 AAA 游戏。每篇资讯都附有对应游戏的完整考据与分析页面链接。
 
 <div class="chronicle-grid">
+
+<a class="chronicle-card" href="./tides-of-annihilation-gamescom-2026-story-trailer">
+  <span class="chronicle-status">10月21日 · 湮灭之潮</span>
+  <h3>科隆 2026：故事预告与试玩</h3>
+  <p>格雯德琳、桂妮薇儿与首次公开试玩——发售日仍是 TBA。</p>
+</a>
 
 <a class="chronicle-card" href="./phantom-blade-zero-october-29-launch">
   <span class="chronicle-status">10月21日 · 影之刃零</span>

@@ -17,7 +17,8 @@ export default {
       zhongkui: '黑神话：钟馗',
       wuchang: '明末：渊虚之羽',
       yanyun: '燕云十六声',
-      phantomBlade: '影之刃零'
+      phantomBlade: '影之刃零',
+      tides: '湮灭之潮'
     },
     culture: {
       basics: '文化 101',
@@ -38,7 +39,9 @@ export default {
       wuchang: '明末：渊虚之羽',
       yanyun: '燕云十六声',
       phantomBlade: '影之刃零',
+      tides: '湮灭之潮',
       news: '最新动态',
+      tidesNews: '湮灭之潮 科隆试玩',
       phantomLaunch: '影之刃零发售',
       zhongkuiGameplay: '钟馗实机解析',
       wukongDlc: '悟空 DLC 现状',

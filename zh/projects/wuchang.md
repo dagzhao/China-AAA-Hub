@@ -1,12 +1,14 @@
 ---
 title: "明末：渊虚之羽 — 500 万玩家与续作进展"
-description: "《明末：渊虚之羽》2026 年动态：500 万玩家、100 万销量、白无常续作、2150 万欧元投资、补丁与 Game Pass 状态。"
+description: "《明末：渊虚之羽》2026 年动态：500 万玩家、100 万销量、白无常续作、2150 万欧元投资、补丁与 Game Pass 状态，附全结局攻略。"
 image: "/images/wuchang-1.jpg"
 ---
 
 # 明末：渊虚之羽 (WUCHANG: Fallen Feathers)
 
 > 📰 **最新:** [明末续作：白无常回归，Indolphinity 与 2150 万欧元](/zh/news/wuchang-sequel-bai-wuchang)
+>
+> 📖 **攻略:** [全结局与真结局达成条件](/zh/projects/wuchang/endings)
 
 ## 1. 传说背景：古蜀与羽化
 游戏背景设定在明朝末年动荡的巴蜀之地。这不仅是一场历史动乱，更是一场关于“羽化”的诡谲灾厄。所谓的羽化并非升仙，而是一种结合了神秘三星堆文明的血色异变，将生灵转化为恐怖的怪物。
@@ -14,6 +16,11 @@ image: "/images/wuchang-1.jpg"
 <div class="image-row">
   <img src="/images/wuchang-1.jpg" alt="明末主角视觉图" />
   <img src="/images/wuchang-2.jpg" alt="古蜀风格怪物" />
+</div>
+
+<div class="image-row">
+  <img src="/images/wuchang-3.jpg" alt="女主角无常在战斗中" loading="lazy" />
+  <img src="/images/wuchang-4.jpg" alt="无常在幽暗厅堂中面对怪物" loading="lazy" />
 </div>
 
 ## 2. 核心机制：灵气与异能

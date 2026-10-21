@@ -8,6 +8,11 @@ image: "/images/zhongkui-04.jpg"
 
 Game Scienceの次なるダーク叙事詩。**鬼を喰らう者**・鍾馗は、容姿ゆえに及第を拒まれた才子であり、死後に冥界の裁き官となった。いま彼は重鎧の幽冥虎に跨り、陽の世と陰の世の戦いに身を投じる。
 
+<div class="image-row">
+  <img src="/images/zhongkui-sister.jpg" alt="Game Scienceの2026年新春ショートフィルムに登場する鍾馗の妹" />
+  <img src="/images/zhongkui-04.jpg" alt="鍾馗のキャラクタービジュアル" />
+</div>
+
 ### 📖 このプロジェクト
 
 | ページ | 内容 |

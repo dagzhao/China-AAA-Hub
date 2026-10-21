@@ -21,7 +21,7 @@ features:
   - title: "未来展望"
     details: 从《黑神话》到更多潜力之作，我们持续追踪中国游戏工业的进化。
 
-description: "中国 3A 游戏站：深度解析《黑神话：悟空》《钟馗》《明末：渊虚之羽》《燕云十六声》《影之刃零》的叙事、玩法与文化脉络。"
+description: "中国 3A 游戏站：深度解析《黑神话：悟空》《钟馗》《明末：渊虚之羽》《燕云十六声》《影之刃零》《湮灭之潮》的叙事、玩法与文化脉络。"
 image: "/images/wukong-2.jpg"
 ---
 
@@ -92,6 +92,20 @@ image: "/images/wukong-2.jpg"
       <img loading="lazy" src="/images/yanyun-2.jpg" alt="Yanyun Action" />
     </div>
     <a href="/zh/projects/yanyun" class="card-btn">步入燕云 →</a>
+  </div>
+</div>
+
+<div class="project-card-custom">
+  <div class="card-content">
+    <h3>湮灭之潮 (Tides of Annihilation)
+    <span class="badge-upcoming">开发中</span>
+    </h3>
+    <p>亚瑟王传说与现代伦敦的碰撞。扮演格雯德琳，召唤圆桌骑士的幽影，穿过迷雾，寻找圣杯与妹妹的下落。</p>
+    <div class="image-row">
+      <img src="/images/tides-gwendolyn.jpg" alt="《湮灭之潮》主角格雯德琳" loading="lazy"/>
+      <img src="/images/tides-bow.jpg" alt="格雯德琳拉开幽影弓" loading="lazy"/>
+    </div>
+    <a href="/zh/projects/tides-of-annihilation" class="card-btn">踏入迷雾 →</a>
   </div>
 </div>
 

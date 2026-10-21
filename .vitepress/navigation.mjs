@@ -7,7 +7,8 @@ const projectItems = [
   { key: 'zhongkui', path: '/projects/zhong-kui/lore' },
   { key: 'wuchang', path: '/projects/wuchang' },
   { key: 'yanyun', path: '/projects/yanyun' },
-  { key: 'phantomBlade', path: '/projects/phantom-blade' }
+  { key: 'phantomBlade', path: '/projects/phantom-blade' },
+  { key: 'tides', path: '/projects/tides-of-annihilation' }
 ]
 
 const cultureItems = [
@@ -24,6 +25,10 @@ const toolItems = [
 ]
 
 const newsItems = [
+  {
+    key: 'tidesNews',
+    path: '/news/tides-of-annihilation-gamescom-2026-story-trailer'
+  },
   {
     key: 'phantomLaunch',
     path: '/news/phantom-blade-zero-october-29-launch'

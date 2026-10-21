@@ -8,6 +8,11 @@ image: "/images/zhongkui-04.jpg"
 
 Game Science's next dark epic. The **Ghost Eater** is a brilliant scholar denied his rank, who became the Supreme Judge of the Underworld — now riding an armored tiger into a war between the living and the dead.
 
+<div class="image-row">
+  <img src="/images/zhongkui-sister.jpg" alt="Zhong Kui's sister in Game Science's 2026 New Year short film" />
+  <img src="/images/zhongkui-04.jpg" alt="Zhong Kui character visual" />
+</div>
+
 ### 📖 Explore this project
 
 | Page | What's inside |

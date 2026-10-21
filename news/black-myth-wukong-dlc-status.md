@@ -1,11 +1,11 @@
 ---
-title: "Black Myth: Wukong DLC in 2026: Paused, Not Cancelled"
-description: "Why Black Myth: Wukong still has no DLC: Feng Ji and Yang Qi on pausing the expansion, focusing on Zhong Kui, and what the 'Six Desires' rumor gets wrong."
+title: "Black Myth: Wukong DLC in 2026: Status, Rumors & What's Next"
+description: "No Wukong DLC is in development. Game Science shelved it for Black Myth: Zhong Kui. Every confirmed fact, fake leak and official quote, updated 2026."
 image: "/images/wukong-1.jpg"
 date: 2026-10-21
 ---
 
-# Black Myth: Wukong DLC in 2026: Paused, Not Cancelled
+# Black Myth: Wukong DLC in 2026: Status, Rumors & What's Next
 
 <p><em>Published October 21, 2026 · Black Myth: Wukong · 6 min read</em></p>
 
@@ -46,6 +46,15 @@ Feng Ji's own anniversary post focused on the studio's "ten working principles" 
 Store listings offer only the **Deluxe Upgrade** (the Bronze Cloud Staff, armor, wind chime and digital soundtrack) and the original soundtrack. There is no story content, no expansion and no season pass.
 
 The widely circulated **"Six Desires" (六欲劫)** DLC chapter has been **debunked**; no official source exists.
+
+## Rumors, fact-checked
+
+| Claim | Status |
+| :--- | :--- |
+| **"Six Desires" (六欲劫) DLC chapter** | **Fabricated.** No official source, no announcement, no store listing. |
+| **"Big news" on August 20, 2026 was Wukong DLC** | **False.** It was a 15-minute *Black Myth: Zhong Kui* gameplay demo. |
+| **A direct Wukong sequel is in development** | **Unconfirmed.** Yang Qi said the team chose a new game rather than a direct sequel; no sequel has been announced. |
+| **An annual or complete edition is coming** | **No official announcement.** Stores list only the Deluxe Upgrade and soundtrack. |
 
 ## A series rebrand
 

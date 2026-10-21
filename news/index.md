@@ -1,14 +1,20 @@
 ---
 title: "Game News & Updates — 2026"
-description: "The latest 2026 updates for Black Myth: Wukong, Zhong Kui, Phantom Blade Zero, WUCHANG and Where Winds Meet — dates, launches and what changed."
+description: "The latest 2026 updates for Black Myth: Wukong, Zhong Kui, Phantom Blade Zero, WUCHANG, Where Winds Meet and Tides of Annihilation — dates, launches and what changed."
 image: "/images/zhongkui-04.jpg"
 ---
 
 # Latest Game Updates
 
-Running coverage of the five Chinese AAA titles we track. Each story links back to the full lore and analysis page.
+Running coverage of the six Chinese AAA titles we track. Each story links back to the full lore and analysis page.
 
 <div class="chronicle-grid">
+
+<a class="chronicle-card" href="./tides-of-annihilation-gamescom-2026-story-trailer">
+  <span class="chronicle-status">Oct 21 · Tides of Annihilation</span>
+  <h3>Gamescom 2026: Story Trailer & Demo</h3>
+  <p>Gwendolyn, Guinevere and the first public hands-on — release date still TBA.</p>
+</a>
 
 <a class="chronicle-card" href="./phantom-blade-zero-october-29-launch">
   <span class="chronicle-status">Oct 21 · Phantom Blade Zero</span>

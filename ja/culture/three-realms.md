@@ -170,5 +170,5 @@ description: "天界・人間・幽冥。三界観が中国神話の死、霊魂
 - **[文化デコード辞典](/ja/glossary)** —— 39 の用語を一括検索。
 - **前のモジュール** —— [道教のコード](/ja/culture/taoism)。なぜこのゲームの戦闘が形而上学なのか。
 - **次のモジュール** —— [輪廻と因果](/ja/culture/karma)。なぜこれらの物語では誰も「勝って終わり」にできないのか。
-- **ゲーム本編へ** —— [黒神話：鍾馗](/ja/projects/zhong-kui/lore) · [黒神話：悟空](/ja/projects/wukong) · [明末：淵虚之羽](/ja/projects/wuchang)
+- **ゲーム本編へ** —— [黒神話：鍾馗](/ja/projects/zhong-kui/lore) · [黒神話：悟空](/ja/projects/wukong) · [明末：ウツロノハネ](/ja/projects/wuchang)
 - **[文化 101](/ja/culture/basics)** —— コース一覧。

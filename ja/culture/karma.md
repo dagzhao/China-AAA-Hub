@@ -161,5 +161,5 @@ description: "輪廻と因果。転生、借り、遅れてやってくる報い
 - **[文化デコード辞典](/ja/glossary)** —— 39 の用語を一括検索。
 - **前のモジュール** —— [三界観](/ja/culture/three-realms)。なぜこの宇宙観が組織図なのか。
 - **次のモジュール** —— [山海の異獣](/ja/culture/beasts)。なぜ中国の怪物は「発明」ではなく「考証」なのか。
-- **ゲーム本編へ** —— [黒神話：悟空](/ja/projects/wukong) · [明末：淵虚之羽](/ja/projects/wuchang) · [影之刃零](/ja/projects/phantom-blade)
+- **ゲーム本編へ** —— [黒神話：悟空](/ja/projects/wukong) · [明末：ウツロノハネ](/ja/projects/wuchang) · [影之刃零](/ja/projects/phantom-blade)
 - **[文化 101](/ja/culture/basics)** —— コース一覧。

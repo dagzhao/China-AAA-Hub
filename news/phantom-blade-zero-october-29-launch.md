@@ -1,11 +1,11 @@
 ---
-title: "Phantom Blade Zero Launches October 29: Final Previews, Wishlists & Unlock Times"
-description: "Phantom Blade Zero arrives October 29 on PS5 and PC. Final preview consensus, 3 million wishlists, 8 endings, 66 Days mode and global unlock times."
+title: "Phantom Blade Zero Release Date & Unlock Time: October 29, 2026"
+description: "Phantom Blade Zero launches October 29, 2026 on PS5 and PC. Exact unlock times by region, final previews, 3 million wishlists, 8 endings and 66 Days mode."
 image: "/images/pbzero-1.jpg"
 date: 2026-10-21
 ---
 
-# Phantom Blade Zero Launches October 29: Final Previews, Wishlists & Unlock Times
+# Phantom Blade Zero Release Date & Unlock Time
 
 <p><em>Published October 21, 2026 · Phantom Blade Zero · 6 min read</em></p>
 
@@ -17,6 +17,21 @@ date: 2026-10-21
 - **Platforms:** PS5, PS5 Pro, Steam, Epic Games Store, WeGame and TapTap PC.
 - **No Xbox version at launch.** Multiple outlets report a 12-month PS5 console exclusivity window, but neither S-GAME nor Sony has officially confirmed it.
 - **China pricing:** Standard Edition ¥268 (pre-order ¥258), Deluxe Edition ¥328.
+- **Preload details** had not been announced as of October 21.
+
+**Unlock time by region:**
+
+| Region | Local unlock time |
+| :--- | :--- |
+| Beijing / Singapore (UTC+8) | October 29, 10:00 |
+| Tokyo (UTC+9) | October 29, 11:00 |
+| Sydney (UTC+11) | October 29, 13:00 |
+| London (GMT) | October 29, 02:00 |
+| Central Europe (CET) | October 29, 03:00 |
+| US Pacific (PDT) | October 28, 19:00 |
+| US Eastern (EDT) | October 28, 22:00 |
+
+Steam and some storefronts may display **October 28** because of the UTC unlock time; the global unlock is still **02:00 UTC on October 29**.
 
 The delay was announced on **June 3, 2026**. Creative director **Liang Qiwei (Soulframe)** said the extra time was used to upgrade character models, rebuild parts of the environments and improve visual quality without relying on ray tracing. He also said the team was not moving out of another game's way.
 
@@ -36,6 +51,14 @@ From **October 8–9**, IGN, GameSpot, Game Rant, DualShockers, Wccftech and oth
 - **25–30 hours** for the main story, or about **40 hours** with side content. New Game+ and a full re-spec system are included.
 - **8 endings**, confirmed by Liang Qiwei — two more than *Elden Ring*. Side-quest completion and clue flags determine the outcome; a mainline-only run leads to a "bad" ending.
 - **66 Days mode:** 66 lives, one lost per death, with a **separate save file**, autosave only, and no tie to the Platinum trophy. Running out triggers a special "regret" ending.
+
+## Is Phantom Blade Zero a Soulslike?
+
+No. S-GAME and the final previews describe it as a fast, combo-driven action game closer to *Devil May Cry* and *Ninja Gaiden* than *Dark Souls*.
+
+- Enemies **do not respawn**, and there is **no death penalty**.
+- Combat is built around **parries**, **Ghost Step** counters and cinematic set pieces rather than stamina management.
+- The **66 Days mode** adds a permadeath-style challenge with 66 lives, but it is optional, uses a separate save and is not tied to the Platinum trophy.
 
 ## Pre-orders and wishlists
 

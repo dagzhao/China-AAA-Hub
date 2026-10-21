@@ -1,12 +1,27 @@
 ---
-title: "China AAA Games Chronicle — 2026 Updates"
-description: "Release dates, lore and 2026 news for Black Myth: Wukong, Zhong Kui, WUCHANG, Where Winds Meet and Phantom Blade Zero."
+title: "Chinese AAA Games 2026–2028: Release Calendar & Upcoming Titles"
+description: "Every major Chinese AAA game released or coming soon: Black Myth: Wukong, Zhong Kui, WUCHANG, Phantom Blade Zero, Where Winds Meet and Tides of Annihilation."
 image: "/images/zhongkui-04.jpg"
 ---
 
-# The AAA games Chronicles
+# Chinese AAA Games 2026–2028: Release Calendar
 
-Explore the deep narratives and cultural roots of China's rising AAA games titles.
+Every major Chinese AAA game we track — released, launching and still in development — with platforms and 2026 status.
+
+## 2026–2028 release calendar
+
+| Game | Status | Release date | Platforms |
+| :--- | :--- | :--- | :--- |
+| **Black Myth: Wukong** | Released | August 20, 2024 | PS5, PC, Xbox Series X\|S |
+| **Black Myth: Zhong Kui** | In development | TBA | PC, mainstream consoles |
+| **WUCHANG: Fallen Feathers** | Released | July 24, 2025 | PC, PS5, Xbox Series X\|S |
+| **Phantom Blade Zero** | Launching | **October 29, 2026** | PS5, PS5 Pro, PC |
+| **Where Winds Meet** | Live | Dec 27, 2024 (CN) / Nov 14, 2025 (global) | PC, PS5, Xbox, mobile |
+| **Tides of Annihilation** | In development | TBA (2027 reported) | PS5, PS5 Pro, Xbox Series X\|S, PC |
+
+> Dates are official unless marked "reported". TBA means no official release date has been announced.
+
+## All games
 
 <div class="chronicle-grid">
 
@@ -38,6 +53,12 @@ Explore the deep narratives and cultural roots of China's rising AAA games title
   <span class="chronicle-status">🟢 Live</span>
   <h3>Where Winds Meet</h3>
   <p>Open-world wuxia in the Five Dynasties era.</p>
+</a>
+
+<a class="chronicle-card" href="./projects/tides-of-annihilation">
+  <span class="chronicle-status">🔜 In Development</span>
+  <h3>Tides of Annihilation</h3>
+  <p>Arthurian action in a shattered London.</p>
 </a>
 
 </div>

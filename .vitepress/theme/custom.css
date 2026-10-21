@@ -565,6 +565,13 @@
     height: 100%;
     min-height: 220px;
   }
+
+  /* 6 张卡时，最后一张单独居中，避免 2×2 后留下一个空格子 */
+  .special-sections .project-card-custom:nth-child(even):last-child {
+    grid-column: 1 / -1;
+    width: calc(50% - var(--sp-5) / 2);
+    justify-self: center;
+  }
 }
 
 .project-card-custom {

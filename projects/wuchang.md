@@ -1,12 +1,14 @@
 ---
 title: "WUCHANG: Fallen Feathers — 5 Million Players & Sequel News"
-description: "WUCHANG's 2026 status: 5 million players, 1 million sales, Bai Wuchang sequel at Indolphinity, €21.5M funding, patch and Game Pass updates."
+description: "WUCHANG's 2026 status: 5 million players, 1 million sales, Bai Wuchang sequel at Indolphinity, €21.5M funding, patch and Game Pass updates — plus a full endings guide."
 image: "/images/wuchang-1.jpg"
 ---
 
 # WUCHANG: Fallen Feathers
 
 > 📰 **Latest:** [WUCHANG Sequel: Bai Wuchang Returns](/news/wuchang-sequel-bai-wuchang)
+>
+> 📖 **Guide:** [All endings & true ending walkthrough](/projects/wuchang/endings)
 
 ## 1. Lore: Ancient Shu & Featherization
 The story takes place during the turbulent final years of the Ming Dynasty in the land of Bashu. Beyond the historical chaos lies the "Featherization" plague—a grotesque mutation linked to the mysterious Sanxingdui civilization that transforms people into eldritch horrors instead of immortals.
@@ -14,6 +16,11 @@ The story takes place during the turbulent final years of the Ming Dynasty in th
 <div class="image-row">
   <img src="/images/wuchang-1.jpg" alt="Wuchang Character Visual" />
   <img src="/images/wuchang-2.jpg" alt="Ancient Shu Style Monster" />
+</div>
+
+<div class="image-row">
+  <img src="/images/wuchang-3.jpg" alt="Wuchang, the female protagonist, in combat" loading="lazy" />
+  <img src="/images/wuchang-4.jpg" alt="Wuchang facing a monster in a dark hall" loading="lazy" />
 </div>
 
 ## 2. Core Elements: Qi & Eldritch Powers

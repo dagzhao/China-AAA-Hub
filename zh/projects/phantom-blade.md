@@ -16,6 +16,11 @@ image: "/images/pbzero-1.jpg"
   <img src="/images/pbzero-2.jpg" alt="武侠朋克建筑风格" />
 </div>
 
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/images/pbz-girl.jpg" style="width: 100%; max-width: 900px; border-radius: 8px;" alt="《影之刃零》中的白发女剑客" loading="lazy" />
+  <p style="font-style: italic; color: #888; margin-top: 8px;">神秘的白发女剑客。</p>
+</div>
+
 ## 2. 🎬 State of Play 2026 先导预告片
 
 在2026年6月的索尼State of Play发布会上，官方放出了全新先导预告片。预告围绕面具男子携婴儿逃离神秘组织追杀展开，呈现了精彩的中式武侠战斗。

@@ -16,7 +16,8 @@ export default {
       zhongkui: 'Black Myth: Zhong Kui',
       wuchang: 'WUCHANG: Fallen Feathers',
       yanyun: 'Where Winds Meet',
-      phantomBlade: 'Phantom Blade Zero'
+      phantomBlade: 'Phantom Blade Zero',
+      tides: 'Tides of Annihilation'
     },
     culture: {
       basics: 'Culture 101',
@@ -37,7 +38,9 @@ export default {
       wuchang: 'Wuchang: Lore',
       yanyun: 'Yanyun: Lore',
       phantomBlade: 'Phantom Blade: Lore',
+      tides: 'Tides of Annihilation: Lore',
       news: 'Latest Updates',
+      tidesNews: 'Tides of Annihilation at Gamescom',
       phantomLaunch: 'Phantom Blade Zero Launch',
       zhongkuiGameplay: 'Zhong Kui Gameplay',
       wukongDlc: 'Wukong DLC Status',
