@@ -1187,3 +1187,74 @@
   border-color: var(--cinnabar);
   background: var(--ink-700);
 }
+
+/* ===== 16. 资讯页数据卡与图注 ===========================================
+   评测分数、容量这类「一眼要看到」的数字，用表格读起来像参数表；
+   改成横向数据条，扫读更快，也和卡片体系共用同一套边框与圆角。 */
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: var(--sp-3);
+  margin: var(--sp-5) 0 var(--sp-6);
+}
+
+.stat-card {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: var(--sp-3) var(--sp-4);
+  border: 1px solid var(--ink-400);
+  border-radius: var(--radius-sm);
+  background: linear-gradient(180deg, var(--ink-600), var(--ink-700));
+}
+
+.stat-label {
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: var(--paper-dim);
+}
+
+.stat-value {
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--paper);
+  font-variant-numeric: tabular-nums;
+}
+
+.stat-value.is-accent {
+  color: var(--accent);
+}
+
+.stat-note {
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--paper-faint);
+}
+
+/* 图注用显式 class：.vp-doc p em 会被正文强调误伤，已在第 10 节记录。 */
+.vp-doc figure.hero-figure,
+.vp-doc figure.section-figure {
+  margin: var(--sp-5) 0 var(--sp-6);
+}
+
+.vp-doc figure.hero-figure img,
+.vp-doc figure.section-figure img {
+  width: 100%;
+  margin: 0;
+}
+
+.vp-doc figcaption {
+  margin-top: var(--sp-2);
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--paper-faint);
+  text-align: center;
+}
+
+@media (max-width: 420px) {
+  .stat-value {
+    font-size: 1.5rem;
+  }
+}

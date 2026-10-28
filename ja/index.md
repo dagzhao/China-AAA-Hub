@@ -120,10 +120,10 @@ image: "/images/wukong-2.jpg"
 
 <div class="chronicle-grid">
 
-<a class="chronicle-card" href="/ja/news/phantom-blade-zero-october-29-launch">
-  <span class="chronicle-status">10月21日 · 影之刃零</span>
-  <h3>『影之刃零』10月29日発売</h3>
-  <p>最終プレビュー、300万ウィッシュリスト、解禁時間。</p>
+<a class="chronicle-card" href="/ja/news/phantom-blade-zero-launch-eve">
+  <span class="chronicle-status">10月28日 · 影之刃零</span>
+  <h3>発売前夜：Metacritic 88</h3>
+  <p>レビュー解禁、最終トレーラー、プリロード、GOTYノミネート。</p>
 </a>
 
 <a class="chronicle-card" href="/ja/news/black-myth-zhong-kui-15-minute-gameplay">

@@ -10,6 +10,12 @@ Running coverage of the six Chinese AAA titles we track. Each story links back t
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./phantom-blade-zero-launch-eve">
+  <span class="chronicle-status">Oct 28 · Phantom Blade Zero</span>
+  <h3>Launch Eve: Metacritic 88</h3>
+  <p>Reviews, the final trailer, the 300GB preload and a Golden Joystick GOTY nod.</p>
+</a>
+
 <a class="chronicle-card" href="./tides-of-annihilation-gamescom-2026-story-trailer">
   <span class="chronicle-status">Oct 21 · Tides of Annihilation</span>
   <h3>Gamescom 2026: Story Trailer & Demo</h3>

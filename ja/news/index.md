@@ -10,6 +10,12 @@ image: "/images/zhongkui-04.jpg"
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./phantom-blade-zero-launch-eve">
+  <span class="chronicle-status">10月28日 · 影之刃零</span>
+  <h3>発売前夜：Metacritic 88</h3>
+  <p>レビュー解禁、最終トレーラー、300GBのプリロード、GOTYノミネート。</p>
+</a>
+
 <a class="chronicle-card" href="./tides-of-annihilation-gamescom-2026-story-trailer">
   <span class="chronicle-status">10月21日 · Tides of Annihilation</span>
   <h3>gamescom 2026：ストーリートレーラーと試遊</h3>

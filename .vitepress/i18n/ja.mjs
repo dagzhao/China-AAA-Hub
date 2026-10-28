@@ -41,6 +41,7 @@ export default {
       phantomBlade: '影之刃零',
       tides: 'Tides of Annihilation',
       news: '最新情報',
+      phantomEve: '影之刃零 発売前夜',
       tidesNews: 'Tides of Annihilation gamescom',
       phantomLaunch: '影之刃零 発売',
       zhongkuiGameplay: '鍾馗 実機解説',

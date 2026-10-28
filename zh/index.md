@@ -119,10 +119,10 @@ image: "/images/wukong-2.jpg"
 
 <div class="chronicle-grid">
 
-<a class="chronicle-card" href="/zh/news/phantom-blade-zero-october-29-launch">
-  <span class="chronicle-status">10月21日 · 影之刃零</span>
-  <h3>影之刃零 10 月 29 日发售</h3>
-  <p>媒体最终前瞻、300 万愿望单与解锁时间。</p>
+<a class="chronicle-card" href="/zh/news/phantom-blade-zero-launch-eve">
+  <span class="chronicle-status">10月28日 · 影之刃零</span>
+  <h3>影之刃零发售前夜：M站 88 分</h3>
+  <p>评测解禁、最终预告、预载与金摇杆年度游戏提名。</p>
 </a>
 
 <a class="chronicle-card" href="/zh/news/black-myth-zhong-kui-15-minute-gameplay">

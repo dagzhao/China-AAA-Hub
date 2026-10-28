@@ -1,13 +1,13 @@
 ---
-title: "Phantom Blade Zero: October 29 Launch, Final Previews & Wishlists"
-description: "Phantom Blade Zero launches October 29, 2026. Final previews, 3 million wishlists, 8 endings, 66 Days mode, platforms and unlock times."
+title: "Phantom Blade Zero: October 29 Launch, Metacritic 88 & Combat"
+description: "Phantom Blade Zero launches October 29, 2026 with a Metacritic 88. Reviews, final trailer, 8 endings, 66 Days mode, platforms and unlock times."
 image: "/images/pbzero-1.jpg"
 date: 2026-02-05
 ---
 
 # Phantom Blade Zero: Kung Fu Punk
 
-> 📰 **Latest:** [Phantom Blade Zero Launches October 29](/news/phantom-blade-zero-october-29-launch)
+> 📰 **Latest:** [Phantom Blade Zero Launch Eve: Metacritic 88](/news/phantom-blade-zero-launch-eve)
 
 ## 1. Revenge in Despair: 66 Days to Live
 The protagonist, **Soul**, is framed for the murder of the Patriarch. Rescued by a mysterious healer but left with only 66 days to live, Soul must fight through the treacherous "Order" before his clock runs out.
@@ -81,9 +81,9 @@ Sony's dedicated State of Play delivered nearly **20 minutes** of deep-dive game
 - The main story reportedly spans **30–40 hours** with **multiple endings**.
 - Despite pre-show rumors, **no PS5 demo** was announced during the event.
 
-The countdown continues — only **eight days** remain until Soul's **66-day lifespan** ends. Are you ready to battle fate on **October 29**?
+The countdown is down to its final step — 10:00 AM tomorrow, Soul faces his fate.
 
-## 6. Final Previews: A Game of the Year Contender, Eight Days Out
+## 6. Final Previews: A Game of the Year Contender
 
 The global preview embargo lifted on **October 8–9, 2026**. After four to six hours of hands-on time, the consensus from IGN, GameSpot, Game Rant, DualShockers and others was unusually unanimous: this may be the best action game since *Sekiro*.
 
@@ -99,4 +99,37 @@ The global preview embargo lifted on **October 8–9, 2026**. After four to six 
 - **Wishlists & pre-orders** — the game passed **3 million wishlists** on **September 17** and was Steam's fourth most-wishlisted title at the time. Pre-orders "far exceeded expectations," topping the Steam global bestseller chart within about an hour of going live.
 - **Unlock timing** — **October 29 at 02:00 UTC (10:00 AM Beijing Time)** on PS5, PS5 Pro, Steam, Epic, WeGame and TapTap PC. No Xbox version at launch; a 12-month PS5 console exclusivity is widely reported but has not been officially confirmed by S-GAME or Sony.
 
-The final launch trailer had not been released as of **October 20** — expect it in the last few days before the countdown hits zero.
+The final launch trailer had not been released as of **October 20** — it arrived on **October 21–22**, covered in the next section.
+
+## 7. Reviews Break Cover: Metacritic 88
+
+The embargo lifted on **October 26**, and *Phantom Blade Zero* landed the highest score yet for a Chinese single-player game.
+
+<div class="stat-grid">
+  <div class="stat-card">
+    <span class="stat-label">METACRITIC · PC</span>
+    <span class="stat-value is-accent">88</span>
+    <span class="stat-note">44 critics</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">METACRITIC · PS5</span>
+    <span class="stat-value">86</span>
+    <span class="stat-note">34 critics</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">OPENCRITIC</span>
+    <span class="stat-value">89</span>
+    <span class="stat-note">opened at 91</span>
+  </div>
+</div>
+
+- **Metacritic:** **88** on PC (44 critics) and **86** on PS5 (34 critics); **OpenCritic** opened at **91** and sits around 89.
+- That is above *Black Myth: Wukong* (81), *Nioh 3* (86) and *Onimusha: Way of the Sword* (85).
+- Perfect scores came from PCGamesN, Wccftech, TheGamer, IGN China and 3DM; IGN proper gave **9/10**, GameSpot **8/10**, and Eurogamer's **3/5** is the only low mark.
+- Praise centers on combat, bosses and art direction; criticism on a thin story, invisible walls, and performance on PS5 and PC.
+- On **October 26** the game was nominated for **Ultimate Game of the Year** at the 2026 Golden Joystick Awards — the only Chinese single-player AAA title among 12 nominees. Voting closes **October 31 at 07:59 Beijing time**; the ceremony is **November 11**.
+- The **3:10 final trailer** arrived on **October 21–22**, bringing 3D remakes of legacy moves such as Phantom Kill and the Fire Dragon Tornado.
+- **Preload** opened on October 27: the PC build is about **145GB** but needs **300GB** free; the PS5 download is **134.857GB**. An SSD is required, and the C: drive is discouraged.
+- **Unlock: October 29, 2026 at 10:00 Beijing time** on PS5, PS5 Pro and PC.
+
+> 📰 Full roundup: [Phantom Blade Zero Launch Eve: Metacritic 88](/news/phantom-blade-zero-launch-eve)

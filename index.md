@@ -118,10 +118,10 @@ image: "/images/wukong-2.jpg"
 
 <div class="chronicle-grid">
 
-<a class="chronicle-card" href="/news/phantom-blade-zero-october-29-launch">
-  <span class="chronicle-status">Oct 21 · Phantom Blade Zero</span>
-  <h3>Phantom Blade Zero Launches October 29</h3>
-  <p>Final previews, 3 million wishlists and unlock times.</p>
+<a class="chronicle-card" href="/news/phantom-blade-zero-launch-eve">
+  <span class="chronicle-status">Oct 28 · Phantom Blade Zero</span>
+  <h3>Launch Eve: Metacritic 88</h3>
+  <p>Reviews, the final trailer, preload details and a GOTY nomination.</p>
 </a>
 
 <a class="chronicle-card" href="/news/black-myth-zhong-kui-15-minute-gameplay">

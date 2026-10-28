@@ -10,6 +10,12 @@ image: "/images/zhongkui-04.jpg"
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./phantom-blade-zero-launch-eve">
+  <span class="chronicle-status">10月28日 · 影之刃零</span>
+  <h3>影之刃零发售前夜：M站 88 分</h3>
+  <p>评测解禁、最终预告、145GB 预载与金摇杆年度游戏提名。</p>
+</a>
+
 <a class="chronicle-card" href="./tides-of-annihilation-gamescom-2026-story-trailer">
   <span class="chronicle-status">10月21日 · 湮灭之潮</span>
   <h3>科隆 2026：故事预告与试玩</h3>

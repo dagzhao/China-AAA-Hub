@@ -26,6 +26,10 @@ const toolItems = [
 
 const newsItems = [
   {
+    key: 'phantomEve',
+    path: '/news/phantom-blade-zero-launch-eve'
+  },
+  {
     key: 'tidesNews',
     path: '/news/tides-of-annihilation-gamescom-2026-story-trailer'
   },

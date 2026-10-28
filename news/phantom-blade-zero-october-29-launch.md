@@ -17,7 +17,7 @@ date: 2026-10-21
 - **Platforms:** PS5, PS5 Pro, Steam, Epic Games Store, WeGame and TapTap PC.
 - **No Xbox version at launch.** Multiple outlets report a 12-month PS5 console exclusivity window, but neither S-GAME nor Sony has officially confirmed it.
 - **China pricing:** Standard Edition ¥268 (pre-order ¥258), Deluxe Edition ¥328.
-- **Preload details** had not been announced as of October 21.
+- **Preload** opened on **October 27 at 10:00**; see the [launch-eve roundup](/news/phantom-blade-zero-launch-eve).
 
 **Unlock time by region:**
 
