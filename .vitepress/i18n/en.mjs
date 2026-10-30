@@ -43,7 +43,7 @@ export default {
       phantomLaunchDay: 'Phantom Blade Zero Launch Day',
       phantomEve: 'Phantom Blade Zero Launch Eve',
       tidesNews: 'Tides of Annihilation at Gamescom',
-      phantomLaunch: 'Phantom Blade Zero Launch',
+      phantomLaunch: 'Phantom Blade Zero Release Date',
       zhongkuiGameplay: 'Zhong Kui Gameplay',
       wukongDlc: 'Wukong DLC Status',
       wuchangSequel: 'Wuchang Sequel',

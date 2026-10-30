@@ -15,8 +15,8 @@ date: 2026-02-05
 游戏背景设定在明朝末年动荡的巴蜀之地。这不仅是一场历史动乱，更是一场关于“羽化”的诡谲灾厄。所谓的羽化并非升仙，而是一种结合了神秘三星堆文明的血色异变，将生灵转化为恐怖的怪物。
 
 <div class="image-row">
-  <img src="/images/wuchang-1.jpg" alt="明末主角视觉图" />
-  <img src="/images/wuchang-2.jpg" alt="古蜀风格怪物" />
+  <img loading="lazy" src="/images/wuchang-1.jpg" alt="明末主角视觉图" />
+  <img loading="lazy" src="/images/wuchang-2.jpg" alt="古蜀风格怪物" />
 </div>
 
 <div class="image-row">

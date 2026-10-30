@@ -28,6 +28,7 @@ ARTICLE_IMAGES = [
     "wukong-1.jpg",
     "tides-gwendolyn.jpg",
     "pbzero-1.jpg",
+    "pbzero-2.jpg",
     "wukong-2.jpg",
 ]
 

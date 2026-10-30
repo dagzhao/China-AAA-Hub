@@ -15,8 +15,8 @@ date: 2026-02-05
 物語は明朝末期の激動の時代、巴蜀（はしょく）の地を舞台に展開します。これは単なる歴史的動乱ではなく、「羽化」と呼ばれる奇怪な災厄の物語です。羽化とは昇天ではなく、神秘的な三星堆文明と結びついた血塗られた変異であり、衆生を恐ろしい怪物へと変えてしまいます。
 
 <div class="image-row">
-  <img src="/images/wuchang-1.jpg" alt="明末キャラクタービジュアル" />
-  <img src="/images/wuchang-2.jpg" alt="古蜀風の怪物" />
+  <img loading="lazy" src="/images/wuchang-1.jpg" alt="明末キャラクタービジュアル" />
+  <img loading="lazy" src="/images/wuchang-2.jpg" alt="古蜀風の怪物" />
 </div>
 
 <div class="image-row">

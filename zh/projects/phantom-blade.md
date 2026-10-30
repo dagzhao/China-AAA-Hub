@@ -13,8 +13,8 @@ date: 2026-02-05
 主角“魂”被诬陷为杀害首领的凶手，在重伤濒死之际被神秘名医救治，但生命仅剩 66 天。玩家必须在倒计时结束前，在充满暗影的“组织”中杀出血路。
 
 <div class="image-row">
-  <img src="/images/pbzero-1.jpg" alt="魂的战斗姿态" />
-  <img src="/images/pbzero-2.jpg" alt="武侠朋克建筑风格" />
+  <img loading="lazy" src="/images/pbzero-1.jpg" alt="魂的战斗姿态" />
+  <img loading="lazy" src="/images/pbzero-2.jpg" alt="武侠朋克建筑风格" />
 </div>
 
 <div style="text-align: center; margin: 24px 0;">
@@ -34,10 +34,12 @@ date: 2026-02-05
   <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
     <video 
       controls 
+      playsinline
+      aria-label="《影之刃零》官方预告片"
       preload="none"
       controlsList="nodownload" 
       oncontextmenu="return false;"
-      poster="/images/pbzero-video.png"
+      poster="/images/pbzero-video.jpg"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; display: block;"
     >
       <source src="/videos/phantom-blade-zero-teaser.mp4" type="video/mp4">
@@ -137,6 +139,29 @@ date: 2026-02-05
 > 📰 完整汇总：[影之刃零发售前夜：M站 88 分、最终预告与预载](/zh/news/phantom-blade-zero-launch-eve)
 
 ## 8. 发售首日：Steam 峰值 72 万、好评率 83%
+
+<div class="stat-grid">
+  <div class="stat-card">
+    <span class="stat-label">STEAM 峰值</span>
+    <span class="stat-value is-accent">72万</span>
+    <span class="stat-note">723,876 · 首日</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">历史排名</span>
+    <span class="stat-value">#15</span>
+    <span class="stat-note">Steam 同时在线总榜</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">STEAM 好评率</span>
+    <span class="stat-value">83%</span>
+    <span class="stat-note">约 2.34 万条评价</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">首日补丁</span>
+    <span class="stat-value">5GB</span>
+    <span class="stat-note">PC 版 · 光追优化</span>
+  </div>
+</div>
 
 - **Steam 同时在线** 约 13 小时达到 **约 72 万**（峰值 723,876），位列历史总榜第 15，并登顶全球热销榜。
 - **Steam 评价** 从早间的 76–79% 回升至 **83%**（约 2.34 万条），差评集中在闪退、着色器编译与 N 卡驱动兼容。

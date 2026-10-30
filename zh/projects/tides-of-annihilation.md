@@ -12,8 +12,8 @@ date: 2026-10-21
 **《湮灭之潮》（Tides of Annihilation）** 是中国工作室 **Eclipse Glow Games（日蚀边缘工作室）** 开发的单机亚瑟王题材动作冒险游戏。故事发生在被异界入侵撕裂的现代伦敦，是目前最受关注、却仍未公布发售日的中国 AAA 新作之一。
 
 <div class="image-row">
-  <img src="/images/tides-gwendolyn.jpg" alt="《湮灭之潮》主角格雯德琳" />
-  <img src="/images/tides-bow.jpg" alt="格雯德琳拉开幽影弓" />
+  <img loading="lazy" src="/images/tides-gwendolyn.jpg" alt="《湮灭之潮》主角格雯德琳" />
+  <img loading="lazy" src="/images/tides-bow.jpg" alt="格雯德琳拉开幽影弓" />
 </div>
 
 ## 1. 速览

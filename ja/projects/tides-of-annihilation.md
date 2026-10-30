@@ -12,8 +12,8 @@ date: 2026-10-21
 **『Tides of Annihilation（壊滅の潮汐）』** は、中国のスタジオ **Eclipse Glow Games（日蝕縁辺工作室）** が開発するシングルプレイヤーのアーサー王アクションアドベンチャーです。異界の侵略で崩壊した現代ロンドンを舞台にし、発売日はまだ発表されていない注目の中国AAAタイトルです。
 
 <div class="image-row">
-  <img src="/images/tides-gwendolyn.jpg" alt="『Tides of Annihilation』主人公グウェンドリン" />
-  <img src="/images/tides-bow.jpg" alt="幽影の弓を構えるグウェンドリン" />
+  <img loading="lazy" src="/images/tides-gwendolyn.jpg" alt="『Tides of Annihilation』主人公グウェンドリン" />
+  <img loading="lazy" src="/images/tides-bow.jpg" alt="幽影の弓を構えるグウェンドリン" />
 </div>
 
 ## 1. 基本情報

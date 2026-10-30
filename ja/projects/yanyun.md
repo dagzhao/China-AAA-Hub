@@ -13,8 +13,8 @@ date: 2026-02-05
 五代十国の末期、旧秩序が崩壊し新たな時代が芽吹こうとする激動の時代が舞台です。燕雲十六州の荒涼たる大地で、一人の侠客として戦火の中を生き抜き、歴史の潮流の中で自らの存在意義を見出します。
 
 <div class="image-row">
-  <img src="/images/yanyun-1.jpg" alt="燕雲の広大な風景" />
-  <img src="/images/yanyun-2.jpg" alt="樊楼の舞姫と美学" />
+  <img loading="lazy" src="/images/yanyun-1.jpg" alt="燕雲の広大な風景" />
+  <img loading="lazy" src="/images/yanyun-2.jpg" alt="樊楼の舞姫と美学" />
 </div>
 
 <div style="text-align: center; margin: 24px 0;">

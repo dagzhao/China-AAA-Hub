@@ -9,6 +9,8 @@ date: 2026-10-21
 
 <p><em>Published October 21, 2026 · Phantom Blade Zero · 6 min read</em></p>
 
+> 📅 **Update:** The game launched on October 29 — see the [launch-day roundup](/news/phantom-blade-zero-launch-day).
+
 *Phantom Blade Zero* is eight days away. After a 50-day delay from its original September 9 date, S-GAME's "kungfupunk" action RPG arrives on **October 29, 2026** for PlayStation 5, PlayStation 5 Pro and PC. The final preview embargo lifted on October 8–9, and the response has been unusually unanimous: several outlets are calling it the best action game since *Sekiro* and a Game of the Year contender.
 
 ## Release date and unlock time

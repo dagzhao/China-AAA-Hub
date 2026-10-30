@@ -13,8 +13,8 @@ date: 2026-02-05
 首領殺しの濡れ衣を着せられた主人公「魂（ソウル）」。瀕死の重傷を負うが、謎の医師によって命を繋ぎ止められる。しかし、その余命はわずか66日。カウントダウンが止まる前に、影の組織「秩序」を相手に最後の戦いに挑む。
 
 <div class="image-row">
-  <img src="/images/pbzero-1.jpg" alt="ソウルの戦闘スタイル" />
-  <img src="/images/pbzero-2.jpg" alt="武侠パンクの世界観" />
+  <img loading="lazy" src="/images/pbzero-1.jpg" alt="ソウルの戦闘スタイル" />
+  <img loading="lazy" src="/images/pbzero-2.jpg" alt="武侠パンクの世界観" />
 </div>
 
 <div style="text-align: center; margin: 24px 0;">
@@ -32,10 +32,12 @@ date: 2026-02-05
   <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
     <video 
       controls 
+      playsinline
+      aria-label="『影之刃零』公式トレーラー"
       preload="none"
       controlsList="nodownload" 
       oncontextmenu="return false;"
-      poster="/images/pbzero-video.png"
+      poster="/images/pbzero-video.jpg"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; display: block;"
     >
       <source src="/videos/phantom-blade-zero-teaser.mp4" type="video/mp4">
@@ -135,6 +137,29 @@ date: 2026-02-05
 > 📰 詳細まとめ：[『影之刃零』発売前夜：Metacritic 88、最終トレーラーとプリロード](/ja/news/phantom-blade-zero-launch-eve)
 
 ## 8. 発売初日：Steamピーク72万、好評価率83%
+
+<div class="stat-grid">
+  <div class="stat-card">
+    <span class="stat-label">STEAM ピーク</span>
+    <span class="stat-value is-accent">72万</span>
+    <span class="stat-note">723,876 · 初日</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">歴代順位</span>
+    <span class="stat-value">#15</span>
+    <span class="stat-note">Steam 同時接続</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">STEAM 好評価率</span>
+    <span class="stat-value">83%</span>
+    <span class="stat-note">約2.34万件のレビュー</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">初日パッチ</span>
+    <span class="stat-value">5GB</span>
+    <span class="stat-note">PC版 · レイトレ最適化</span>
+  </div>
+</div>
 
 - **Steam同時接続** は約13時間で **約72万**（ピーク723,876）に到達。歴代15位、世界売上ランキング首位。
 - **Steamレビュー** は76〜79%から **83%**（約2.34万件）へ回復。低評価はクラッシュ、シェーダー、NVIDIAドライバー互換性に集中。

@@ -12,8 +12,8 @@ date: 2026-10-21
 **Tides of Annihilation** is a single-player Arthurian action-adventure from Chinese studio **Eclipse Glow Games**. It is set in a modern London shattered by an invasion from the Otherworld, and it is one of the most anticipated Chinese AAA titles still without a release date.
 
 <div class="image-row">
-  <img src="/images/tides-gwendolyn.jpg" alt="Gwendolyn, the protagonist of Tides of Annihilation" />
-  <img src="/images/tides-bow.jpg" alt="Gwendolyn drawing a spectral bow in Tides of Annihilation" />
+  <img loading="lazy" src="/images/tides-gwendolyn.jpg" alt="Gwendolyn, the protagonist of Tides of Annihilation" />
+  <img loading="lazy" src="/images/tides-bow.jpg" alt="Gwendolyn drawing a spectral bow in Tides of Annihilation" />
 </div>
 
 ## 1. Quick facts

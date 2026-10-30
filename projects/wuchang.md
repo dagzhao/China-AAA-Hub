@@ -15,8 +15,8 @@ date: 2026-02-05
 The story takes place during the turbulent final years of the Ming Dynasty in the land of Bashu. Beyond the historical chaos lies the "Featherization" plague—a grotesque mutation linked to the mysterious Sanxingdui civilization that transforms people into eldritch horrors instead of immortals.
 
 <div class="image-row">
-  <img src="/images/wuchang-1.jpg" alt="Wuchang Character Visual" />
-  <img src="/images/wuchang-2.jpg" alt="Ancient Shu Style Monster" />
+  <img loading="lazy" src="/images/wuchang-1.jpg" alt="Wuchang Character Visual" />
+  <img loading="lazy" src="/images/wuchang-2.jpg" alt="Ancient Shu Style Monster" />
 </div>
 
 <div class="image-row">

@@ -1,6 +1,6 @@
 ---
-title: "Phantom Blade Zero Launch Day: 720K Steam Peak, 83% Positive and a 5GB Patch"
-description: "Phantom Blade Zero's first day: a ~720,000 Steam concurrent peak and No. 15 all-time, reviews climbing to 83%, a 5GB day-one patch, Nvidia driver rollback advice, and why critics (88) and players disagree."
+title: "Phantom Blade Zero Launch: 720K Steam Peak, 83% Positive"
+description: "Phantom Blade Zero's first day: a 720,000 Steam peak, reviews at 83%, a 5GB day-one patch and the Nvidia driver rollback."
 image: "/images/pbzero-2.jpg"
 date: 2026-10-30
 ---
@@ -12,7 +12,7 @@ date: 2026-10-30
 *Phantom Blade Zero* unlocked on PS5, PS5 Pro and PC at 10:00 AM Beijing time on October 29. A day later, the numbers are in: a Steam concurrent peak of roughly **720,000**, good enough for No. 15 on the all-time chart and the top of the global bestseller list. But technical problems kept Steam reviews in the 70s for much of the day — this was a launch defined by a race between reputation and optimization.
 
 <figure class="hero-figure">
-  <img src="/images/pbzero-2.jpg" alt="Phantom Blade Zero's white-haired swordswoman" width="1510" height="856" loading="eager" />
+  <img src="/images/pbzero-2.jpg" alt="Phantom Blade Zero's white-haired swordswoman" width="1510" height="856" loading="eager" fetchpriority="high" />
   <figcaption>Phantom Blade Zero — kung fu punk's first-day report card</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Within **20 minutes** of unlock, concurrent players passed **100,000** and the g
 
 ## Steam reviews: 83% positive, and the complaints are all about performance
 
-User reviews opened at **76–79%** and climbed to **83%** by late evening (~23,400 reviews) — a "Mostly Positive" rating.
+User reviews opened at **76–79%** and climbed to **83%** by late evening (~23,400 reviews), moving from "Mostly Positive" into "Very Positive" territory.
 
 - **The negatives are strikingly consistent, and unrelated to design:** crashes, slow shader compilation, long load times, unstable frame rates, compatibility issues with Nvidia driver 621.01, and hair/sky rendering glitches on AMD cards.
 - **The positives:** combat impact, weapon feel, fluid combos and the "golden-age Hong Kong cinema" staging.
@@ -116,10 +116,12 @@ The trailer is even more direct: parries, executions, weapon swaps and boss figh
   <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
     <video
       controls
+      playsinline
+      aria-label="Phantom Blade Zero official trailer"
       preload="none"
       controlsList="nodownload"
       oncontextmenu="return false;"
-      poster="/images/pbzero-video.png"
+      poster="/images/pbzero-video.jpg"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; display: block;"
     >
       <source src="/videos/phantom-blade-zero-teaser.mp4" type="video/mp4">
@@ -160,6 +162,7 @@ On launch day, **Feng Ji** — producer of *Black Myth: Wukong* — published a 
 - [Ming Pao: Topping Steam on day one, rated above Black Myth](https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20261029/s00004/1793256961148/%E5%9C%8B%E7%94%A2%E9%81%8A%E6%88%B2%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E7%99%BC%E5%94%AE%E9%A6%96%E6%97%A5%E7%99%BBsteam%E6%A6%9C%E9%A6%96-%E8%A9%95%E5%88%86%E8%B6%85%E3%80%8A%E9%BB%91%E7%A5%9E%E8%A9%B1%E3%80%8B)
 - [Sina Finance: 700,000 concurrents on day one](https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwxksk5882640.shtml)
 - [Notebookcheck: the 5GB day-one patch and the Nvidia rollback](https://www.notebookcheck.net/Phantom-Blade-Zero-s-5GB-day-one-patch-boosts-ray-tracing-and-S-Game-wants-you-to-roll-back-your-Nvidia-driver.1437554.0.html)
+- [GamerFuzion: PS5, PS5 Pro and PC performance compared](https://www.gamerfuzion.com/phantom-blade-zero-which-version-to-play-ps5-vs-ps5-pro-vs-pc-performance/)
 - [NetEase: the 5GB day-one patch goes live](https://www.163.com/dy/article/LAEUTUI705561FXJ_pdya11y.html)
 - [Zhihu: 200,000 online within half an hour, Feng Ji speaks out](https://zhuanlan.zhihu.com/p/2099146130659487779)
 - [Jiemian: topping the Steam bestseller chart](https://m.jiemian.com/article/15265259.html)

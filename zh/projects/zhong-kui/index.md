@@ -9,8 +9,8 @@ image: "/images/zhongkui-04.jpg"
 游戏科学的下一部暗黑史诗。**食鬼者**钟馗本是因相貌被黜落第的才子，死后受封为冥界判官——如今他骑着重铠幽冥虎，卷入阳间与阴世的战争。
 
 <div class="image-row">
-  <img src="/images/zhongkui-sister.jpg" alt="游戏科学 2026 新春短片中的钟馗妹妹" />
-  <img src="/images/zhongkui-04.jpg" alt="钟馗角色视觉图" />
+  <img loading="lazy" src="/images/zhongkui-sister.jpg" alt="游戏科学 2026 新春短片中的钟馗妹妹" />
+  <img loading="lazy" src="/images/zhongkui-04.jpg" alt="钟馗角色视觉图" />
 </div>
 
 ### 📖 本项目内容

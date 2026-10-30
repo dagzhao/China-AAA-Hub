@@ -44,7 +44,7 @@ export default {
       phantomLaunchDay: '影之刃零发售首日',
       phantomEve: '影之刃零发售前夜',
       tidesNews: '湮灭之潮 科隆试玩',
-      phantomLaunch: '影之刃零发售',
+      phantomLaunch: '影之刃零发售时间',
       zhongkuiGameplay: '钟馗实机解析',
       wukongDlc: '悟空 DLC 现状',
       wuchangSequel: '明末续作',

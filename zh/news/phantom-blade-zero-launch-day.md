@@ -1,6 +1,6 @@
 ---
 title: "影之刃零发售首日：Steam 峰值 72 万、好评率 83% 与 5GB 补丁"
-description: "《影之刃零》10 月 29 日发售首日汇总：Steam 同时在线峰值约 72 万、历史总榜第 15，好评率升至 83%，5GB 首日补丁与 N 卡驱动回滚建议，以及媒体 88 分与玩家口碑的反差。"
+description: "《影之刃零》发售首日：Steam 峰值约 72 万、历史第 15，好评率 83%，5GB 首日补丁与 N 卡驱动回滚建议。"
 image: "/images/pbzero-2.jpg"
 date: 2026-10-30
 ---
@@ -12,7 +12,7 @@ date: 2026-10-30
 10月29日上午10点，《影之刃零》在 PS5、PS5 Pro 与 PC 同步解锁。首日过去，它交出了一份足够漂亮的数据：Steam 同时在线峰值约 **72 万**，跻身历史总榜第 15，并登顶全球热销榜。但技术问题也让 Steam 好评率一度停在七成区间——这是一场「口碑与优化赛跑」的首日。
 
 <figure class="hero-figure">
-  <img src="/images/pbzero-2.jpg" alt="《影之刃零》最终预告中的白发女性角色" width="1510" height="856" loading="eager" />
+  <img src="/images/pbzero-2.jpg" alt="《影之刃零》最终预告中的白发女性角色" width="1510" height="856" loading="eager" fetchpriority="high" />
   <figcaption>《影之刃零》——武侠朋克的首日答卷</figcaption>
 </figure>
 
@@ -57,9 +57,9 @@ date: 2026-10-30
 - **但距离《黑神话：悟空》仍有明显差距。** 后者 Steam 峰值约 240 万，仍是国产单机的天花板。
 - 发售日是周四，**周末峰值**被认为还会继续抬高。
 
-## Steam 评价：83% 多半好评，差评几乎都在「跑不动」
+## Steam 评价：83% 特别好评，差评几乎都在「跑不动」
 
-首日评价一度只有 **76%–79%**，随着更多玩家推进流程，夜间回升到 **83%**（约 2.34 万条），整体为「多半好评」。
+首日评价一度只有 **76%–79%**，随着更多玩家推进流程，夜间回升到 **83%**（约 2.34 万条），进入 Steam 的「特别好评」区间。
 
 - **差评高度集中，且与玩法无关：** 闪退、着色器编译慢、加载缓慢、帧率不稳、N 卡 621.01 驱动兼容问题，以及 A 卡下头发与天空的显示异常。
 - **好评高频词：** 打击感、兵器手感、连招流畅、「港片黄金时代」的电影化演出。
@@ -116,10 +116,12 @@ date: 2026-10-30
   <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
     <video
       controls
+      playsinline
+      aria-label="《影之刃零》官方预告片"
       preload="none"
       controlsList="nodownload"
       oncontextmenu="return false;"
-      poster="/images/pbzero-video.png"
+      poster="/images/pbzero-video.jpg"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; display: block;"
     >
       <source src="/videos/phantom-blade-zero-teaser.mp4" type="video/mp4">
@@ -160,6 +162,7 @@ date: 2026-10-30
 - [明报：发售首日登 Steam 榜首，评分超《黑神话》](https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20261029/s00004/1793256961148/%E5%9C%8B%E7%94%A2%E9%81%8A%E6%88%B2%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E7%99%BC%E5%94%AE%E9%A6%96%E6%97%A5%E7%99%BBsteam%E6%A6%9C%E9%A6%96-%E8%A9%95%E5%88%86%E8%B6%85%E3%80%8A%E9%BB%91%E7%A5%9E%E8%A9%B1%E3%80%8B)
 - [新浪财经：首日在线突破 70 万](https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwxksk5882640.shtml)
 - [Notebookcheck：5GB 首日补丁与 N 卡驱动回滚](https://www.notebookcheck.net/Phantom-Blade-Zero-s-5GB-day-one-patch-boosts-ray-tracing-and-S-Game-wants-you-to-roll-back-your-Nvidia-driver.1437554.0.html)
+- [GamerFuzion：PS5、PS5 Pro 与 PC 首日性能对比](https://www.gamerfuzion.com/phantom-blade-zero-which-version-to-play-ps5-vs-ps5-pro-vs-pc-performance/)
 - [网易：5GB 首日补丁上线](https://www.163.com/dy/article/LAEUTUI705561FXJ_pdya11y.html)
 - [知乎：半小时 20 万人在线，冯骥发文力挺](https://zhuanlan.zhihu.com/p/2099146130659487779)
 - [界面新闻：登顶 Steam 热销榜](https://m.jiemian.com/article/15265259.html)

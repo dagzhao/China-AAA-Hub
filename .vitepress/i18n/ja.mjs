@@ -44,7 +44,7 @@ export default {
       phantomLaunchDay: '影之刃零 発売初日',
       phantomEve: '影之刃零 発売前夜',
       tidesNews: 'Tides of Annihilation gamescom',
-      phantomLaunch: '影之刃零 発売',
+      phantomLaunch: '影之刃零 発売日',
       zhongkuiGameplay: '鍾馗 実機解説',
       wukongDlc: '悟空 DLCの現状',
       wuchangSequel: '明末 続編',

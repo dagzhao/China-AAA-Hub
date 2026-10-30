@@ -13,8 +13,8 @@ date: 2026-02-05
 《黑神话：悟空》是对经典《西游记》的黑暗重构。玩家不再直接扮演齐天大圣，而是作为一名“天命人”，踏上追寻昔日大圣足迹的凶险之路，在传说的废墟中解开尘封的真相。
 
 <div class="image-row">
-  <img src="/images/wukong-1.jpg" alt="天命人对阵妖王" />
-  <img src="/images/wukong-2.jpg" alt="西游神话景观" />
+  <img loading="lazy" src="/images/wukong-1.jpg" alt="天命人对阵妖王" />
+  <img loading="lazy" src="/images/wukong-2.jpg" alt="西游神话景观" />
 </div>
 
 ## 2. 核心战力：六根与神通

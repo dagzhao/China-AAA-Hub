@@ -13,8 +13,8 @@ date: 2026-02-05
 Set during the turbulent end of the Five Dynasties and Ten Kingdoms period, the game explores a world where old orders have crumbled. In the desolate lands of the Sixteen Prefectures of Yanyun, players take on the role of a wanderer forging their own path amidst the tides of history.
 
 <div class="image-row">
-  <img src="/images/yanyun-1.jpg" alt="Yanyun Wilderness Landscape" />
-  <img src="/images/yanyun-2.jpg" alt="Fanlou Dance Close-up" />
+  <img loading="lazy" src="/images/yanyun-1.jpg" alt="Yanyun Wilderness Landscape" />
+  <img loading="lazy" src="/images/yanyun-2.jpg" alt="Fanlou Dance Close-up" />
 </div>
 
 <div style="text-align: center; margin: 24px 0;">

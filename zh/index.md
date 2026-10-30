@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "中国 3A 游戏 — 黑神话：悟空、钟馗攻略与资讯"
+title: "中国 3A 游戏 — 影之刃零、黑神话：悟空与钟馗"
 titleTemplate: false
 
 hero:
@@ -40,8 +40,8 @@ image: "/images/wukong-2.jpg"
     </h3>
     <p>探讨驱魔真君的暗黑史诗。从小鬼抬剑的细节到幽冥虎坐骑的变革，解析 Game Science 的中式奇幻美学。</p>
     <div class="image-row">
-      <img src="/images/zhongkui-04.jpg" alt="Zhong Kui Visual" />
-      <img src="/images/zhongkui-04-1.jpg" alt="Tiger Mount and Sword Bearers" />
+      <img loading="lazy" src="/images/zhongkui-04.jpg" alt="Zhong Kui Visual" />
+      <img loading="lazy" src="/images/zhongkui-04-1.jpg" alt="Tiger Mount and Sword Bearers" />
     </div>
     <a href="/zh/projects/zhong-kui/lore" class="card-btn">查看详情 →</a>
   </div>

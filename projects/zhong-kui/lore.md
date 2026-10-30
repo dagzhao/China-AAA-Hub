@@ -44,7 +44,7 @@ During the Ming and Qing dynasties, novels like "Zhong Kui Slays Demons" and "Ta
 In Ming-Qing New Year paintings and portraits, Zhong Kui is often shown riding a horse or a tiger—particularly the "tiger-riding" motif, symbolizing the suppression of evil. However, these representations are largely artistic creations and are not strictly documented in historical texts.
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-06.jpg" style="width: 100%; max-width: 500px; border-radius: 4px;" alt="Ancient Scroll: Zhong Kui riding the mythical Bai Ze" />
+  <img loading="lazy" src="/images/zhongkui-06.jpg" style="width: 100%; max-width: 500px; border-radius: 4px;" alt="Ancient Scroll: Zhong Kui riding the mythical Bai Ze" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">Ancient Scroll: Zhong Kui riding the mythical Bai Ze</p>
 </div>
 
@@ -148,6 +148,8 @@ Figure 3 reveals a fascinating multicultural narrative through the lady's entour
   <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
     <video 
       controls 
+      playsinline
+      aria-label="Black Myth: Zhong Kui official video"
       preload="none"
       controlsList="nodownload" 
       oncontextmenu="return false;"

@@ -186,6 +186,12 @@ const HOME_LABELS = {
   '/ja': 'ホーム'
 }
 
+const NEWS_LABELS = {
+  '': 'News',
+  '/zh': '资讯',
+  '/ja': 'ニュース'
+}
+
 /**
  * Adds hreflang alternates, canonical URL, social metadata and JSON-LD.
  * URLs themselves are untouched.
@@ -334,6 +340,13 @@ export function createSeoTransform(pageIndex) {
         : null
       if (publishedDate && !Number.isNaN(publishedDate.getTime())) {
         node.datePublished = publishedDate.toISOString()
+        head.push([
+          'meta',
+          {
+            property: 'article:published_time',
+            content: publishedDate.toISOString()
+          }
+        ])
       }
     } else {
       node.name = kind === 'home' ? 'China AAA Games' : pageTitle
@@ -343,28 +356,46 @@ export function createSeoTransform(pageIndex) {
       const modified = new Date(pageData.lastUpdated)
       if (!Number.isNaN(modified.getTime())) {
         node.dateModified = modified.toISOString()
+        if (kind === 'article') {
+          head.push([
+            'meta',
+            {
+              property: 'article:modified_time',
+              content: modified.toISOString()
+            }
+          ])
+        }
       }
     }
 
     const graph = [node]
     if (!isHome) {
+      const breadcrumbs = [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: HOME_LABELS[prefix] || 'Home',
+          item: `${SITE_URL}${prefix || ''}/`
+        }
+      ]
+      if (kind === 'article' && base.startsWith('/news/')) {
+        breadcrumbs.push({
+          '@type': 'ListItem',
+          position: 2,
+          name: NEWS_LABELS[prefix] || 'News',
+          item: `${SITE_URL}${prefix || ''}/news/`
+        })
+      }
+      breadcrumbs.push({
+        '@type': 'ListItem',
+        position: breadcrumbs.length + 1,
+        name: pageTitle,
+        item: url
+      })
       graph.push({
         '@context': 'https://schema.org',
         '@type': 'BreadcrumbList',
-        itemListElement: [
-          {
-            '@type': 'ListItem',
-            position: 1,
-            name: HOME_LABELS[prefix] || 'Home',
-            item: `${SITE_URL}${prefix || ''}/`
-          },
-          {
-            '@type': 'ListItem',
-            position: 2,
-            name: pageTitle,
-            item: url
-          }
-        ]
+        itemListElement: breadcrumbs
       })
     }
 

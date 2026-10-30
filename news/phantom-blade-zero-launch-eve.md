@@ -9,6 +9,8 @@ date: 2026-10-28
 
 <p><em>Published October 28, 2026 · Phantom Blade Zero · 7 min read</em></p>
 
+> 📅 **Update:** The game launched on October 29 — see the [launch-day roundup](/news/phantom-blade-zero-launch-day).
+
 *Phantom Blade Zero* unlocks tomorrow at 10:00 AM Beijing time. Over the past week the review embargo broke, the final trailer landed, preloads opened and a Golden Joystick nomination arrived — here is everything that matters on the eve of launch.
 
 <figure class="hero-figure">

@@ -13,8 +13,8 @@ date: 2026-02-05
 游戏背景设定在五代十国末年。那是一个旧秩序崩塌、新时代尚未开启的乱世。在燕云十六州的苍凉土地上，玩家扮演一名在战火中成长的侠客，在历史的洪流中寻找生存的意义。
 
 <div class="image-row">
-  <img src="/images/yanyun-1.jpg" alt="燕云旷野景观" />
-  <img src="/images/yanyun-2.jpg" alt="樊楼乐舞特写" />
+  <img loading="lazy" src="/images/yanyun-1.jpg" alt="燕云旷野景观" />
+  <img loading="lazy" src="/images/yanyun-2.jpg" alt="樊楼乐舞特写" />
 </div>
 
 <div style="text-align: center; margin: 24px 0;">

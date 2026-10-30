@@ -1,5 +1,5 @@
 ---
-title: "Phantom Blade Zero — Out Now: Metacritic 88, a 720K Steam Peak & Combat"
+title: "Phantom Blade Zero — Out Now: Metacritic 88 & 720K Peak"
 description: "Phantom Blade Zero is out now (October 29, 2026): Metacritic 88, a 720K Steam launch peak, 8 endings, 66 Days mode, platforms and unlock times."
 image: "/images/pbzero-1.jpg"
 date: 2026-02-05
@@ -13,8 +13,8 @@ date: 2026-02-05
 The protagonist, **Soul**, is framed for the murder of the Patriarch. Rescued by a mysterious healer but left with only 66 days to live, Soul must fight through the treacherous "Order" before his clock runs out.
 
 <div class="image-row">
-  <img src="/images/pbzero-1.jpg" alt="Soul's Combat Stance" />
-  <img src="/images/pbzero-2.jpg" alt="Wuxia Punk Architecture" />
+  <img loading="lazy" src="/images/pbzero-1.jpg" alt="Soul's Combat Stance" />
+  <img loading="lazy" src="/images/pbzero-2.jpg" alt="Wuxia Punk Architecture" />
 </div>
 
 <div style="text-align: center; margin: 24px 0;">
@@ -32,10 +32,12 @@ The protagonist, **Soul**, is framed for the murder of the Patriarch. Rescued by
   <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
     <video 
       controls 
+      playsinline
+      aria-label="Phantom Blade Zero official trailer"
       preload="none"
       controlsList="nodownload" 
       oncontextmenu="return false;"
-      poster="/images/pbzero-video.png"
+      poster="/images/pbzero-video.jpg"
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; display: block;"
     >
       <source src="/videos/phantom-blade-zero-teaser.mp4" type="video/mp4">
@@ -137,6 +139,29 @@ The embargo lifted on **October 26**, and *Phantom Blade Zero* landed the highes
 > 📰 Full roundup: [Phantom Blade Zero Launch Eve: Metacritic 88](/news/phantom-blade-zero-launch-eve)
 
 ## 8. Launch Day: 720K Steam Peak, 83% Positive
+
+<div class="stat-grid">
+  <div class="stat-card">
+    <span class="stat-label">STEAM PEAK</span>
+    <span class="stat-value is-accent">720K</span>
+    <span class="stat-note">723,876 · day one</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">ALL-TIME RANK</span>
+    <span class="stat-value">#15</span>
+    <span class="stat-note">Steam concurrents</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">STEAM REVIEWS</span>
+    <span class="stat-value">83%</span>
+    <span class="stat-note">~23.4K reviews</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">DAY-ONE PATCH</span>
+    <span class="stat-value">5GB</span>
+    <span class="stat-note">PC · ray tracing</span>
+  </div>
+</div>
 
 - **Steam concurrents** peaked at roughly **720,000** (723,876) after about 13 hours — No. 15 all-time and No. 1 on the global bestseller chart.
 - **Steam reviews** climbed from 76–79% to **83%** (~23,400 reviews), with complaints centered on crashes, shader compilation and Nvidia driver compatibility.

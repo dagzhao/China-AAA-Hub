@@ -33,7 +33,7 @@ date: 2026-02-05
 明清年画与画像中，钟馗常以骑马或骑虎的形象出现，尤其是"骑虎"造型（象征镇邪）。然而，这些多为艺术创作，并未严格见于文献记载。
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-06.jpg" alt="钟馗骑乘神兽白泽图"  style="width: 100%; max-width: 500px; border-radius: 4px; filter: contrast(1.1);" />
+  <img loading="lazy" src="/images/zhongkui-06.jpg" alt="钟馗骑乘神兽白泽图"  style="width: 100%; max-width: 500px; border-radius: 4px; filter: contrast(1.1);" />
   <p style="font-style: italic; color: #888; margin-top: 8px;">古画：钟馗骑乘神兽白泽图</p>
 </div>
 
@@ -149,6 +149,8 @@ date: 2026-02-05
   <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
     <video 
       controls 
+      playsinline
+      aria-label="《黑神话：钟馗》官方视频"
       preload="none"
       controlsList="nodownload" 
       oncontextmenu="return false;"

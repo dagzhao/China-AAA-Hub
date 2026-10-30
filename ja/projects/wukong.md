@@ -13,8 +13,8 @@ date: 2026-02-05
 『黒神話：悟空』は、古典『西遊記』をダークに再解釈したアクションRPGです。プレイヤーは「天命人」となり、かつての斉天大聖の足跡を辿る過酷な旅へ。伝説の灰の中から、封印された真実を解き明かします。
 
 <div class="image-row">
-  <img src="/images/wukong-1.jpg" alt="天命人と妖王の対決" />
-  <img src="/images/wukong-2.jpg" alt="神話の世界観" />
+  <img loading="lazy" src="/images/wukong-1.jpg" alt="天命人と妖王の対決" />
+  <img loading="lazy" src="/images/wukong-2.jpg" alt="神話の世界観" />
 </div>
 
 ## 2. 戦闘システム：神通力と六根

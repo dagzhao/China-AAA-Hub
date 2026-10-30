@@ -42,7 +42,7 @@ date: 2026-02-05
 明清時代の年画や肖像画では、鍾馗は馬や虎に騎乗する形象で描かれることが多く、特に「虎騎り」の造型（邪気鎮圧の象徴）が目立つ。ただし、これらは主に芸術創作によるもので、文献に厳格に記載されたものではない。
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/images/zhongkui-06.jpg" style="width: 100%; max-width: 500px; border-radius: 4px;" alt="白澤"/>
+  <img loading="lazy" src="/images/zhongkui-06.jpg" style="width: 100%; max-width: 500px; border-radius: 4px;" alt="白澤"/>
   <p style="font-style: italic; color: #888; margin-top: 8px;">古画：神獣・白澤に跨る鍾馗</p>
 </div>
 
@@ -113,7 +113,7 @@ date: 2026-02-05
 ---
 詳細はこちらをご参照：https://journals.publishing.umich.edu/ars/article/id/5200/.
 
-<div style="text-align: center; margin: 24px 0;"> <img src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" alt="家財道具を運ぶ鬼たちの詳細" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図1：家財道具を運ぶ鬼たちの詳細 </p>
+<div style="text-align: center; margin: 24px 0;"> <img loading="lazy" src="/images/zhongkui-02.jpg" style="width: 100%; max-width: 800px; border-radius: 4px;" alt="家財道具を運ぶ鬼たちの詳細" /> <p style="font-style: italic; color: #888; margin-top: 8px;">図1：家財道具を運ぶ鬼たちの詳細 </p>
 <img src="/images/zhongkui-01.jpg" style="width: 100%; max-width: 800px; border-radius: 4px; margin-top: 20px;" alt="後ろの輿に乗る妹（妻）を振り返る鍾馗" loading="lazy"/> <p style="font-style: italic; color: #888; margin-top: 8px;">図2：後ろの輿に乗る妹（妻）を振り返る鍾馗 </p>
 </div>
 
@@ -142,6 +142,8 @@ date: 2026-02-05
   <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
     <video 
       controls 
+      playsinline
+      aria-label="『黒神話：鍾馗』公式映像"
       preload="none"
       controlsList="nodownload" 
       oncontextmenu="return false;"

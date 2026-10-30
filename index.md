@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "China AAA Games — Wukong, Zhong Kui News, Lore & Guides"
+title: "China AAA Games — Phantom Blade Zero, Wukong & Zhong Kui"
 titleTemplate: false
 
 hero:
@@ -39,8 +39,8 @@ image: "/images/wukong-2.jpg"
     </h3>
     <p>Explore the dark epic of the Ghost Eater. From the intricate detail of spirits carrying his sword to the transformation of his tiger mount, delve into Game Science's oriental dark fantasy aesthetics.</p>
     <div class="image-row">
-      <img src="/images/zhongkui-04.jpg" alt="Zhong Kui Character Visual" />
-      <img src="/images/zhongkui-04-1.jpg" alt="Zhong Kui Mount and Sword Bearers" />
+      <img loading="lazy" src="/images/zhongkui-04.jpg" alt="Zhong Kui Character Visual" />
+      <img loading="lazy" src="/images/zhongkui-04-1.jpg" alt="Zhong Kui Mount and Sword Bearers" />
     </div>
     <a href="/projects/zhong-kui/lore" class="card-btn">View Details →</a>
   </div>
