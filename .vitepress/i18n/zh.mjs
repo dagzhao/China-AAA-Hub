@@ -48,7 +48,12 @@ export default {
       zhongkuiGameplay: '钟馗实机解析',
       wukongDlc: '悟空 DLC 现状',
       wuchangSequel: '明末续作',
-      yanyunQingzhou: '燕云 2.3 青州'
+      yanyunQingzhou: '燕云 2.3 青州',
+      culture: '文化解码指南'
+    },
+    footer: {
+      message: '专注于记录中国次世代 3A 游戏叙事、文化与前沿技术演进。',
+      copyright: '版权所有 © 2024–2026 中国 3A 游戏站'
     },
     editLink: '在 GitHub 上编辑此页',
     lastUpdated: '最后更新时间',

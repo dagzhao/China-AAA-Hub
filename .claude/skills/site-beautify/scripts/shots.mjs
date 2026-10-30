@@ -29,11 +29,14 @@ const SETTLE_MS = 1200 // 等字体、过渡动画、异步组件稳定
 const MAX_PIXELS = 10_000_000 // 单张整页截图的像素上限，超了就截断并告警
 
 const BROWSERS = [
+  process.env.CHROME_BIN,
+  '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+  '/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge',
   'C:/Program Files/Google/Chrome/Application/chrome.exe',
   'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe',
   'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',
   'C:/Program Files/Microsoft/Edge/Application/msedge.exe',
-]
+].filter(Boolean)
 
 const [base, outDir, ...paths] = process.argv.slice(2)
 if (!base || !outDir || paths.length === 0) {

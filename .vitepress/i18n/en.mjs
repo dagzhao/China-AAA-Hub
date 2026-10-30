@@ -47,7 +47,12 @@ export default {
       zhongkuiGameplay: 'Zhong Kui Gameplay',
       wukongDlc: 'Wukong DLC Status',
       wuchangSequel: 'Wuchang Sequel',
-      yanyunQingzhou: 'Where Winds Meet 2.3'
+      yanyunQingzhou: 'Where Winds Meet 2.3',
+      culture: 'Culture Guides'
+    },
+    footer: {
+      message: 'Dedicated to documenting the renaissance of Chinese AAA games.',
+      copyright: 'Copyright © 2024–2026 China AAA Games Hub'
     },
     editLink: 'Edit this page on GitHub',
     lastUpdated: 'Last updated',

@@ -119,7 +119,20 @@ export function createLocaleTheme(locale) {
             link: localize(prefix, item.path)
           }))
         }
+      ],
+      [`${prefix}/culture/`]: [
+        {
+          text: labels.sidebar.culture,
+          items: cultureItems.map((item) => ({
+            text: labels.culture[item.key],
+            link: localize(prefix, item.path)
+          }))
+        }
       ]
+    },
+    footer: {
+      message: labels.footer.message,
+      copyright: labels.footer.copyright
     },
     editLink: {
       pattern: EDIT_LINK_PATTERN,

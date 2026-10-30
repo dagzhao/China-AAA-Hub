@@ -48,7 +48,12 @@ export default {
       zhongkuiGameplay: '鍾馗 実機解説',
       wukongDlc: '悟空 DLCの現状',
       wuchangSequel: '明末 続編',
-      yanyunQingzhou: '風燕伝 2.3 青州'
+      yanyunQingzhou: '風燕伝 2.3 青州',
+      culture: '文化ガイド'
+    },
+    footer: {
+      message: '中国の次世代AAAゲームの物語・文化・技術の進化を記録。',
+      copyright: 'Copyright © 2024–2026 中国 AAA ゲーム Hub'
     },
     editLink: 'GitHub でこのページを編集',
     lastUpdated: '最終更新日',
