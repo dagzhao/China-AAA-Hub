@@ -15,7 +15,7 @@ image: "/images/zhongkui-04.jpg"
 | **黒神話：悟空** | 発売済み | 2024年8月20日 | PS5、PC、Xbox Series X\|S |
 | **黒神話：鍾馗** | 開発中 | 未定 | PC、主要コンソール |
 | **明末：ウツロノハネ** | 発売済み | 2025年7月24日 | PC、PS5、Xbox Series X\|S |
-| **影之刃零** | 発売予定 | **2026年10月29日** | PS5、PS5 Pro、PC |
+| **影之刃零** | 発売中 | **2026年10月29日** | PS5、PS5 Pro、PC |
 | **燕雲十六声** | 配信中 | 2024年12月27日（中国版）/ 2025年11月14日（国際版） | PC、PS5、Xbox、モバイル |
 | **Tides of Annihilation** | 開発中 | 未定（メディアは2027年と推測） | PS5、PS5 Pro、Xbox Series X\|S、PC |
 
@@ -44,9 +44,9 @@ image: "/images/zhongkui-04.jpg"
 </a>
 
 <a class="chronicle-card" href="./projects/phantom-blade">
-  <span class="chronicle-status">🔜 10月29日発売</span>
+  <span class="chronicle-status">🟢 発売中</span>
   <h3>ファントムブレイド ゼロ</h3>
-  <p>「カンフーパンク」を掲げるハイスピード・アクション。</p>
+  <p>発売中——Steam初日ピーク72万。</p>
 </a>
 
 <a class="chronicle-card" href="./projects/yanyun">

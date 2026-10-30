@@ -10,6 +10,12 @@ Running coverage of the six Chinese AAA titles we track. Each story links back t
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./phantom-blade-zero-launch-day">
+  <span class="chronicle-status">Oct 30 · Phantom Blade Zero</span>
+  <h3>Launch Day: 720K Steam Peak</h3>
+  <p>A No. 15 all-time peak, 83% reviews, the 5GB patch and the driver rollback.</p>
+</a>
+
 <a class="chronicle-card" href="./phantom-blade-zero-launch-eve">
   <span class="chronicle-status">Oct 28 · Phantom Blade Zero</span>
   <h3>Launch Eve: Metacritic 88</h3>

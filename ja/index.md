@@ -51,9 +51,9 @@ image: "/images/wukong-2.jpg"
 <div class="project-card-custom">
   <div class="card-content">
     <h3>影之刃零 (Phantom Blade Zero)
-    <span class="badge-upcoming">10月29日発売</span>
+    <span class="badge-upcoming">発売中</span>
     </h3>
-    <p>「武侠パンク」究極のアクション。影の組織の暗躍する世界で、ハイスピードな冷兵器によるパリィと殺戮の美学を体験する。</p>
+    <p>「武侠パンク」究極のアクションが発売中——Steam初日ピークは72万。影の組織の暗躍する世界で、ハイスピードな冷兵器によるパリィと殺戮の美学を体験する。</p>
     <div class="image-row">
       <img src="/images/pbzero-1.jpg" alt="影之刃零の戦闘クローズアップ" loading="lazy"/>
       <img src="/images/pbzero-2.jpg" alt="影之刃零のスタイルアート" loading="lazy"/>
@@ -120,10 +120,10 @@ image: "/images/wukong-2.jpg"
 
 <div class="chronicle-grid">
 
-<a class="chronicle-card" href="/ja/news/phantom-blade-zero-launch-eve">
-  <span class="chronicle-status">10月28日 · 影之刃零</span>
-  <h3>発売前夜：Metacritic 88</h3>
-  <p>レビュー解禁、最終トレーラー、プリロード、GOTYノミネート。</p>
+<a class="chronicle-card" href="/ja/news/phantom-blade-zero-launch-day">
+  <span class="chronicle-status">10月30日 · 影之刃零</span>
+  <h3>発売初日：Steamピーク72万</h3>
+  <p>歴代15位、好評価率83%、5GBパッチとドライバー巻き戻し。</p>
 </a>
 
 <a class="chronicle-card" href="/ja/news/black-myth-zhong-kui-15-minute-gameplay">

@@ -41,6 +41,7 @@ export default {
       phantomBlade: '影之刃零',
       tides: '湮灭之潮',
       news: '最新动态',
+      phantomLaunchDay: '影之刃零发售首日',
       phantomEve: '影之刃零发售前夜',
       tidesNews: '湮灭之潮 科隆试玩',
       phantomLaunch: '影之刃零发售',

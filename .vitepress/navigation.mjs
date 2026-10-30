@@ -26,6 +26,10 @@ const toolItems = [
 
 const newsItems = [
   {
+    key: 'phantomLaunchDay',
+    path: '/news/phantom-blade-zero-launch-day'
+  },
+  {
     key: 'phantomEve',
     path: '/news/phantom-blade-zero-launch-eve'
   },

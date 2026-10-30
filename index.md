@@ -49,9 +49,9 @@ image: "/images/wukong-2.jpg"
 <div class="project-card-custom">
   <div class="card-content">
     <h3>Phantom Blade Zero
-    <span class="badge-upcoming">Launches Oct 29</span>
+    <span class="badge-upcoming">Out Now</span>
     </h3>
-    <p>The ultimate "Wuxia Punk" action. Under the shadow of "The Organization," experience fast-paced cold weapon parrying and the brutal beauty of assassination.</p>
+    <p>The ultimate "Wuxia Punk" action is out now — a first-day peak of 720,000 on Steam. Under the shadow of "The Organization," experience fast-paced cold-weapon parrying and the brutal beauty of assassination.</p>
     <div class="image-row">
       <img src="/images/pbzero-1.jpg" alt="Phantom Blade Zero Combat Closeup" loading="lazy"/>
       <img src="/images/pbzero-2.jpg" alt="Phantom Blade Zero Stylized Art" loading="lazy"/>
@@ -118,10 +118,10 @@ image: "/images/wukong-2.jpg"
 
 <div class="chronicle-grid">
 
-<a class="chronicle-card" href="/news/phantom-blade-zero-launch-eve">
-  <span class="chronicle-status">Oct 28 · Phantom Blade Zero</span>
-  <h3>Launch Eve: Metacritic 88</h3>
-  <p>Reviews, the final trailer, preload details and a GOTY nomination.</p>
+<a class="chronicle-card" href="/news/phantom-blade-zero-launch-day">
+  <span class="chronicle-status">Oct 30 · Phantom Blade Zero</span>
+  <h3>Launch Day: 720K Steam Peak</h3>
+  <p>A No. 15 all-time peak, 83% reviews, the 5GB patch and the driver rollback.</p>
 </a>
 
 <a class="chronicle-card" href="/news/black-myth-zhong-kui-15-minute-gameplay">

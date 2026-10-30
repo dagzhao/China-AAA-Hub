@@ -115,7 +115,7 @@ Producer **Liang Qiwei** marked the moment with a post saying the road had "not 
 - The PC build is about **145GB**, but preloading requires **at least 300GB** free — the compressed preload and the unpacked game briefly coexist, and usage drops back to roughly 145GB after unlock.
 - An **SSD** is required, and the official guidance is to avoid the C: drive.
 - **PS5 download size: 134.857GB.** Digital only; the disc version arrives in 2027.
-- Launch support includes ray-traced reflections, shadows and caustics, plus **DLSS 4.5** upscaling and multi-frame generation. NVIDIA recommends driver **621.01**.
+- Launch support includes ray-traced reflections, shadows and caustics, plus **DLSS 4.5** upscaling and multi-frame generation. NVIDIA recommended driver **621.01** — but on launch day S-GAME reversed course and advised rolling back to **617.42**; see the [launch-day roundup](/news/phantom-blade-zero-launch-day).
 
 ::: tip Clear space before you preload
 Preloading needs **300GB** free: the compressed download and the unpacked game briefly coexist, then usage settles at roughly 145GB after unlock. Install on an **SSD**, and avoid the C: drive.

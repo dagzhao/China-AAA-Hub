@@ -10,6 +10,12 @@ image: "/images/zhongkui-04.jpg"
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./phantom-blade-zero-launch-day">
+  <span class="chronicle-status">10月30日 · 影之刃零</span>
+  <h3>发售首日：Steam 峰值 72 万</h3>
+  <p>历史总榜第 15、好评率 83%、5GB 补丁与驱动回滚。</p>
+</a>
+
 <a class="chronicle-card" href="./phantom-blade-zero-launch-eve">
   <span class="chronicle-status">10月28日 · 影之刃零</span>
   <h3>影之刃零发售前夜：M站 88 分</h3>

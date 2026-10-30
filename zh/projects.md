@@ -15,7 +15,7 @@ image: "/images/zhongkui-04.jpg"
 | **黑神话：悟空** | 已发售 | 2024年8月20日 | PS5、PC、Xbox Series X\|S |
 | **黑神话：钟馗** | 开发中 | 未公布 | PC、主流主机 |
 | **明末：渊虚之羽** | 已发售 | 2025年7月24日 | PC、PS5、Xbox Series X\|S |
-| **影之刃零** | 即将发售 | **2026年10月29日** | PS5、PS5 Pro、PC |
+| **影之刃零** | 已发售 | **2026年10月29日** | PS5、PS5 Pro、PC |
 | **燕云十六声** | 已上线 | 2024年12月27日（国服）/ 2025年11月14日（国际服） | PC、PS5、Xbox、移动端 |
 | **湮灭之潮** | 开发中 | 未公布（媒体多推测 2027） | PS5、PS5 Pro、Xbox Series X\|S、PC |
 
@@ -44,9 +44,9 @@ image: "/images/zhongkui-04.jpg"
 </a>
 
 <a class="chronicle-card" href="./projects/phantom-blade">
-  <span class="chronicle-status">🔜 10月29日发售</span>
+  <span class="chronicle-status">🟢 已发售</span>
   <h3>影之刃零</h3>
-  <p>极致的“武侠朋克”动作盛宴。</p>
+  <p>已发售——Steam 首日峰值 72 万。</p>
 </a>
 
 <a class="chronicle-card" href="./projects/yanyun">

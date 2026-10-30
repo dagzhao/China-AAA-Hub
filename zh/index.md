@@ -50,9 +50,9 @@ image: "/images/wukong-2.jpg"
 <div class="project-card-custom">
   <div class="card-content">
     <h3>影之刃零 (Phantom Blade Zero)
-    <span class="badge-upcoming">10月29日发售</span>
+    <span class="badge-upcoming">已发售</span>
     </h3>
-    <p>“武侠朋克”的极致动作。在“组织”的阴影下，体验快节奏冷兵器格挡与杀伐之美。</p>
+    <p>“武侠朋克”的极致动作现已发售——Steam 首日峰值 72 万。在“组织”的阴影下，体验快节奏冷兵器格挡与杀伐之美。</p>
     <div class="image-row">
       <img loading="lazy" src="/images/pbzero-1.jpg" alt="PBZ Combat" />
       <img loading="lazy" src="/images/pbzero-2.jpg" alt="PBZ Style" />
@@ -119,10 +119,10 @@ image: "/images/wukong-2.jpg"
 
 <div class="chronicle-grid">
 
-<a class="chronicle-card" href="/zh/news/phantom-blade-zero-launch-eve">
-  <span class="chronicle-status">10月28日 · 影之刃零</span>
-  <h3>影之刃零发售前夜：M站 88 分</h3>
-  <p>评测解禁、最终预告、预载与金摇杆年度游戏提名。</p>
+<a class="chronicle-card" href="/zh/news/phantom-blade-zero-launch-day">
+  <span class="chronicle-status">10月30日 · 影之刃零</span>
+  <h3>发售首日：Steam 峰值 72 万</h3>
+  <p>历史总榜第 15、好评率 83%、5GB 补丁与驱动回滚。</p>
 </a>
 
 <a class="chronicle-card" href="/zh/news/black-myth-zhong-kui-15-minute-gameplay">

@@ -10,6 +10,12 @@ image: "/images/zhongkui-04.jpg"
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./phantom-blade-zero-launch-day">
+  <span class="chronicle-status">10月30日 · 影之刃零</span>
+  <h3>発売初日：Steamピーク72万</h3>
+  <p>歴代15位、好評価率83%、5GBパッチとドライバー巻き戻し。</p>
+</a>
+
 <a class="chronicle-card" href="./phantom-blade-zero-launch-eve">
   <span class="chronicle-status">10月28日 · 影之刃零</span>
   <h3>発売前夜：Metacritic 88</h3>

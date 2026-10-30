@@ -15,7 +15,7 @@ Every major Chinese AAA game we track — released, launching and still in devel
 | **Black Myth: Wukong** | Released | August 20, 2024 | PS5, PC, Xbox Series X\|S |
 | **Black Myth: Zhong Kui** | In development | TBA | PC, mainstream consoles |
 | **WUCHANG: Fallen Feathers** | Released | July 24, 2025 | PC, PS5, Xbox Series X\|S |
-| **Phantom Blade Zero** | Launching | **October 29, 2026** | PS5, PS5 Pro, PC |
+| **Phantom Blade Zero** | Released | **October 29, 2026** | PS5, PS5 Pro, PC |
 | **Where Winds Meet** | Live | Dec 27, 2024 (CN) / Nov 14, 2025 (global) | PC, PS5, Xbox, mobile |
 | **Tides of Annihilation** | In development | TBA (2027 reported) | PS5, PS5 Pro, Xbox Series X\|S, PC |
 
@@ -44,9 +44,9 @@ Every major Chinese AAA game we track — released, launching and still in devel
 </a>
 
 <a class="chronicle-card" href="./projects/phantom-blade">
-  <span class="chronicle-status">🔜 Launches Oct 29</span>
+  <span class="chronicle-status">🟢 Released</span>
   <h3>Phantom Blade Zero</h3>
-  <p>"Kungfupunk" action at its peak.</p>
+  <p>Out now — a 720K Steam peak on day one.</p>
 </a>
 
 <a class="chronicle-card" href="./projects/yanyun">

@@ -1,13 +1,13 @@
 ---
-title: "Phantom Blade Zero: October 29 Launch, Metacritic 88 & Combat"
-description: "Phantom Blade Zero launches October 29, 2026 with a Metacritic 88. Reviews, final trailer, 8 endings, 66 Days mode, platforms and unlock times."
+title: "Phantom Blade Zero — Out Now: Metacritic 88, a 720K Steam Peak & Combat"
+description: "Phantom Blade Zero is out now (October 29, 2026): Metacritic 88, a 720K Steam launch peak, 8 endings, 66 Days mode, platforms and unlock times."
 image: "/images/pbzero-1.jpg"
 date: 2026-02-05
 ---
 
 # Phantom Blade Zero: Kung Fu Punk
 
-> 📰 **Latest:** [Phantom Blade Zero Launch Eve: Metacritic 88](/news/phantom-blade-zero-launch-eve)
+> 📰 **Latest:** [Phantom Blade Zero Launch Day: 720K Steam Peak, 83% Positive](/news/phantom-blade-zero-launch-day)
 
 ## 1. Revenge in Despair: 66 Days to Live
 The protagonist, **Soul**, is framed for the murder of the Patriarch. Rescued by a mysterious healer but left with only 66 days to live, Soul must fight through the treacherous "Order" before his clock runs out.
@@ -51,11 +51,13 @@ Directed by **Kenji Tanigaki** (Action Director of the **Rurouni Kenshin** live-
 - **Flash Kill & Parry**: Fast-paced tactical combat with cinematic fluidity in every strike.
 - **The Phantom World**: A unique "Wuxia Punk" aesthetic blending steampunk elements with traditional martial arts themes.
 
-## 4. Pre-Orders Live: October 29, 2026
+## 4. Out Now: October 29, 2026
+
+> ✅ **Out now:** *Phantom Blade Zero* unlocked on PS5, PS5 Pro and PC at 10:00 AM Beijing time on October 29. Its Steam concurrent peak reached roughly **720,000** — No. 15 all-time — see the [launch-day roundup](/news/phantom-blade-zero-launch-day).
 
 > ✅ **Gone Gold:** On **August 7, 2026**, S-GAME confirmed that development on *Phantom Blade Zero* is **complete** — unusually early, more than two months ahead of launch.
 
-**Pre-orders are now open worldwide!** Pre-orders opened on **August 11, 2026 at 7 PM PT** (August 12, 10 AM Beijing Time for platform pre-sale), alongside a brand-new **11-minute extended gameplay trailer** released by PlayStation.
+**Pre-order recap:** Pre-orders opened on **August 11, 2026 at 7 PM PT** (August 12, 10 AM Beijing Time for platform pre-sale), alongside a brand-new **11-minute extended gameplay trailer** released by PlayStation.
 
 > 📅 **Dedicated State of Play (Recap):** Sony hosted an exclusive State of Play for *Phantom Blade Zero* on **August 17, 2026 at 7 PM PT** (August 18, 10 AM Beijing Time), delivering nearly **20 minutes** of deep-dive gameplay analysis. Full highlights in **Section 5** below.
 
@@ -67,7 +69,7 @@ Directed by **Kenji Tanigaki** (Action Director of the **Rurouni Kenshin** live-
 
 **China Pricing:** Standard Edition **¥268** (pre-order price **¥258**), Deluxe Edition **¥328**.
 
-The game launches on **October 29, 2026** for **PlayStation 5, PlayStation 5 Pro** and **PC** (Steam, Epic Games Store, WeGame, TapTap PC), built with **Unreal Engine 5** as a **premium one-time purchase single-player action RPG**.
+The game launched on **October 29, 2026** for **PlayStation 5, PlayStation 5 Pro** and **PC** (Steam, Epic Games Store, WeGame, TapTap PC), built with **Unreal Engine 5** as a **premium one-time purchase single-player action RPG**.
 
 ## 5. State of Play Deep Dive: What We Learned
 
@@ -81,7 +83,7 @@ Sony's dedicated State of Play delivered nearly **20 minutes** of deep-dive game
 - The main story reportedly spans **30–40 hours** with **multiple endings**.
 - Despite pre-show rumors, **no PS5 demo** was announced during the event.
 
-The countdown is down to its final step — 10:00 AM tomorrow, Soul faces his fate.
+*Phantom Blade Zero* launched on October 29 at 10:00 AM Beijing time — see Section 8 for first-day numbers.
 
 ## 6. Final Previews: A Game of the Year Contender
 
@@ -133,3 +135,14 @@ The embargo lifted on **October 26**, and *Phantom Blade Zero* landed the highes
 - **Unlock: October 29, 2026 at 10:00 Beijing time** on PS5, PS5 Pro and PC.
 
 > 📰 Full roundup: [Phantom Blade Zero Launch Eve: Metacritic 88](/news/phantom-blade-zero-launch-eve)
+
+## 8. Launch Day: 720K Steam Peak, 83% Positive
+
+- **Steam concurrents** peaked at roughly **720,000** (723,876) after about 13 hours — No. 15 all-time and No. 1 on the global bestseller chart.
+- **Steam reviews** climbed from 76–79% to **83%** (~23,400 reviews), with complaints centered on crashes, shader compilation and Nvidia driver compatibility.
+- **The day-one patch** is about **5GB** on PC, focused on ray-tracing and path-tracing performance; S-GAME advises Nvidia **621.01** users to roll back to **617.42**.
+- **PS5** holds close to 60 fps in performance mode, with drops in rain scenes and some boss fights; **PS5 Pro** is the most stable.
+- **Feng Ji** published a long congratulatory post: "桃李不言，功不唐捐."
+- Alinea Analytics estimates about **850,000 pre-orders**; S-GAME has not announced official sales.
+
+> 📰 Full roundup: [Phantom Blade Zero Launch Day: 720K Steam Peak, 83% Positive](/news/phantom-blade-zero-launch-day)
