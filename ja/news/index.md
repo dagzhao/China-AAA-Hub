@@ -10,6 +10,12 @@ image: "/images/zhongkui-04.jpg"
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./phantom-blade-zero-4-million-milestone">
+  <span class="chronicle-status">11月2日 · 影之刃零</span>
+  <h3>72時間で世界400万本突破</h3>
+  <p>売上10億元超で3日で開発費回収、Steam開幕週末ピーク83.3万人。</p>
+</a>
+
 <a class="chronicle-card" href="./phantom-blade-zero-launch-day">
   <span class="chronicle-status">10月30日 · 影之刃零</span>
   <h3>発売初日：Steamピーク72万</h3>

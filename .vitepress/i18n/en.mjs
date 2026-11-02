@@ -40,6 +40,7 @@ export default {
       phantomBlade: 'Phantom Blade: Lore',
       tides: 'Tides of Annihilation: Lore',
       news: 'Latest Updates',
+      phantom4Million: 'Phantom Blade 4M Sold',
       phantomLaunchDay: 'Phantom Blade Zero Launch Day',
       phantomEve: 'Phantom Blade Zero Launch Eve',
       tidesNews: 'Tides of Annihilation at Gamescom',

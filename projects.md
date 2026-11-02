@@ -46,7 +46,7 @@ Every major Chinese AAA game we track — released, launching and still in devel
 <a class="chronicle-card" href="./projects/phantom-blade">
   <span class="chronicle-status">🟢 Released</span>
   <h3>Phantom Blade Zero</h3>
-  <p>Out now — a 720K Steam peak on day one.</p>
+  <p>Out now — 4M copies sold in 72h, 833K Steam peak.</p>
 </a>
 
 <a class="chronicle-card" href="./projects/yanyun">

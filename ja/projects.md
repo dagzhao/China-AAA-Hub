@@ -46,7 +46,7 @@ image: "/images/zhongkui-04.jpg"
 <a class="chronicle-card" href="./projects/phantom-blade">
   <span class="chronicle-status">🟢 発売中</span>
   <h3>ファントムブレイド ゼロ</h3>
-  <p>発売中——Steam初日ピーク72万。</p>
+  <p>発売中——72時間で400万本突破、Steamピーク83万人。</p>
 </a>
 
 <a class="chronicle-card" href="./projects/yanyun">

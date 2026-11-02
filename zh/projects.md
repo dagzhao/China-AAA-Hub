@@ -46,7 +46,7 @@ image: "/images/zhongkui-04.jpg"
 <a class="chronicle-card" href="./projects/phantom-blade">
   <span class="chronicle-status">🟢 已发售</span>
   <h3>影之刃零</h3>
-  <p>已发售——Steam 首日峰值 72 万。</p>
+  <p>已发售——72 小时破 400 万销量，Steam 峰值 83 万。</p>
 </a>
 
 <a class="chronicle-card" href="./projects/yanyun">

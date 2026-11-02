@@ -41,6 +41,7 @@ export default {
       phantomBlade: '影之刃零',
       tides: 'Tides of Annihilation',
       news: '最新情報',
+      phantom4Million: '影之刃零 400万本突破',
       phantomLaunchDay: '影之刃零 発売初日',
       phantomEve: '影之刃零 発売前夜',
       tidesNews: 'Tides of Annihilation gamescom',

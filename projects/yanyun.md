@@ -1,6 +1,6 @@
 ---
-title: "Where Winds Meet 2.3 Qingzhou, 2.2 Finale & 100M Players"
-description: "Where Winds Meet's 2026 updates: 2.2 Hidden Mountain finale, 2.3 Qingzhou, DLSS 5, China server 2.8.5, 100 million players and crossovers."
+title: "Where Winds Meet — 1st Anniversary 'Hutuo Battlefield', 2.3 & 100M Players"
+description: "Where Winds Meet's 2026 updates: Nov 13 First Global Anniversary, major Hutuo Battlefield expansion, Yuen Woo-ping Dual Spears, 2.3 Qingzhou and 100M players."
 image: "/images/yanyun-1.jpg"
 date: 2026-02-05
 ---
@@ -80,7 +80,17 @@ Set during the turbulent end of the Five Dynasties and Ten Kingdoms period, the 
 - **DLSS 5** — announced on **October 13–14**, with full **DLSS 5 (3D-Guided Neural Rendering)** coming to the PC version by **late November**. *Where Winds Meet* is one of the first three games in the world to support it.
 - **Reception** — some players feel Qingzhou is more of a "themed mini-map" than a full region; performance and shader-compilation stutters were also raised, and DLSS 5 was not available at launch.
 
-## 6. China Server: Running About Half a Year Ahead
+## 6. First Global Anniversary & "Hutuo Battlefield" (Nov 13, 2026)
+
+NetEase Games and Everstone Studio officially announced that the game's **first global anniversary celebration** will launch on **November 13, 2026**, preceded by an anniversary showcase livestream on **November 2**:
+
+- **Major expansion "Hutuo Battlefield"** — Unveils the sprawling, war-torn frontline battlefield of Hutuo along the Yellow River, shifting focus from scholarly landscapes to the gritty chaos of falling dynasties and border warfare.
+- **Formidable commanders and world bosses** — Introduces Khitan general **Xiao Han** (equipped with Blood-forged Super Armor) and roaming open-world bosses **Yelu Abuli** and **Bingshen**.
+- **Yuen Woo-ping choreographed "Dual Spears" style** — Following Drunken Fist, legendary action director **Yuen Woo-ping** returned to design the new **Dual Spears** martial art, allowing fluid real-time switching between rapid thrusting light spears and heavy guard-breaking strikes.
+- **Historical anniversary rewards** — Delivers the most generous historical gifts and event rewards since launch, alongside new tactical board game and horse racing modes.
+- **Penglai Isle late-October rollout** — On **October 29**, the second phase of Version 2.3 unlocked the Penglai sea territory, the snowy cold-case investigation "Murders in the Snow", and spatial dreamcore corridors.
+
+## 7. China Server: Running About Half a Year Ahead
 
 The China server has its own, faster content cadence:
 
@@ -88,7 +98,7 @@ The China server has its own, faster content cadence:
 - **"长乐夜未央" (October 23, 2026)** — the second thematic region, reached by "golden ship" from Hangzhou. It adds **four subregions, two guardians, three trails and five world bosses**, including the game's **first freely explorable underwater world** with water-and-land layered maps, a tide cycle, "everything is tradeable" markets, and a black market. The theme song **"宝船"** is by **DOUDOU**.
 - **Why it matters** — China-only content tends to reach the international build roughly **six months later**, so these systems are a preview of what global players can expect in 2027.
 
-## 7. Audience, Awards and Crossovers
+## 8. Audience, Awards and Crossovers
 
 - **100 million players** — On **August 26, 2026**, NetEase announced **100 million cumulative registered players**, up from 80 million+ in June. This is registrations, not monthly active users.
 - **Mobile revenue** — About **$223.7 million** by **June 16, 2026** (AppMagic estimate), including roughly **$94.2 million** since the December 2025 global mobile launch; China accounts for about **77%** of recent mobile revenue.

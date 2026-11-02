@@ -1,13 +1,13 @@
 ---
-title: "影之刃零 — 発売中：Metacritic 88、Steamピーク72万と戦闘解説"
-description: "『影之刃零』は2026年10月29日に発売：Metacritic 88、Steam初日ピーク72万、8エンディング、66日間モード、対応機種と解禁時間。"
+title: "影之刃零 — 発売72時間で400万本突破：Metacritic 88、Steam同接83.3万人"
+description: "『影之刃零』が発売72時間で世界400万本突破、売上10億元超で3日で開発費回収。Steam同接は開幕週末83.3万人に達し、Metacritic 88。"
 image: "/images/pbzero-1.jpg"
 date: 2026-02-05
 ---
 
 # 影之刃零：武侠パンク (Kung Fu Punk)
 
-> 📰 **最新:** [『影之刃零』発売初日：Steamピーク72万、好評価率83%](/ja/news/phantom-blade-zero-launch-day)
+> 📰 **最新:** [『影之刃零』発売72時間で400万本突破、Steamピーク83.3万人](/ja/news/phantom-blade-zero-4-million-milestone)
 
 ## 1. 絶望の中の復讐：余命六十六日
 首領殺しの濡れ衣を着せられた主人公「魂（ソウル）」。瀕死の重傷を負うが、謎の医師によって命を繋ぎ止められる。しかし、その余命はわずか66日。カウントダウンが止まる前に、影の組織「秩序」を相手に最後の戦いに挑む。
@@ -136,36 +136,36 @@ date: 2026-02-05
 
 > 📰 詳細まとめ：[『影之刃零』発売前夜：Metacritic 88、最終トレーラーとプリロード](/ja/news/phantom-blade-zero-launch-eve)
 
-## 8. 発売初日：Steamピーク72万、好評価率83%
+## 8. 開幕週末のマイルストーン：72時間で400万本突破、Steamピーク83.3万人
 
 <div class="stat-grid">
   <div class="stat-card">
-    <span class="stat-label">STEAM ピーク</span>
-    <span class="stat-value is-accent">72万</span>
-    <span class="stat-note">723,876 · 初日</span>
+    <span class="stat-label">世界累計販売数</span>
+    <span class="stat-value is-accent">400万本</span>
+    <span class="stat-note">72時間 · 全機種合計</span>
   </div>
   <div class="stat-card">
-    <span class="stat-label">歴代順位</span>
-    <span class="stat-value">#15</span>
-    <span class="stat-note">Steam 同時接続</span>
+    <span class="stat-label">STEAM ピーク</span>
+    <span class="stat-value">83.3万人</span>
+    <span class="stat-note">833,655 · 開幕週末</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">初動総売上</span>
+    <span class="stat-value">10億元超</span>
+    <span class="stat-note">3日間で開発費を完全回収</span>
   </div>
   <div class="stat-card">
     <span class="stat-label">STEAM 好評価率</span>
-    <span class="stat-value">83%</span>
-    <span class="stat-note">約2.34万件のレビュー</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-label">初日パッチ</span>
-    <span class="stat-value">5GB</span>
-    <span class="stat-note">PC版 · レイトレ最適化</span>
+    <span class="stat-value">84%</span>
+    <span class="stat-note">約4.2万件のレビュー</span>
   </div>
 </div>
 
-- **Steam同時接続** は約13時間で **約72万**（ピーク723,876）に到達。歴代15位、世界売上ランキング首位。
-- **Steamレビュー** は76〜79%から **83%**（約2.34万件）へ回復。低評価はクラッシュ、シェーダー、NVIDIAドライバー互換性に集中。
-- **初日パッチ** はPC版約 **5GB**。レイトレ／パストレーシング性能が中心で、**NVIDIA 621.01** から **617.42** への巻き戻しを推奨。
-- **PS5** はパフォーマンスモードでほぼ60fps、雨のシーンと一部ボス戦で低下。**PS5 Pro** が最も安定。
-- **馮驥**氏が長文の祝福を投稿——「桃李不言、功不唐捐」。
-- Alinea Analyticsは予約約 **85万本** と推計。公式の販売数は未発表。
+- **全機種累計400万本を突破：** 発売からわずか **72時間** で、PS5およびPC版の世界累計販売本数が **400万本** を突破。総売上高は **10億人民元（約210億円以上）** に達し、長年の開発・宣伝費をわずか3日で完全回収しました。
+- **Steam同時接続が833,655人に到達：** 初日の72万人から週末にかけて世界規模で熱狂が加速し、Steam同接ピークは **83.3万人** を記録。Steamシングルプレイ専用アクションRPGとして歴代最高峰の数値を樹立しました。
+- **Steamレビューは84%へ回復：** 初期評価の76%台から **84%（非常に好評）** へと急伸。総レビュー数は **4.2万件** を超え、白刃の受け流しや50体以上の独創的なボスバトルが世界中のプレイヤーから絶賛されています。
+- **パッチ配信と最適化：** 初日の **5GB** パッチに続き、プロデューサーの梁其偉氏が感謝状を公開。シェーダー事前読み込みやキーコンフィグ機能を盛り込んだ **1.02および1.03パッチ** の緊急配信を予告しました。
+- **PS5とPS5 Pro：** PS5パフォーマンスモードは60fpsを堅持、**PS5 Pro** では最高峰の描画品質と安定動作を実現。
+- **業界からの祝意：** 『黒神話：悟空』のプロデューサー馮驥氏が「桃李不言、功不唐捐」と祝福を寄せました。
 
-> 📰 詳細まとめ：[『影之刃零』発売初日：Steamピーク72万、好評価率83%](/ja/news/phantom-blade-zero-launch-day)
+> 📰 詳細まとめ：[『影之刃零』発売72時間で400万本突破、Steamピーク83.3万人](/ja/news/phantom-blade-zero-4-million-milestone) · [発売初日まとめ](/ja/news/phantom-blade-zero-launch-day)

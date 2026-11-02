@@ -1,13 +1,13 @@
 ---
-title: "影之刃零 — 已发售：M站 88 分、首日 72 万在线与战斗解析"
-description: "《影之刃零》已于 2026 年 10 月 29 日发售：M站 88 分、Steam 首日峰值 72 万、8 个结局、66 天模式、平台与解锁信息。"
+title: "影之刃零 — 72 小时销量破 400 万、M站 88 分与 Steam 83 万在线峰值"
+description: "《影之刃零》发售 72 小时全球销量突破 400 万份、流水超 10 亿元三天回本；Steam 首周末峰值达 83.3 万，M站 88 分，8 个结局与 66 天模式。"
 image: "/images/pbzero-1.jpg"
 date: 2026-02-05
 ---
 
 # 影之刃零：武侠朋克 (Kung Fu Punk)
 
-> 📰 **最新:** [影之刃零发售首日：Steam 峰值 72 万、好评率 83%](/zh/news/phantom-blade-zero-launch-day)
+> 📰 **最新:** [影之刃零 72 小时销量破 400 万、Steam 峰值 83.3 万](/zh/news/phantom-blade-zero-4-million-milestone)
 
 ## 1. 绝境下的复仇：66天残命
 主角“魂”被诬陷为杀害首领的凶手，在重伤濒死之际被神秘名医救治，但生命仅剩 66 天。玩家必须在倒计时结束前，在充满暗影的“组织”中杀出血路。
@@ -138,36 +138,36 @@ date: 2026-02-05
 
 > 📰 完整汇总：[影之刃零发售前夜：M站 88 分、最终预告与预载](/zh/news/phantom-blade-zero-launch-eve)
 
-## 8. 发售首日：Steam 峰值 72 万、好评率 83%
+## 8. 首周末里程碑：72 小时销量破 400 万、Steam 峰值 83.3 万
 
 <div class="stat-grid">
   <div class="stat-card">
-    <span class="stat-label">STEAM 峰值</span>
-    <span class="stat-value is-accent">72万</span>
-    <span class="stat-note">723,876 · 首日</span>
+    <span class="stat-label">全球总销量</span>
+    <span class="stat-value is-accent">400万</span>
+    <span class="stat-note">72 小时 · 全平台</span>
   </div>
   <div class="stat-card">
-    <span class="stat-label">历史排名</span>
-    <span class="stat-value">#15</span>
-    <span class="stat-note">Steam 同时在线总榜</span>
+    <span class="stat-label">STEAM 峰值</span>
+    <span class="stat-value">83.3万</span>
+    <span class="stat-note">833,655 · 首周末最高</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">首发总销售额</span>
+    <span class="stat-value">10亿元+</span>
+    <span class="stat-note">3 天全额收回成本</span>
   </div>
   <div class="stat-card">
     <span class="stat-label">STEAM 好评率</span>
-    <span class="stat-value">83%</span>
-    <span class="stat-note">约 2.34 万条评价</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-label">首日补丁</span>
-    <span class="stat-value">5GB</span>
-    <span class="stat-note">PC 版 · 光追优化</span>
+    <span class="stat-value">84%</span>
+    <span class="stat-note">约 4.2 万条评价</span>
   </div>
 </div>
 
-- **Steam 同时在线** 约 13 小时达到 **约 72 万**（峰值 723,876），位列历史总榜第 15，并登顶全球热销榜。
-- **Steam 评价** 从早间的 76–79% 回升至 **83%**（约 2.34 万条），差评集中在闪退、着色器编译与 N 卡驱动兼容。
-- **首日补丁** PC 版约 **5GB**，重点提升光追/路径追踪性能；官方建议 **NVIDIA 621.01** 用户回滚到 **617.42**。
-- **PS5** 性能模式基本 60 帧，雨夜场景与部分 Boss 战掉帧；**PS5 Pro** 最稳。
-- **冯骥**发长文祝贺：「桃李不言，功不唐捐」。
-- 分析机构估算预购约 **85 万份**，但官方尚未公布销量。
+- **全平台销量突破 400 万份**：发售仅仅 **72 小时**，PS5 与 PC 全平台累计销量突破 **400 万份**，总流水超过 **10 亿元人民币**，仅用三天便全额收回了数年的研发与全球发行成本。
+- **Steam 同时在线达 833,655**：经过首日 72 万的开门红，发售首个周末迎来全球狂潮，Steam 峰值冲破 **83.3 万**，跻身 Steam 历史单机动作 RPG 顶尖行列，连续数日登顶全球畅销榜。
+- **Steam 评价回升至 84%**：好评率从早间的 76% 回升至 **84%（特别好评）**，总评价突破 **4.2 万条**。玩家称赞硬核冷兵器碰撞的杀伐快感与 Boss 战设计。
+- **首日补丁与驱动优化**：PC 版首日 **5GB** 补丁有效稳定光追性能；制作人梁其伟确认 **1.02 与 1.03 补丁** 正在加急交付，优化着色器预加载与键位重映射。
+- **PS5 与 PS5 Pro**：PS5 性能模式基本保持 60 帧，雨夜高负载场景在后续补丁中持续打磨；**PS5 Pro** 体验最平稳细腻。
+- **冯骥发长文祝贺**：“桃李不言，功不唐捐。”
 
-> 📰 完整汇总：[影之刃零发售首日：Steam 峰值 72 万、好评率 83%](/zh/news/phantom-blade-zero-launch-day)
+> 📰 完整汇总：[影之刃零 72 小时破 400 万销量与 83 万在线](/zh/news/phantom-blade-zero-4-million-milestone) · [发售首日回顾](/zh/news/phantom-blade-zero-launch-day)

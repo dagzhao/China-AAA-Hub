@@ -49,10 +49,8 @@ image: "/images/wukong-2.jpg"
 
 <div class="project-card-custom">
   <div class="card-content">
-    <h3>影之刃零 (Phantom Blade Zero)
-    <span class="badge-upcoming">已发售</span>
-    </h3>
-    <p>“武侠朋克”的极致动作现已发售——Steam 首日峰值 72 万。在“组织”的阴影下，体验快节奏冷兵器格挡与杀伐之美。</p>
+    <h3>影之刃零 (Phantom Blade Zero)</h3>
+    <p>“武侠朋克”现已发售——72 小时狂揽 400 万销量，Steam 首周末在线峰值突破 83.3 万。在“组织”阴影下，体验冷兵器格挡与杀戮美学的极致碰撞。</p>
     <div class="image-row">
       <img loading="lazy" src="/images/pbzero-1.jpg" alt="PBZ Combat" />
       <img loading="lazy" src="/images/pbzero-2.jpg" alt="PBZ Style" />
@@ -118,6 +116,12 @@ image: "/images/wukong-2.jpg"
 ## 📰 最新动态
 
 <div class="chronicle-grid">
+
+<a class="chronicle-card" href="/zh/news/phantom-blade-zero-4-million-milestone">
+  <span class="chronicle-status">11月2日 · 影之刃零</span>
+  <h3>72 小时销量破 400 万份</h3>
+  <p>全平台销售额破 10 亿元三天回本，Steam 首周末峰值达 83.3 万。</p>
+</a>
 
 <a class="chronicle-card" href="/zh/news/phantom-blade-zero-launch-day">
   <span class="chronicle-status">10月30日 · 影之刃零</span>

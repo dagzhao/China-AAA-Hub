@@ -50,10 +50,8 @@ image: "/images/wukong-2.jpg"
 
 <div class="project-card-custom">
   <div class="card-content">
-    <h3>影之刃零 (Phantom Blade Zero)
-    <span class="badge-upcoming">発売中</span>
-    </h3>
-    <p>「武侠パンク」究極のアクションが発売中——Steam初日ピークは72万。影の組織の暗躍する世界で、ハイスピードな冷兵器によるパリィと殺戮の美学を体験する。</p>
+    <h3>影之刃零 (Phantom Blade Zero)</h3>
+    <p>「武侠パンク」究極のアクションが発売中——発売72時間で400万本突破、Steam開幕週末同接83.3万人。影の組織が暗躍する世界で、ハイスピードな白刃受け流しと殺戮の美学を体験する。</p>
     <div class="image-row">
       <img src="/images/pbzero-1.jpg" alt="影之刃零の戦闘クローズアップ" loading="lazy"/>
       <img src="/images/pbzero-2.jpg" alt="影之刃零のスタイルアート" loading="lazy"/>
@@ -119,6 +117,12 @@ image: "/images/wukong-2.jpg"
 ## 📰 最新情報
 
 <div class="chronicle-grid">
+
+<a class="chronicle-card" href="/ja/news/phantom-blade-zero-4-million-milestone">
+  <span class="chronicle-status">11月2日 · 影之刃零</span>
+  <h3>72時間で世界400万本突破</h3>
+  <p>売上10億元超で3日で開発費回収、Steam開幕週末ピーク83.3万人。</p>
+</a>
 
 <a class="chronicle-card" href="/ja/news/phantom-blade-zero-launch-day">
   <span class="chronicle-status">10月30日 · 影之刃零</span>

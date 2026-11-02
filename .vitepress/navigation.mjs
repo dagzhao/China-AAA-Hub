@@ -26,6 +26,10 @@ const toolItems = [
 
 const newsItems = [
   {
+    key: 'phantom4Million',
+    path: '/news/phantom-blade-zero-4-million-milestone'
+  },
+  {
     key: 'phantomLaunchDay',
     path: '/news/phantom-blade-zero-launch-day'
   },

@@ -48,10 +48,8 @@ image: "/images/wukong-2.jpg"
 
 <div class="project-card-custom">
   <div class="card-content">
-    <h3>Phantom Blade Zero
-    <span class="badge-upcoming">Out Now</span>
-    </h3>
-    <p>The ultimate "Wuxia Punk" action is out now — a first-day peak of 720,000 on Steam. Under the shadow of "The Organization," experience fast-paced cold-weapon parrying and the brutal beauty of assassination.</p>
+    <h3>Phantom Blade Zero</h3>
+    <p>The ultimate "Kungfupunk" action is out now — surpassing 4 million copies in 72 hours with an 833,000 Steam weekend peak. Experience razor-sharp parrying and brutal martial arts in the shadows of the Order.</p>
     <div class="image-row">
       <img src="/images/pbzero-1.jpg" alt="Phantom Blade Zero Combat Closeup" loading="lazy"/>
       <img src="/images/pbzero-2.jpg" alt="Phantom Blade Zero Stylized Art" loading="lazy"/>
@@ -117,6 +115,12 @@ image: "/images/wukong-2.jpg"
 ## 📰 Latest Updates
 
 <div class="chronicle-grid">
+
+<a class="chronicle-card" href="/news/phantom-blade-zero-4-million-milestone">
+  <span class="chronicle-status">Nov 2 · Phantom Blade Zero</span>
+  <h3>4 Million Copies in 72 Hours</h3>
+  <p>Over 1B RMB in revenue, recouping budget in 3 days; Steam weekend peak hits 833K.</p>
+</a>
 
 <a class="chronicle-card" href="/news/phantom-blade-zero-launch-day">
   <span class="chronicle-status">Oct 30 · Phantom Blade Zero</span>

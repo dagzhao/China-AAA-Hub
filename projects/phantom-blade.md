@@ -1,13 +1,13 @@
 ---
-title: "Phantom Blade Zero — Out Now: Metacritic 88 & 720K Peak"
-description: "Phantom Blade Zero is out now (October 29, 2026): Metacritic 88, a 720K Steam launch peak, 8 endings, 66 Days mode, platforms and unlock times."
+title: "Phantom Blade Zero — 4M Sold in 72 Hours: Metacritic 88 & 833K Peak"
+description: "Phantom Blade Zero sells over 4 million copies in 72 hours, generating 1B+ RMB to recoup its budget in 3 days; Steam weekend peak hits 833K with Metacritic 88."
 image: "/images/pbzero-1.jpg"
 date: 2026-02-05
 ---
 
 # Phantom Blade Zero: Kung Fu Punk
 
-> 📰 **Latest:** [Phantom Blade Zero Launch Day: 720K Steam Peak, 83% Positive](/news/phantom-blade-zero-launch-day)
+> 📰 **Latest:** [Phantom Blade Zero Surpasses 4M Copies in 72 Hours, Steam Peak Hits 833K](/news/phantom-blade-zero-4-million-milestone)
 
 ## 1. Revenge in Despair: 66 Days to Live
 The protagonist, **Soul**, is framed for the murder of the Patriarch. Rescued by a mysterious healer but left with only 66 days to live, Soul must fight through the treacherous "Order" before his clock runs out.
@@ -138,36 +138,36 @@ The embargo lifted on **October 26**, and *Phantom Blade Zero* landed the highes
 
 > 📰 Full roundup: [Phantom Blade Zero Launch Eve: Metacritic 88](/news/phantom-blade-zero-launch-eve)
 
-## 8. Launch Day: 720K Steam Peak, 83% Positive
+## 8. Opening Weekend Milestone: 4M Sold in 72 Hours, 833K Steam Peak
 
 <div class="stat-grid">
   <div class="stat-card">
-    <span class="stat-label">STEAM PEAK</span>
-    <span class="stat-value is-accent">720K</span>
-    <span class="stat-note">723,876 · day one</span>
+    <span class="stat-label">GLOBAL COPIES SOLD</span>
+    <span class="stat-value is-accent">4M</span>
+    <span class="stat-note">72 hours · all platforms</span>
   </div>
   <div class="stat-card">
-    <span class="stat-label">ALL-TIME RANK</span>
-    <span class="stat-value">#15</span>
-    <span class="stat-note">Steam concurrents</span>
+    <span class="stat-label">STEAM PEAK</span>
+    <span class="stat-value">833K</span>
+    <span class="stat-note">833,655 · opening weekend</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">GROSS REVENUE</span>
+    <span class="stat-value">1B+ RMB</span>
+    <span class="stat-note">Recouped total budget in 3 days</span>
   </div>
   <div class="stat-card">
     <span class="stat-label">STEAM REVIEWS</span>
-    <span class="stat-value">83%</span>
-    <span class="stat-note">~23.4K reviews</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-label">DAY-ONE PATCH</span>
-    <span class="stat-value">5GB</span>
-    <span class="stat-note">PC · ray tracing</span>
+    <span class="stat-value">84%</span>
+    <span class="stat-note">~42K reviews · Very Positive</span>
   </div>
 </div>
 
-- **Steam concurrents** peaked at roughly **720,000** (723,876) after about 13 hours — No. 15 all-time and No. 1 on the global bestseller chart.
-- **Steam reviews** climbed from 76–79% to **83%** (~23,400 reviews), with complaints centered on crashes, shader compilation and Nvidia driver compatibility.
-- **The day-one patch** is about **5GB** on PC, focused on ray-tracing and path-tracing performance; S-GAME advises Nvidia **621.01** users to roll back to **617.42**.
-- **PS5** holds close to 60 fps in performance mode, with drops in rain scenes and some boss fights; **PS5 Pro** is the most stable.
-- **Feng Ji** published a long congratulatory post: "桃李不言，功不唐捐."
-- Alinea Analytics estimates about **850,000 pre-orders**; S-GAME has not announced official sales.
+- **Over 4 million copies sold globally:** In just **72 hours**, *Phantom Blade Zero* surpassed **4 million units sold** across PS5, PS5 Pro and PC, generating gross revenues exceeding **1 billion RMB** ($140M+ USD) and recouping its development and marketing budgets in three days.
+- **Steam concurrents peaked at 833,655:** After a day-one peak of 723,876, player numbers exploded over the weekend to **833,655**, placing the game among the highest-peaking single-player action RPGs in Steam history and dominating the global top sellers list.
+- **Steam reviews climbed to 84%:** Customer feedback rebounded to **84% Very Positive** across more than 42,000 user reviews, with players praising the lightning-quick parries, dismemberment physics and 50+ boss encounters.
+- **Patches & driver optimizations:** PC ray-tracing stability improved via the day-one 5GB update; director Liang Qiwei confirmed that **Patches 1.02 and 1.03** are in rapid deployment to optimize shader pre-caching and custom keybindings.
+- **PS5 & PS5 Pro:** Performance mode targets 60 fps on PS5; **PS5 Pro** delivers the smoothest resolution and frame stability.
+- **Industry congratulations:** Game Science producer Feng Ji lauded S-GAME in a celebrated post: "桃李不言，功不唐捐."
 
-> 📰 Full roundup: [Phantom Blade Zero Launch Day: 720K Steam Peak, 83% Positive](/news/phantom-blade-zero-launch-day)
+> 📰 Full roundup: [Phantom Blade Zero Surpasses 4M Copies in 72 Hours, Steam Peak Hits 833K](/news/phantom-blade-zero-4-million-milestone) · [Launch Day Recap](/news/phantom-blade-zero-launch-day)

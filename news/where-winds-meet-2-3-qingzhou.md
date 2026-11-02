@@ -78,10 +78,10 @@ The main criticisms are that Qingzhou feels more like a **"themed mini-map"** th
 
 ## What to watch next
 
+- **November 2** anniversary livestream and the **November 13** First Global Anniversary with the "Hutuo Battlefield" expansion (featuring Xiao Han, Yelu Abuli, and Yuen Woo-ping's Dual Spears).
+- **October 29** rollout of Penglai Isle and the snowy cold-case investigation.
 - **DLSS 5** on PC by late November.
-- **Penglai Isle** and the Mount Tai Blizzard campaign on October 29.
 - Whether the international build begins to close the **six-month gap** with the China server.
-- The next major region after Qingzhou — not yet announced.
 
 ## Sources
 

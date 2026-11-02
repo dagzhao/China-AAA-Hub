@@ -10,6 +10,12 @@ Running coverage of the six Chinese AAA titles we track. Each story links back t
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./phantom-blade-zero-4-million-milestone">
+  <span class="chronicle-status">Nov 2 · Phantom Blade Zero</span>
+  <h3>4 Million Copies in 72 Hours</h3>
+  <p>Over 1B RMB in revenue, recouping budget in 3 days; Steam weekend peak hits 833K.</p>
+</a>
+
 <a class="chronicle-card" href="./phantom-blade-zero-launch-day">
   <span class="chronicle-status">Oct 30 · Phantom Blade Zero</span>
   <h3>Launch Day: 720K Steam Peak</h3>
