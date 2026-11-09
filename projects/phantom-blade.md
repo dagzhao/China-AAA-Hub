@@ -170,4 +170,26 @@ The embargo lifted on **October 26**, and *Phantom Blade Zero* landed the highes
 - **PS5 & PS5 Pro:** Performance mode targets 60 fps on PS5; **PS5 Pro** delivers the smoothest resolution and frame stability.
 - **Industry congratulations:** Game Science producer Feng Ji lauded S-GAME in a celebrated post: "桃李不言，功不唐捐."
 
+## 9. Global Player Guide & Search Trends: True Ending, Weapon Tier List, and Hidden Boss "Mo Yuan"
+
+Following its explosive opening week, global player queries on Google, Steam Community, and Reddit have coalesced around four major gameplay topics:
+
+- **True Ending Requirements & All 8 Endings Explained (Endings Guide):**
+  - **Avoiding the bad ending:** Rushing strictly through the golden path triggers the default "Annihilation" bad ending. To unlock the true resolution, players must collect all five **Dragon Pillar Shards** and every **Physician's Remnant Scroll** scattered across the semi-open hubs before the 66-day timer expires, choosing to unmask The Order rather than obey it.
+  - **The True Climax:** Fulfilling all investigation prerequisites triggers an epic confrontation with Zuo Shang's Phase 2 **"True Dragon Form,"** exposing the shadow pact binding the Martial World and the imperial court.
+  - **New Game+ "66 Days" Mode:** Unlocked upon finishing the game, this hardcore mode provides an isolated save file with strictly **66 lives total**. Depleting them permanently wipes the save and triggers the elusive **"Regret"** ending.
+- **Weapon Tier List & Recommended Builds:**
+  - Featuring 30+ main weapons and 25 Phantom Edge secondary tools, combat revolves around the core **"Sha Chi (Killing Qi) Armor Break"** system:
+  - **Tier 0 Heavy Greatblade (Po Jun / Army Breaker):** Immense poise damage and hyper-armor frames. Charged vertical cleaves shatter elite and boss poise meters within seconds, making it the premier choice for survivability.
+  - **Tier 0 Dual Sawblades (Yao Ju / Demon Saw):** High-cadence multi-hit sequences and rapid mobility that stack poison and bleed debuffs effortlessly, shutting down fast humanoid bosses.
+  - **Tier 1 Parrying Blade (Aureate Sword / Jin Huang):** Tailored for parry masters; landing precise deflects unleashes lethal counter-thrusts with massive critical multipliers.
+  - **Secondary Weapon Synergy:** Light **Phantom Darts** and **Thunder Bombs** offer safe ranged stance-breaking to interrupt unblockable boss charges.
+- **Donnie Yen's Role & Ultimate Hidden Boss "Mo Yuan":**
+  - Martial arts legend **Donnie Yen** served as creative consultant and contributed comprehensive motion and facial capture for **Mo Yuan**, the estranged father of protagonist Soul.
+  - **Unlock Requirements:** Clear all bounty board assassinations across all chapters, secure the Octagonal Iron Token at the fifth Dragon Pillar trial, and unlock the secluded mountain gate in the final citadel ruins.
+  - **Encounter Mechanics:** Mo Yuan weaves traditional Wing Chun hand strikes, explosive one-inch punches, and blistering shadow swordplay. Phase 2 unleashes deceptive phantom mirror images, widely heralded as the game's most cinematic encounter.
+- **Gameplay FAQ & Playtime Clarity (Is It Soulslike?):**
+  - **Distinct from traditional Souls games:** There is no stamina gauge; combat rewards aggressive offense, dynamic deflection frames, and aerial juggles without corpse runs or resource loss upon death.
+  - **Estimated Playtime:** The critical path spans approximately **25–30 hours**; thorough exploration and side investigations require **40–45 hours**; full completionist runs and all 8 endings exceed **60+ hours**. Full, cost-free respecs are available at any rest shrine.
+
 > 📰 Full roundup: [Phantom Blade Zero Surpasses 4M Copies in 72 Hours, Steam Peak Hits 833K](/news/phantom-blade-zero-4-million-milestone) · [Launch Day Recap](/news/phantom-blade-zero-launch-day)
