@@ -1,7 +1,16 @@
 ---
-title: "Chinese AAA Games 2026–2028: Release Calendar & Upcoming Titles"
-description: "Every major Chinese AAA game released or coming soon: Black Myth: Wukong, Zhong Kui, WUCHANG, Phantom Blade Zero, Where Winds Meet and Tides of Annihilation."
+title: "Chinese AAA Games 2026–2028: Release Calendar & Upcoming Titles (Games Like Wukong)"
+description: "Every major Chinese AAA game released or coming soon: Black Myth: Wukong, Zhong Kui, WUCHANG, Phantom Blade Zero, Where Winds Meet and Tides of Annihilation — dates, platforms and status."
 image: "/images/zhongkui-04.jpg"
+keywords:
+  - Chinese AAA games
+  - games like black myth wukong
+  - release calendar 2026-2028
+  - phantom blade zero
+  - black myth zhong kui
+  - where winds meet
+  - wuchang fallen feathers
+  - tides of annihilation
 ---
 
 # Chinese AAA Games 2026–2028: Release Calendar
@@ -46,13 +55,13 @@ Every major Chinese AAA game we track — released, launching and still in devel
 <a class="chronicle-card" href="./projects/phantom-blade">
   <span class="chronicle-status">🟢 Released</span>
   <h3>Phantom Blade Zero</h3>
-  <p>Out now — 4M copies sold in 72h, 833K Steam peak.</p>
+  <p>Out now — 4M sold, 833K peak & Golden Joystick GOTY Nominee.</p>
 </a>
 
 <a class="chronicle-card" href="./projects/yanyun">
   <span class="chronicle-status">🟢 Live</span>
   <h3>Where Winds Meet</h3>
-  <p>Open-world wuxia in the Five Dynasties era.</p>
+  <p>Open-world wuxia — 1st Anniversary 'Hutuo' arrives Nov 13.</p>
 </a>
 
 <a class="chronicle-card" href="./projects/tides-of-annihilation">

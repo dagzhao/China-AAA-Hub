@@ -1,13 +1,21 @@
 ---
 title: "Who Is Zhong Kui? Lore, Release Date Status & Gameplay"
-description: "Zhong Kui's legend, Seven-Star Sword and tiger mount, plus the August 2026 15-minute gameplay, release date status and Golden Joystick nomination."
+description: "Zhong Kui's legend, Seven-Star Sword and tiger mount, plus the August 2026 15-minute gameplay, release date status and Golden Joystick Most Wanted nomination."
 image: "/images/zhongkui-04.jpg"
 date: 2026-02-05
+keywords:
+  - Black Myth Zhong Kui
+  - Most Wanted Game
+  - Golden Joystick Awards 2026
+  - Game Science
+  - Great Clam Lord
+  - Zhong Kui lore
+  - games like black myth wukong
 ---
 
 # Who is Zhong Kui?
 
-> 📰 **Latest:** [Zhong Kui's 15-Minute Gameplay, Explained](/news/black-myth-zhong-kui-15-minute-gameplay)
+> 📰 **Latest:** [Golden Joystick Awards 2026: Black Myth: Zhong Kui Nominated for Most Wanted Game](/news/golden-joystick-awards-2026-nominations) · [Zhong Kui's 15-Minute Gameplay, Explained](/news/black-myth-zhong-kui-15-minute-gameplay)
 
 ## 1. The Divine Inquisitor: Origin of the Legend
 Zhong Kui, the "Ghost Eater," is a legendary deity in Chinese folklore known as the vanquisher of evil spirits. A brilliant scholar denied his rank due to his appearance, he chose an honorable death and was appointed Supreme Judge of the Underworld.

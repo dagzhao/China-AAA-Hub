@@ -10,6 +10,12 @@ Running coverage of the six Chinese AAA titles we track. Each story links back t
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./golden-joystick-awards-2026-nominations">
+  <span class="chronicle-status">Nov 10 · Awards</span>
+  <h3>Golden Joystick Awards 2026</h3>
+  <p>Phantom Blade Zero shortlisted for Ultimate GOTY; Zhong Kui nominated for Most Wanted.</p>
+</a>
+
 <a class="chronicle-card" href="./phantom-blade-zero-4-million-milestone">
   <span class="chronicle-status">Nov 2 · Phantom Blade Zero</span>
   <h3>4 Million Copies in 72 Hours</h3>

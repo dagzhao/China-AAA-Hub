@@ -1,7 +1,16 @@
 ---
-title: "2026–2028 中国 AAA 游戏发售日历"
-description: "已发售与即将推出的中国 AAA 游戏：黑神话：悟空、钟馗、明末、影之刃零、燕云十六声、湮灭之潮的发售日、平台与最新状态。"
+title: "2026–2028 国产 3A 游戏发售日历与类似黑神话悟空的大作排期表"
+description: "已发售与即将推出的中国 AAA 游戏：黑神话：悟空、黑神话：钟馗、明末、影之刃零、燕云十六声、湮灭之潮的发售日、平台与最新状态排期。"
 image: "/images/zhongkui-04.jpg"
+keywords:
+  - 国产3A游戏
+  - 类似黑神话悟空
+  - 发售日历
+  - 排期表
+  - 影之刃零
+  - 黑神话钟馗
+  - 燕云十六声
+  - 明末渊虚之羽
 ---
 
 # 2026–2028 中国 AAA 游戏发售日历
@@ -46,13 +55,13 @@ image: "/images/zhongkui-04.jpg"
 <a class="chronicle-card" href="./projects/phantom-blade">
   <span class="chronicle-status">🟢 已发售</span>
   <h3>影之刃零</h3>
-  <p>已发售——72 小时破 400 万销量，Steam 峰值 83 万。</p>
+  <p>已发售——72 小时破 400 万销量，入围金摇杆年度终极游戏。</p>
 </a>
 
 <a class="chronicle-card" href="./projects/yanyun">
   <span class="chronicle-status">🟢 已上线</span>
   <h3>燕云十六声</h3>
-  <p>五代十国开放世界武侠。</p>
+  <p>五代十国开放世界武侠——一周年「滹沱战役」11月13日上线。</p>
 </a>
 
 <a class="chronicle-card" href="./projects/tides-of-annihilation">

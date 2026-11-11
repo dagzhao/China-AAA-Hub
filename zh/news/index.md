@@ -10,6 +10,12 @@ image: "/images/zhongkui-04.jpg"
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./golden-joystick-awards-2026-nominations">
+  <span class="chronicle-status">11月10日 · 业界快讯</span>
+  <h3>2026 金摇杆奖双提名揭晓</h3>
+  <p>《影之刃零》入围年度终极游戏 12 强候选，《黑神话：钟馗》获最受期待提名。</p>
+</a>
+
 <a class="chronicle-card" href="./phantom-blade-zero-4-million-milestone">
   <span class="chronicle-status">11月2日 · 影之刃零</span>
   <h3>72 小时销量破 400 万份</h3>

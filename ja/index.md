@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "中国3Aゲーム — 影之刃零・黒神話：悟空と鍾馗"
+title: "中国 AAA ゲーム — 発売スケジュール 2026-2028・黒神話：悟空の系譜と攻略ガイド"
 titleTemplate: false
 
 hero:
@@ -23,7 +23,16 @@ features:
   - title: "次世代の展望"
     details: 「黒神話」から次なる期待作まで、進化し続ける中国ゲーム産業を追跡します。
 
-description: "中国3Aゲームハブ：『黒神話：悟空』『鍾馗』『明末：ウツロノハネ』『燕雲十六声』『影之刃零』『Tides of Annihilation』の物語・ゲームシステム・文化を解説。"
+description: "中国 AAA ゲーム情報サイト：『黒神話：悟空』『ファントムブレイド ゼロ』『黒神話：鐘馗』『燕雲十六声』『明末：淵虚の羽』の発売スケジュール、詳細攻略、東洋文化を徹底解説。"
+keywords:
+  - 中国 AAA ゲーム
+  - 黒神話：悟空 似てるゲーム
+  - ファントムブレイド ゼロ
+  - 黒神話：鐘馗
+  - 燕雲十六声
+  - 明末：淵虚の羽
+  - 武侠アクション
+  - 死にゲー
 image: "/images/wukong-2.jpg"
 ---
 
@@ -118,6 +127,12 @@ image: "/images/wukong-2.jpg"
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="/ja/news/golden-joystick-awards-2026-nominations">
+  <span class="chronicle-status">11月10日 · 業界速報</span>
+  <h3>2026年GJAダブルノミネート</h3>
+  <p>『ファントムブレイド ゼロ』がGOTY候補12選に選出、『黒神話：鐘馗』は最優秀期待作へ。</p>
+</a>
+
 <a class="chronicle-card" href="/ja/news/phantom-blade-zero-4-million-milestone">
   <span class="chronicle-status">11月2日 · 影之刃零</span>
   <h3>72時間で世界400万本突破</h3>
@@ -134,12 +149,6 @@ image: "/images/wukong-2.jpg"
   <span class="chronicle-status">10月21日 · 黒神話：鍾馗</span>
   <h3>鍾馗 15分実機の解説</h3>
   <p>剣のパリィ、鬼の憑依、大蚌真君。</p>
-</a>
-
-<a class="chronicle-card" href="/ja/news/black-myth-wukong-dlc-status">
-  <span class="chronicle-status">10月21日 · 黒神話：悟空</span>
-  <h3>悟空DLC：中止ではなく一時停止</h3>
-  <p>Game Scienceが語ったDLCの現状。</p>
 </a>
 
 </div>

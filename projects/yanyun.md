@@ -3,11 +3,20 @@ title: "Where Winds Meet — 1st Anniversary 'Hutuo Battlefield', 2.3 & 100M Pla
 description: "Where Winds Meet's 2026 updates: Nov 13 First Global Anniversary, major Hutuo Battlefield expansion, Yuen Woo-ping Dual Spears, 2.3 Qingzhou and 100M players."
 image: "/images/yanyun-1.jpg"
 date: 2026-02-05
+keywords:
+  - Where Winds Meet
+  - Hutuo Battlefield
+  - 1st Anniversary Update
+  - Dual Spears
+  - wuxia open world
+  - crossplay xbox ps5 pc
+  - Yuen Woo-ping
+  - games like black myth wukong
 ---
 
 # Where Winds Meet
 
-> 📰 **Latest:** [Where Winds Meet 2.3: Qingzhou and DLSS 5](/news/where-winds-meet-2-3-qingzhou)
+> 📰 **Latest:** [Where Winds Meet 1st Anniversary & Hutuo Battlefield Expansion Arrives Nov 13](/news/where-winds-meet-2-3-qingzhou) · [Qingzhou & DLSS 5](/news/where-winds-meet-2-3-qingzhou)
 
 ## 1. Historical Context: The Chaos of Yanyun
 Set during the turbulent end of the Five Dynasties and Ten Kingdoms period, the game explores a world where old orders have crumbled. In the desolate lands of the Sixteen Prefectures of Yanyun, players take on the role of a wanderer forging their own path amidst the tides of history.
@@ -82,12 +91,12 @@ Set during the turbulent end of the Five Dynasties and Ten Kingdoms period, the 
 
 ## 6. First Global Anniversary & "Hutuo Battlefield" (Nov 13, 2026)
 
-NetEase Games and Everstone Studio officially announced that the game's **first global anniversary celebration** will launch on **November 13, 2026**, preceded by an anniversary showcase livestream on **November 2**:
+NetEase Games and Everstone Studio officially confirmed that the game's **first global anniversary celebration and major expansion "Hutuo Battlefield" launches worldwide on November 13, 2026 (in 48 hours)** across PC, PlayStation 5, Xbox Series X|S, and mobile:
 
-- **Major expansion "Hutuo Battlefield"** — Unveils the sprawling, war-torn frontline battlefield of Hutuo along the Yellow River, shifting focus from scholarly landscapes to the gritty chaos of falling dynasties and border warfare.
+- **War-torn frontier: Hutuo Battlefield** — Unveils the sprawling, gritty frontline campaign of Hutuo along the Yellow River, centered on the historic Battle of Zhongdu Bridge. Shifts tone decisively toward epic border warfare and falling dynasties.
 - **Formidable commanders and world bosses** — Introduces Khitan general **Xiao Han** (equipped with Blood-forged Super Armor) and roaming open-world bosses **Yelu Abuli** and **Bingshen**.
-- **Yuen Woo-ping choreographed "Dual Spears" style** — Following Drunken Fist, legendary action director **Yuen Woo-ping** returned to design the new **Dual Spears** martial art, allowing fluid real-time switching between rapid thrusting light spears and heavy guard-breaking strikes.
-- **Historical anniversary rewards** — Delivers the most generous historical gifts and event rewards since launch, alongside new tactical board game and horse racing modes.
+- **Yuen Woo-ping choreographed "Dual Spears" style** — Following Drunken Fist, legendary action director **Yuen Woo-ping** returned to choreograph the brand-new **Dual Spears** martial art, allowing fluid real-time switching between lightning-fast thrusts and heavy poise-breaking strikes.
+- **Historic anniversary rewards & cross-play** — Delivers the most generous anniversary login rewards, weapon skins, and commemorative titles since launch, alongside cross-platform progression and cross-play across all active devices.
 - **Penglai Isle late-October rollout** — On **October 29**, the second phase of Version 2.3 unlocked the Penglai sea territory, the snowy cold-case investigation "Murders in the Snow", and spatial dreamcore corridors.
 
 ## 7. China Server: Running About Half a Year Ahead

@@ -249,6 +249,13 @@ export function createSeoTransform(pageIndex) {
     ])
     head.push(['link', { rel: 'canonical', href: url }])
 
+    const pageKeywords = pageData.frontmatter?.keywords
+    if (Array.isArray(pageKeywords) && pageKeywords.length > 0) {
+      head.push(['meta', { name: 'keywords', content: pageKeywords.join(', ') }])
+    } else if (typeof pageKeywords === 'string' && pageKeywords.trim()) {
+      head.push(['meta', { name: 'keywords', content: pageKeywords.trim() }])
+    }
+
     head.push(['meta', { property: 'og:title', content: title }])
     head.push([
       'meta',

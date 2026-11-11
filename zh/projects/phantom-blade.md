@@ -1,13 +1,22 @@
 ---
-title: "影之刃零 — 72 小时销量破 400 万、M站 88 分与 Steam 83 万在线峰值"
-description: "《影之刃零》发售 72 小时全球销量突破 400 万份、流水超 10 亿元三天回本；Steam 首周末峰值达 83.3 万，M站 88 分，8 个结局与 66 天模式。"
+title: "影之刃零 — 入围金摇杆 2026 年度终极游戏、400 万销量与全结局全武器攻略"
+description: "《影之刃零》2026 年最新进展：入围金摇杆 Ultimate GOTY 候选、发售 72 小时破 400 万销量、甄子丹隐藏 Boss 魔渊打法、真结局条件与武器节奏榜。"
 image: "/images/pbzero-1.jpg"
 date: 2026-02-05
+keywords:
+  - 影之刃零
+  - 金摇杆奖 2026
+  - 年度终极游戏
+  - 影之刃零真结局
+  - 影之刃零武器排行榜
+  - 甄子丹魔渊
+  - 影之刃零是魂类吗
+  - 类似黑神话悟空的游戏
 ---
 
 # 影之刃零：武侠朋克 (Kung Fu Punk)
 
-> 📰 **最新:** [影之刃零 72 小时销量破 400 万、Steam 峰值 83.3 万](/zh/news/phantom-blade-zero-4-million-milestone)
+> 📰 **最新:** [2026 金摇杆奖公布提名：《影之刃零》入围年度终极游戏](/zh/news/golden-joystick-awards-2026-nominations) · [72 小时销量破 400 万](/zh/news/phantom-blade-zero-4-million-milestone)
 
 ## 1. 绝境下的复仇：66天残命
 主角“魂”被诬陷为杀害首领的凶手，在重伤濒死之际被神秘名医救治，但生命仅剩 66 天。玩家必须在倒计时结束前，在充满暗影的“组织”中杀出血路。
@@ -193,3 +202,41 @@ date: 2026-02-05
   - **通关时长**：纯主线通关耗时约 **25–30 小时**；全支线探索与隐藏要素收集需 **40–45 小时**；全成就白金与 8 结局全收集需 **60 小时以上**；游戏内支持全量无损洗点。
 
 > 📰 完整汇总：[影之刃零 72 小时破 400 万销量与 83 万在线](/zh/news/phantom-blade-zero-4-million-milestone) · [发售首日回顾](/zh/news/phantom-blade-zero-launch-day)
+
+## 10. 2026 金摇杆奖：入围「终极年度游戏」最高荣誉
+
+2026 年 11 月，第 44 届英国金摇杆奖正式公布各奖项入围名单，《影之刃零》入选含金量最高的 **「终极年度游戏」（Ultimate Game of the Year）12 强候选名单**：
+- **唯一入选国产单机**：与全球多款高规格年度大作同场角逐，这也是继《黑神话：悟空》后国产单机 3A 在国际权威奖项中取得的又一重磅突破。
+- **评委会高度赞誉**：海外评委与主流媒体高度肯定了本作卓越的虚幻 5 视觉呈现、由甄子丹指导的高速动作捕捉以及无体力条、纯粹享受格挡弹反的战斗深度。
+
+> 📰 查看快讯报道：[2026 金摇杆奖公布提名：《影之刃零》入围年度终极游戏](/zh/news/golden-joystick-awards-2026-nominations)
+
+## 11. 常见玩家疑问解答 (FAQ)
+
+<details class="faq-item">
+  <summary><strong>《影之刃零》是类似《黑神话》或魂类（Soulslike）游戏吗？</strong></summary>
+  <div class="faq-answer">
+    <p>本作并不是传统意义上的硬核魂类游戏。游戏中<strong>没有体力槽限制</strong>，角色死亡后<strong>不掉落任何经验或养成资源</strong>。核心战斗系统更接近《只狼》的快节奏攻防弹反与《鬼泣》的华丽连招，强调高速武器切换、空中追击与煞气破防，对动作游戏爱好者非常友好。</p>
+  </div>
+</details>
+
+<details class="faq-item">
+  <summary><strong>通关《影之刃零》需要多少小时？</strong></summary>
+  <div class="faq-answer">
+    <p>单走主线剧情大约需要 <strong>25 至 30 小时</strong>；若包含全地图探索、支线任务与悬赏令，平均需 <strong>40 至 45 小时</strong>；若要达成全部 8 个结局并挑战严苛的「66 天」二周目硬核生存模式，游戏时长将超过 <strong>60 小时以上</strong>。</p>
+  </div>
+</details>
+
+<details class="faq-item">
+  <summary><strong>甄子丹出演的隐藏 Boss「魔渊」如何解锁？</strong></summary>
+  <div class="faq-answer">
+    <p>解锁隐藏首领魔渊需完成三个前置条件：① 清理完成全章节的全部悬赏通缉任务；② 在第五座龙柱试炼中取得关键信物「八方玄铁令」；③ 在终章古城绝壁深处开启被封印的暗影石门。</p>
+  </div>
+</details>
+
+<details class="faq-item">
+  <summary><strong>开荒哪些武器最强？流派推荐是什么？</strong></summary>
+  <div class="faq-answer">
+    <p>当前版本中，重型主武器 <strong>破军（重大剑）</strong> 和双持武器 <strong>妖锯（高频双刃）</strong> 处于 T0 梯队。破军拥有极高削韧与全程霸体，可瞬间打碎敌人体干；妖锯攻击频率极高，能快速叠加出血与毒煞异常状态。对于追求弹反反击的玩家，推荐选用自带暴击加成的 <strong>金煌剑（瞬杀剑）</strong>。</p>
+  </div>
+</details>

@@ -1,7 +1,15 @@
 ---
-title: "中国AAAゲーム2026–2028：発売カレンダー"
-description: "発売済み・発売予定の中国AAAゲーム：黒神話：悟空、鍾馗、明末、影之刃零、燕雲十六声、Tides of Annihilationの発売日・対応機種・最新状況。"
+title: "中国AAAゲーム2026–2028：発売カレンダー・黒神話：悟空の系譜とおすすめ一覧"
+description: "発売済み・発売予定の中国AAAゲーム：黒神話：悟空、鍾馗、明末、ファントムブレイド ゼロ、燕雲十六声、Tides of Annihilationの発売日・対応機種・最新状況一覧。"
 image: "/images/zhongkui-04.jpg"
+keywords:
+  - 中国AAAゲーム
+  - 黒神話：悟空 似てるゲーム
+  - 発売カレンダー
+  - ファントムブレイド ゼロ
+  - 黒神話：鐘馗
+  - 燕雲十六声
+  - 明末：淵虚の羽
 ---
 
 # 中国AAAゲーム2026–2028：発売カレンダー
@@ -46,13 +54,13 @@ image: "/images/zhongkui-04.jpg"
 <a class="chronicle-card" href="./projects/phantom-blade">
   <span class="chronicle-status">🟢 発売中</span>
   <h3>ファントムブレイド ゼロ</h3>
-  <p>発売中——72時間で400万本突破、Steamピーク83万人。</p>
+  <p>発売中——400万本突破・GJA年間最高賞GOTY候補。</p>
 </a>
 
 <a class="chronicle-card" href="./projects/yanyun">
   <span class="chronicle-status">🟢 配信中</span>
   <h3>風燕伝（燕雲十六声）</h3>
-  <p>五代十国時代を舞台にしたオープンワールド武侠。</p>
+  <p>オープンワールド武侠——1周年「滹沱戦役」11月13日配信。</p>
 </a>
 
 <a class="chronicle-card" href="./projects/tides-of-annihilation">

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "中国 3A 游戏 — 影之刃零、黑神话：悟空与钟馗"
+title: "中国 3A 游戏 — 2026–2028 发售排期表、类似黑神话悟空的大作与文化解码"
 titleTemplate: false
 
 hero:
@@ -23,7 +23,17 @@ features:
   - title: "未来展望"
     details: 从《黑神话》到更多潜力之作，我们持续追踪中国游戏工业的进化。
 
-description: "中国 3A 游戏站：深度解析《黑神话：悟空》《钟馗》《明末：渊虚之羽》《燕云十六声》《影之刃零》《湮灭之潮》的叙事、玩法与文化脉络。"
+description: "中国 3A 游戏站：系统追踪《黑神话：悟空》《黑神话：钟馗》《影之刃零》《燕云十六声》《明末：渊虚之羽》《湮灭之潮》的发售排期、深度通关攻略与东方文化解码。"
+keywords:
+  - 中国3A游戏
+  - 国产单机
+  - 类似黑神话悟空的游戏
+  - 影之刃零
+  - 黑神话钟馗
+  - 燕云十六声
+  - 明末渊虚之羽
+  - 发售时间表
+  - 东方玄幻
 image: "/images/wukong-2.jpg"
 ---
 
@@ -117,6 +127,12 @@ image: "/images/wukong-2.jpg"
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="/zh/news/golden-joystick-awards-2026-nominations">
+  <span class="chronicle-status">11月10日 · 业界快讯</span>
+  <h3>2026 金摇杆奖双提名揭晓</h3>
+  <p>《影之刃零》入围年度终极游戏 12 强候选，《黑神话：钟馗》获最受期待提名。</p>
+</a>
+
 <a class="chronicle-card" href="/zh/news/phantom-blade-zero-4-million-milestone">
   <span class="chronicle-status">11月2日 · 影之刃零</span>
   <h3>72 小时销量破 400 万份</h3>
@@ -133,12 +149,6 @@ image: "/images/wukong-2.jpg"
   <span class="chronicle-status">10月21日 · 黑神话：钟馗</span>
   <h3>钟馗 15 分钟实机解析</h3>
   <p>剑术弹反、附身鬼差与大蚌真君。</p>
-</a>
-
-<a class="chronicle-card" href="/zh/news/black-myth-wukong-dlc-status">
-  <span class="chronicle-status">10月21日 · 黑神话：悟空</span>
-  <h3>悟空 DLC：暂停，而非取消</h3>
-  <p>游戏科学对资料片的官方表态。</p>
 </a>
 
 </div>

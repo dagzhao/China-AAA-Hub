@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "China AAA Games — Phantom Blade Zero, Wukong & Zhong Kui"
+title: "China AAA Games: Release Calendar & Best Games Like Wukong (2026)"
 titleTemplate: false
 
 hero:
@@ -23,7 +23,17 @@ features:
   - title: "Future Projects"
     details: From Black Myth to upcoming titles, we track the evolution of Chinese game industry.
 
-description: "China AAA Games: in-depth lore, news and culture guides for Black Myth: Wukong, Zhong Kui, WUCHANG, Where Winds Meet, Phantom Blade Zero and Tides of Annihilation."
+description: "China AAA Games: in-depth lore, guides and release dates for Black Myth: Wukong, Zhong Kui, Phantom Blade Zero, Where Winds Meet, WUCHANG and Tides of Annihilation — the definitive hub for games like Wukong."
+keywords:
+  - China AAA Games
+  - games like black myth wukong
+  - upcoming chinese aaa games
+  - phantom blade zero
+  - black myth zhong kui
+  - where winds meet
+  - wuchang fallen feathers
+  - kungfu punk
+  - chinese soulslike
 image: "/images/wukong-2.jpg"
 ---
 <main>
@@ -116,6 +126,12 @@ image: "/images/wukong-2.jpg"
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="/news/golden-joystick-awards-2026-nominations">
+  <span class="chronicle-status">Nov 10 · Awards</span>
+  <h3>Golden Joystick Awards 2026</h3>
+  <p>Phantom Blade Zero shortlisted for Ultimate GOTY; Zhong Kui nominated for Most Wanted.</p>
+</a>
+
 <a class="chronicle-card" href="/news/phantom-blade-zero-4-million-milestone">
   <span class="chronicle-status">Nov 2 · Phantom Blade Zero</span>
   <h3>4 Million Copies in 72 Hours</h3>
@@ -132,12 +148,6 @@ image: "/images/wukong-2.jpg"
   <span class="chronicle-status">Oct 21 · Black Myth: Zhong Kui</span>
   <h3>Zhong Kui's 15-Minute Gameplay</h3>
   <p>Sword combat, possession and the Great Clam Lord.</p>
-</a>
-
-<a class="chronicle-card" href="/news/black-myth-wukong-dlc-status">
-  <span class="chronicle-status">Oct 21 · Black Myth: Wukong</span>
-  <h3>Wukong DLC: Paused, Not Cancelled</h3>
-  <p>What Game Science has said about the expansion.</p>
 </a>
 
 </div>

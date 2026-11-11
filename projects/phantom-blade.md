@@ -1,13 +1,22 @@
 ---
-title: "Phantom Blade Zero — 4M Sold in 72 Hours: Metacritic 88 & 833K Peak"
-description: "Phantom Blade Zero sells over 4 million copies in 72 hours, generating 1B+ RMB to recoup its budget in 3 days; Steam weekend peak hits 833K with Metacritic 88."
+title: "Phantom Blade Zero — Ultimate GOTY Nominee, 4M Sold & Guides"
+description: "Phantom Blade Zero's 2026 status: Golden Joystick Ultimate GOTY nomination, 4M sold in 72h, Donnie Yen hidden boss Mo Yuan, true ending guide & weapon tier list."
 image: "/images/pbzero-1.jpg"
 date: 2026-02-05
+keywords:
+  - Phantom Blade Zero
+  - Golden Joystick Awards 2026
+  - Ultimate Game of the Year
+  - Phantom Blade Zero true ending
+  - weapon tier list
+  - Donnie Yen hidden boss
+  - is phantom blade zero a soulslike
+  - games like black myth wukong
 ---
 
 # Phantom Blade Zero: Kung Fu Punk
 
-> 📰 **Latest:** [Phantom Blade Zero Surpasses 4M Copies in 72 Hours, Steam Peak Hits 833K](/news/phantom-blade-zero-4-million-milestone)
+> 📰 **Latest:** [Golden Joystick Awards 2026: Phantom Blade Zero Nominated for Ultimate GOTY](/news/golden-joystick-awards-2026-nominations) · [4M Copies in 72 Hours](/news/phantom-blade-zero-4-million-milestone)
 
 ## 1. Revenge in Despair: 66 Days to Live
 The protagonist, **Soul**, is framed for the murder of the Patriarch. Rescued by a mysterious healer but left with only 66 days to live, Soul must fight through the treacherous "Order" before his clock runs out.
@@ -193,3 +202,41 @@ Following its explosive opening week, global player queries on Google, Steam Com
   - **Estimated Playtime:** The critical path spans approximately **25–30 hours**; thorough exploration and side investigations require **40–45 hours**; full completionist runs and all 8 endings exceed **60+ hours**. Full, cost-free respecs are available at any rest shrine.
 
 > 📰 Full roundup: [Phantom Blade Zero Surpasses 4M Copies in 72 Hours, Steam Peak Hits 833K](/news/phantom-blade-zero-4-million-milestone) · [Launch Day Recap](/news/phantom-blade-zero-launch-day)
+
+## 10. Golden Joystick Awards 2026: Ultimate Game of the Year Shortlist
+
+In November 2026, the 44th Golden Joystick Awards officially announced that **Phantom Blade Zero** earned a spot on the 12-game shortlist for **Ultimate Game of the Year**, the ceremony's highest competitive honor:
+- **Sole Chinese Single-Player Nominee:** Standing alongside top-tier global blockbusters, *Phantom Blade Zero* represents a monumental milestone for Chinese console and PC game development following its 4M-unit launch velocity.
+- **Critical Consensus:** Western and international outlets highlighted the game's lightning-fast parry response, rich wuxia punk aesthetic, and uncompromising 60 fps action delivery.
+
+> 📰 Read the full announcement: [Golden Joystick Awards 2026: Phantom Blade Zero Nominated for Ultimate GOTY](/news/golden-joystick-awards-2026-nominations)
+
+## 11. Frequently Asked Questions (FAQ)
+
+<details class="faq-item">
+  <summary><strong>Is Phantom Blade Zero a Soulslike?</strong></summary>
+  <div class="faq-answer">
+    <p>No, <em>Phantom Blade Zero</em> is not a traditional Soulslike. It does not feature a stamina bar, corpse runs, or lost resources upon death. Instead, it is a fast-paced character action RPG blending the rhythmic parry systems of <em>Sekiro</em> with the stylish air-juggles and mobility of classic hack-and-slash action games.</p>
+  </div>
+</details>
+
+<details class="faq-item">
+  <summary><strong>How long does it take to beat Phantom Blade Zero?</strong></summary>
+  <div class="faq-answer">
+    <p>A standard playthrough focusing on the main storyline takes approximately <strong>25 to 30 hours</strong>. Players engaging in side investigations and map exploration will average <strong>40 to 45 hours</strong>. Achieving all 8 endings and conquering the hardcore "66 Days" New Game+ mode takes upwards of <strong>60+ hours</strong>.</p>
+  </div>
+</details>
+
+<details class="faq-item">
+  <summary><strong>How do you unlock the Donnie Yen secret boss "Mo Yuan"?</strong></summary>
+  <div class="faq-answer">
+    <p>To face Mo Yuan (portrayed via motion and face capture by Donnie Yen), you must complete all bounty board assignments across every chapter, obtain the Octagonal Iron Token from the fifth Dragon Pillar trial, and unlock the secluded courtyard gate hidden within the final chapter's mountain fortress.</p>
+  </div>
+</details>
+
+<details class="faq-item">
+  <summary><strong>What are the best weapons in Phantom Blade Zero?</strong></summary>
+  <div class="faq-answer">
+    <p>According to post-launch combat meta, the <strong>Heavy Greatblade (Po Jun / Army Breaker)</strong> and the <strong>Dual Sawblades (Yao Ju / Demon Saw)</strong> sit at Tier 0. Po Jun shatters enemy armor with immense stagger values, while Yao Ju melts humanoid bosses through rapid poison and bleed procs.</p>
+  </div>
+</details>

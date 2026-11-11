@@ -10,6 +10,12 @@ image: "/images/zhongkui-04.jpg"
 
 <div class="chronicle-grid">
 
+<a class="chronicle-card" href="./golden-joystick-awards-2026-nominations">
+  <span class="chronicle-status">11月10日 · 業界速報</span>
+  <h3>2026年GJAダブルノミネート</h3>
+  <p>『ファントムブレイド ゼロ』がGOTY候補12選に選出、『黒神話：鐘馗』は最優秀期待作へ。</p>
+</a>
+
 <a class="chronicle-card" href="./phantom-blade-zero-4-million-milestone">
   <span class="chronicle-status">11月2日 · 影之刃零</span>
   <h3>72時間で世界400万本突破</h3>
