@@ -41,6 +41,7 @@ export default {
       phantomBlade: '影之刃零',
       tides: '湮灭之潮',
       news: '最新动态',
+      goldenJoystick: '2026 金摇杆奖提名',
       phantom4Million: '影之刃零 400万销量',
       phantomLaunchDay: '影之刃零发售首日',
       phantomEve: '影之刃零发售前夜',

@@ -26,6 +26,10 @@ const toolItems = [
 
 const newsItems = [
   {
+    key: 'goldenJoystick',
+    path: '/news/golden-joystick-awards-2026-nominations'
+  },
+  {
     key: 'phantom4Million',
     path: '/news/phantom-blade-zero-4-million-milestone'
   },
@@ -147,4 +151,4 @@ export function createLocaleTheme(locale) {
   }
 }
 
-export { projectItems, cultureItems, toolItems }
+export { projectItems, cultureItems, toolItems, newsItems }

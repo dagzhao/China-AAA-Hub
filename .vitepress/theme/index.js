@@ -18,5 +18,16 @@ export default {
     // 全局注册交互式小工具，供三语页面直接以 <MythQuiz /> / <GlossaryTool /> 引用
     app.component('MythQuiz', MythQuiz)
     app.component('GlossaryTool', GlossaryTool)
+
+    // SPA 路由切换时主动触发 GA4 PV 上报
+    if (typeof window !== 'undefined') {
+      router.onAfterRouteChanged = (to) => {
+        if (typeof window.gtag === 'function') {
+          window.gtag('config', 'G-SLFCYVTHZH', {
+            page_path: to
+          })
+        }
+      }
+    }
   }
 }

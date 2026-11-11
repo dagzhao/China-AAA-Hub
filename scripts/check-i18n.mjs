@@ -14,6 +14,10 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import enLocale from '../.vitepress/i18n/en.mjs'
+import zhLocale from '../.vitepress/i18n/zh.mjs'
+import jaLocale from '../.vitepress/i18n/ja.mjs'
+import { newsItems } from '../.vitepress/navigation.mjs'
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const SKIP_DIRS = new Set([
@@ -223,6 +227,51 @@ for (const route of englishRoutes) {
           `structure drift "${counterpart}": ${key} ${counts[key]} vs en ${baseline[key]}`
         )
       }
+    }
+  }
+}
+
+// --- 导航一致性校验 (Navigation Consistency Checks) ---
+const registeredNewsPaths = new Set(newsItems.map((item) => item.path))
+
+// 1. 检查 news/*.md 是否均已注册到 navigation.mjs
+const newsFiles = fs
+  .readdirSync(path.join(ROOT, 'news'))
+  .filter((f) => f.endsWith('.md') && f !== 'index.md')
+
+for (const f of newsFiles) {
+  const expectedPath = `/news/${f.replace(/\.md$/, '')}`
+  if (!registeredNewsPaths.has(expectedPath)) {
+    errors.push(
+      `news/${f} is not registered in .vitepress/navigation.mjs newsItems (expected path: "${expectedPath}")`
+    )
+  }
+}
+
+// 2. 检查 newsItems 中的条目是否真实存在对应 markdown 文件
+for (const item of newsItems) {
+  const relPath = `${item.path.slice(1)}.md`
+  const absPath = path.join(ROOT, relPath)
+  if (!isFile(absPath)) {
+    errors.push(
+      `navigation.mjs newsItem "${item.key}" references non-existent file "${relPath}"`
+    )
+  }
+}
+
+// 3. 检查三语 locales 中 sidebar 对应 key 的 label 是否齐全
+const localesWithData = [
+  { name: 'en', data: enLocale },
+  { name: 'zh', data: zhLocale },
+  { name: 'ja', data: jaLocale }
+]
+
+for (const item of newsItems) {
+  for (const { name, data } of localesWithData) {
+    if (!data.labels?.sidebar?.[item.key]) {
+      errors.push(
+        `missing sidebar label for newsItem "${item.key}" in .vitepress/i18n/${name}.mjs`
+      )
     }
   }
 }

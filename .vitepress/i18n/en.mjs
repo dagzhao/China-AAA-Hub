@@ -40,6 +40,7 @@ export default {
       phantomBlade: 'Phantom Blade: Lore',
       tides: 'Tides of Annihilation: Lore',
       news: 'Latest Updates',
+      goldenJoystick: 'Golden Joystick 2026',
       phantom4Million: 'Phantom Blade 4M Sold',
       phantomLaunchDay: 'Phantom Blade Zero Launch Day',
       phantomEve: 'Phantom Blade Zero Launch Eve',
