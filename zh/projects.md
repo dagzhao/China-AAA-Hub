@@ -25,30 +25,26 @@ keywords:
 
 | 游戏 | 状态 | 发售日 | 平台 |
 | :--- | :--- | :--- | :--- |
-| **黑神话：悟空** | 已发售 | 2024年8月20日 | PS5、PC（Xbox Series X\|S 后续推出） |
-| **黑神话：钟馗** | 开发中 | 未公布 | PC、主流主机 |
-| **明末：渊虚之羽** | 已发售 | 2025年7月24日 | PC、PS5、Xbox Series X\|S |
-| **影之刃零** | 已发售 | **2026年10月29日** | PS5（支持 PS5 Pro 强化）、PC |
-| **燕云十六声** | 已上线 | 2024年12月27日（国服）/ 2025年11月14日（国际服） | PC、PS5、移动端（Xbox Series X\|S 2026年6月） |
-| **湮灭之潮** | 开发中 | 未公布（媒体多推测 2027） | PS5、Xbox Series X\|S、PC |
-| **失落之魂** | 已发售 | 2025年8月29日 | PS5、PC |
-| **万物契约** | 开发中 | 待定（媒体推测 2026） | PS5、PC、移动端（未确认） |
-| **百面千相** | 开发中 | 待定 | PS5、PC（未确认） |
+| **黑神话：悟空** | 已发售 | 2024年8月20日 | PS5、PC（Xbox Series X\|S 2025年8月20日） |
 | **无限机兵** | 已发售 | 2025年3月27日 | PS5、PC |
+| **明末：渊虚之羽** | 已发售 | 2025年7月24日 | PC、PS5、Xbox Series X\|S |
+| **失落之魂** | 已发售 | 2025年8月29日 | PS5、PC |
+| **燕云十六声** | 已上线 | 2025年11月14日（国际服）/ 2024年12月27日（国服） | PC、PS5、移动端；Xbox Series X\|S 2026年6月8日 |
+| **影之刃零** | 已发售 | **2026年10月29日**（北京时间；美国时区10月28日） | PS5（支持 PS5 Pro 强化）、PC |
+| **万物契约** | 开发中 | 待定（媒体推测 2026） | PS5、PC、移动端 |
+| **湮灭之潮** | 开发中 | 未公布（媒体多推测 2027） | PS5、Xbox Series X\|S、PC |
+| **黑神话：钟馗** | 开发中 | 未公布 | PC、主流主机 |
+| **百面千相** | 开发中 | 待定 | PS5、PC（未确认） |
 
 > 除标注“推测”外，日期均为官方信息。“未公布”表示官方尚未给出具体发售日。
+>
+> 按发售日期从早到晚排序；“未公布”作品按媒体推测窗口排在后面。《燕云十六声》以国际服上线日（2025年11月14日）排序，国服首发为2024年12月27日。
 >
 > **影之刃零：** 10月29日为北京时间解锁，美国时区对应10月28日；9月9日是延期50天前的原定日期。若官方后续调整，以官方公告为准。
 
 ## 全部游戏
 
 <div class="chronicle-grid">
-
-<a class="chronicle-card" href="./projects/zhong-kui/lore">
-  <span class="chronicle-status">🟢 当前重点</span>
-  <h3>黑神话：钟馗</h3>
-  <p>驱魔真君的暗黑史诗。</p>
-</a>
 
 <a class="chronicle-card" href="./projects/wukong">
   <span class="chronicle-status">🟢 已发售</span>
@@ -62,22 +58,28 @@ keywords:
   <p>明末乱世下的暗黑奇幻与古蜀秘闻。</p>
 </a>
 
-<a class="chronicle-card" href="./projects/phantom-blade">
-  <span class="chronicle-status">🟢 已发售</span>
-  <h3>影之刃零</h3>
-  <p>已发售——72 小时破 400 万销量，入围金摇杆年度终极游戏。</p>
-</a>
-
 <a class="chronicle-card" href="./projects/yanyun">
   <span class="chronicle-status">🟢 已上线</span>
   <h3>燕云十六声</h3>
   <p>五代十国开放世界武侠——一周年「滹沱战役」11月13日上线。</p>
 </a>
 
+<a class="chronicle-card" href="./projects/phantom-blade">
+  <span class="chronicle-status">🟢 已发售</span>
+  <h3>影之刃零</h3>
+  <p>已发售——72 小时破 400 万销量，入围金摇杆年度终极游戏。</p>
+</a>
+
 <a class="chronicle-card" href="./projects/tides-of-annihilation">
   <span class="chronicle-status">🔜 开发中</span>
   <h3>湮灭之潮</h3>
   <p>亚瑟王传说与崩坏伦敦的动作冒险。</p>
+</a>
+
+<a class="chronicle-card" href="./projects/zhong-kui/lore">
+  <span class="chronicle-status">🟢 当前重点</span>
+  <h3>黑神话：钟馗</h3>
+  <p>驱魔真君的暗黑史诗。</p>
 </a>
 
 </div>
@@ -89,7 +91,7 @@ keywords:
 <div class="chronicle-card">
   <span class="chronicle-status">🔜 虚幻5大作 · 待定（媒体推测 2026）</span>
   <h3>万物契约（Ballad of Antara）</h3>
-  <p><strong>TipsWorks（叠纸游戏）· 暗黑奇幻 ARPG · PS5、PC、移动端（未确认）</strong><br>
+  <p><strong>TipsWorks（叠纸游戏）· 暗黑奇幻 ARPG · PS5、PC、移动端</strong><br>
   《帕斯卡契约》原班团队倾力打造的虚幻 5 暗黑奇幻新作。独创“常态世界与幽境（Para）”双界穿梭探索，支持多名信使切换操作与最多 3 人联机。</p>
 </div>
 
