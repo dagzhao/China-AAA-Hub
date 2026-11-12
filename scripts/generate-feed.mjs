@@ -3,8 +3,8 @@
  *
  * Output targets:
  *  - public/feed.xml (English)
- *  - public/zh/feed.xml & public/feed-zh.xml (Chinese)
- *  - public/ja/feed.xml & public/feed-ja.xml (Japanese)
+ *  - public/zh/feed.xml (Chinese)
+ *  - public/ja/feed.xml (Japanese)
  *  - .vitepress/dist/* if dist exists or when called with outDir
  */
 import fs from 'node:fs'
@@ -21,7 +21,6 @@ const FEED_CONFIGS = [
     newsDir: 'news',
     routePrefix: '/news',
     feedPath: 'feed.xml',
-    aliasFeedPath: 'feed-en.xml',
     title: 'China AAA Games - Latest News & In-Depth Reporting',
     link: `${SITE_URL}/news/`,
     selfUrl: `${SITE_URL}/feed.xml`,
@@ -34,7 +33,6 @@ const FEED_CONFIGS = [
     newsDir: 'zh/news',
     routePrefix: '/zh/news',
     feedPath: 'zh/feed.xml',
-    aliasFeedPath: 'feed-zh.xml',
     title: 'China AAA Games - 深度资讯与独家报道',
     link: `${SITE_URL}/zh/news/`,
     selfUrl: `${SITE_URL}/zh/feed.xml`,
@@ -47,7 +45,6 @@ const FEED_CONFIGS = [
     newsDir: 'ja/news',
     routePrefix: '/ja/news',
     feedPath: 'ja/feed.xml',
-    aliasFeedPath: 'feed-ja.xml',
     title: 'China AAA Games - 最新ニュース＆深層解説',
     link: `${SITE_URL}/ja/news/`,
     selfUrl: `${SITE_URL}/ja/feed.xml`,
@@ -113,6 +110,11 @@ function escapeXml(unsafe) {
     .replace(/'/g, '&apos;')
 }
 
+/** Make a string safe to embed in a CDATA section by escaping the end marker. */
+function safeCdata(str) {
+  return String(str || '').replace(/]]>/g, ']]]]><![CDATA[>')
+}
+
 function getMimeType(imagePath) {
   if (/\.png$/i.test(imagePath)) return 'image/png'
   if (/\.webp$/i.test(imagePath)) return 'image/webp'
@@ -160,12 +162,12 @@ export function generateFeedXml(config, rootDir = ROOT) {
 
   items.sort((a, b) => b.date.getTime() - a.date.getTime())
 
-  const lastBuildDate = (items[0] ? items[0].date : new Date()).toUTCString()
+  const lastBuildDate = new Date().toUTCString()
 
   const xmlItems = items
     .map((item) => {
       const categoriesXml = item.keywords
-        .map((k) => `      <category><![CDATA[${k}]]></category>`)
+        .map((k) => `      <category><![CDATA[${safeCdata(k)}]]></category>`)
         .join('\n')
 
       const enclosureXml = item.image
@@ -173,11 +175,11 @@ export function generateFeedXml(config, rootDir = ROOT) {
         : ''
 
       return `    <item>
-      <title><![CDATA[${item.title}]]></title>
+      <title><![CDATA[${safeCdata(item.title)}]]></title>
       <link>${escapeXml(item.url)}</link>
       <guid isPermaLink="true">${escapeXml(item.url)}</guid>
       <pubDate>${item.date.toUTCString()}</pubDate>
-      <description><![CDATA[${item.description}]]></description>
+      <description><![CDATA[${safeCdata(item.description)}]]></description>
 ${categoriesXml ? categoriesXml + '\n' : ''}${enclosureXml ? enclosureXml + '\n' : ''}    </item>`
     })
     .join('\n')
@@ -185,9 +187,9 @@ ${categoriesXml ? categoriesXml + '\n' : ''}${enclosureXml ? enclosureXml + '\n'
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title><![CDATA[${config.title}]]></title>
+    <title><![CDATA[${safeCdata(config.title)}]]></title>
     <link>${escapeXml(config.link)}</link>
-    <description><![CDATA[${config.description}]]></description>
+    <description><![CDATA[${safeCdata(config.description)}]]></description>
     <language>${config.language}</language>
     <lastBuildDate>${lastBuildDate}</lastBuildDate>
     <atom:link href="${escapeXml(config.selfUrl)}" rel="self" type="application/rss+xml"/>
@@ -206,13 +208,6 @@ export function writeFeeds(targetDir, rootDir = ROOT) {
     fs.mkdirSync(path.dirname(outPath), { recursive: true })
     fs.writeFileSync(outPath, xml, 'utf8')
     console.log(`✓ Generated RSS Feed: ${outPath}`)
-
-    if (config.aliasFeedPath) {
-      const aliasPath = path.join(targetDir, config.aliasFeedPath)
-      fs.mkdirSync(path.dirname(aliasPath), { recursive: true })
-      fs.writeFileSync(aliasPath, xml, 'utf8')
-      console.log(`✓ Generated RSS Alias: ${aliasPath}`)
-    }
   }
 }
 

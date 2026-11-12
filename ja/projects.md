@@ -30,10 +30,10 @@ keywords:
 | **影之刃零** | 発売中 | **2026年10月29日** | PS5、PS5 Pro、PC |
 | **燕雲十六声** | 配信中 | 2024年12月27日（中国版）/ 2025年11月14日（国際版） | PC、PS5、Xbox、モバイル |
 | **Tides of Annihilation** | 開発中 | 未定（メディアは2027年と推測） | PS5、PS5 Pro、Xbox Series X\|S、PC |
-| **ロストソウルアサイド** | 開発中 | 未定（2026年想定） | PS5、PC |
-| **バラッド オブ アンタラ** | 開発中 | 2026年 | PS5、PC、モバイル |
+| **ロストソウルアサイド** | 発売済み | 2025年8月29日 | PS5、PC |
+| **バラッド オブ アンタラ** | 開発中 | 未定（2026年と報道） | PS5、PC、モバイル |
 | **百面千相** | 開発中 | 未定 | PS5、PC |
-| **AIリミット** | 開発中 | 2026年 | PS5、PC |
+| **AIリミット** | 発売済み | 2025年3月27日 | PS5、PC |
 
 > 「推測」と明記した場合を除き、日付は公式情報です。「未定」は公式の発売日が未発表であることを意味します。
 
@@ -84,14 +84,7 @@ keywords:
 <div class="chronicle-grid">
 
 <div class="chronicle-card">
-  <span class="chronicle-status">🔜 Sony China Hero · 2026年想定</span>
-  <h3>ロストソウルアサイド（Lost Soul Aside）</h3>
-  <p><strong>Ultizero Games / ソニー・インタラクティブエンタテインメント · 高速アクションRPG · PS5、PC</strong><br>
-  ソニー「China Hero Project」第1期の旗艦タイトル。クリスタルドラゴンが多種多様な武器へと変形し、流麗な空中コンボと超高速のスタイリッシュアクションを繰り広げる。</p>
-</div>
-
-<div class="chronicle-card">
-  <span class="chronicle-status">🔜 UE5ダークファンタジー · 2026年</span>
+  <span class="chronicle-status">🔜 UE5ダークファンタジー · 未定（2026年と報道）</span>
   <h3>バラッド オブ アンタラ（Ballad of Antara）</h3>
   <p><strong>TipsWorks（Infold Games）· ダークファンタジーARPG · PS5、PC、モバイル</strong><br>
   『パスカルズ・ウェイジャー』のTipsWorksが手掛けるUnreal Engine 5大作。現世と異界「パラ」を往来する探索、個性的な「使者」たちの切り替え、最大3人のマルチプレイに対応。</p>
@@ -102,13 +95,6 @@ keywords:
   <h3>百面千相（Project: The Perceiver）</h3>
   <p><strong>Papergames（17ZHE Studio）· オープンワールド武侠ARPG · PS5、PC</strong><br>
   動乱の王朝を舞台にしたマルチプラットフォーム中式オープンワールド。「仮面」を通じて異なる武術の型や哲学を受け継ぎ、息詰まる剣戟と情緒豊かな江湖を描く。</p>
-</div>
-
-<div class="chronicle-card">
-  <span class="chronicle-status">🔜 SFポストアポカリプス · 2026年</span>
-  <h3>AIリミット（AI LIMIT）</h3>
-  <p><strong>SenseGames / CE-Asia · ポストアポカリプスARPG · PS5、PC</strong><br>
-  ソニー「China Hero Project」選出作。再生能力を持つ機兵「アリサ」となり、文明崩壊後の廃墟都市でシンクロ率と多彩な術式を駆使して世界の謎に迫る。</p>
 </div>
 
 </div>

@@ -19,15 +19,20 @@ export default {
     app.component('MythQuiz', MythQuiz)
     app.component('GlossaryTool', GlossaryTool)
 
-    // SPA 路由切换时主动触发 GA4 PV 上报
-    if (typeof window !== 'undefined') {
-      router.onAfterRouteChanged = (to) => {
-        if (typeof window.gtag === 'function') {
-          window.gtag('config', 'G-SLFCYVTHZH', {
-            page_path: to
-          })
-        }
-      }
-    }
+    // SPA pageviews are handled automatically by GA4 enhanced measurement
+    // ("Page changes based on browser history events"). No manual gtag('config')
+    // call is needed here — it would double-count and uses the deprecated
+    // page_path parameter instead of page_location.
+    //
+    // If GA4 enhanced measurement is ever disabled, replace with:
+    //   router.onAfterRouteChanged = (to) => {
+    //     if (typeof window.gtag === 'function') {
+    //       window.gtag('event', 'page_view', {
+    //         page_location: window.location.href,
+    //         page_title: document.title,
+    //         page_referrer: document.referrer
+    //       })
+    //     }
+    //   }
   }
 }

@@ -11,7 +11,6 @@ import {
   gitLastDate,
   normalizeRoute
 } from './seo.mjs'
-import { writeFeeds } from '../scripts/generate-feed.mjs'
 
 const pageIndex = createPageIndex()
 const routeFiles = createRouteFileMap()
@@ -58,10 +57,6 @@ export default defineConfig({
   },
 
   transformHead: createSeoTransform(pageIndex),
-
-  buildEnd: async (siteConfig) => {
-    writeFeeds(siteConfig.outDir)
-  },
 
   lastUpdated: true, // 开启最后更新时间
   // 重点：直接添加这个内置选项
