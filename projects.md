@@ -25,18 +25,20 @@ Every major Chinese AAA game we track — released, launching and still in devel
 
 | Game | Status | Release date | Platforms |
 | :--- | :--- | :--- | :--- |
-| **Black Myth: Wukong** | Released | August 20, 2024 | PS5, PC, Xbox Series X\|S |
+| **Black Myth: Wukong** | Released | August 20, 2024 | PS5, PC (Xbox Series X\|S later) |
 | **Black Myth: Zhong Kui** | In development | TBA | PC, mainstream consoles |
 | **WUCHANG: Fallen Feathers** | Released | July 24, 2025 | PC, PS5, Xbox Series X\|S |
-| **Phantom Blade Zero** | Released | **October 29, 2026** | PS5, PS5 Pro, PC |
-| **Where Winds Meet** | Live | Dec 27, 2024 (CN) / Nov 14, 2025 (global) | PC, PS5, Xbox, mobile |
-| **Tides of Annihilation** | In development | TBA (2027 reported) | PS5, PS5 Pro, Xbox Series X\|S, PC |
+| **Phantom Blade Zero** | Released | **October 29, 2026** | PS5 (PS5 Pro enhanced), PC |
+| **Where Winds Meet** | Live | Dec 27, 2024 (CN) / Nov 14, 2025 (global) | PC, PS5, mobile (Xbox Series X\|S June 2026) |
+| **Tides of Annihilation** | In development | TBA (2027 reported) | PS5, Xbox Series X\|S, PC |
 | **Lost Soul Aside** | Released | August 29, 2025 | PS5, PC |
-| **Ballad of Antara** | In development | TBA (2026 reported) | PS5, PC, iOS, Android |
-| **Project: The Perceiver** | In development | TBA | PS5, PC |
+| **Ballad of Antara** | In development | TBA (2026 reported) | PS5, PC, mobile (unconfirmed) |
+| **Project: The Perceiver** | In development | TBA | PS5, PC (unconfirmed) |
 | **AI LIMIT** | Released | March 27, 2025 | PS5, PC |
 
 > Dates are official unless marked "reported". TBA means no official release date has been announced.
+>
+> **Phantom Blade Zero:** October 29 is the Beijing-time unlock; US time zones see October 28. The earlier September 9 date was the original release date before the 50-day delay. Check the official channel for any further change.
 
 ## All games
 
@@ -87,14 +89,14 @@ Every major Chinese AAA game we track — released, launching and still in devel
 <div class="chronicle-card">
   <span class="chronicle-status">🔜 UE5 Epic · TBA (2026 reported)</span>
   <h3>Ballad of Antara (万物契约)</h3>
-  <p><strong>TipsWorks Studio / Infold Games · Fantasy Action RPG · PS5, PC, Mobile</strong><br>
+  <p><strong>TipsWorks Studio / Infold Games · Fantasy Action RPG · PS5, PC, mobile (unconfirmed)</strong><br>
   Unreal Engine 5 dark fantasy adventure from the creators of <em>Pascal's Wager</em>. Features dual-realm Para traversal, switchable Emissaries, and both solo and 3-player co-op.</p>
 </div>
 
 <div class="chronicle-card">
   <span class="chronicle-status">⚪ Open World · TBA</span>
   <h3>Project: The Perceiver (百面千相)</h3>
-  <p><strong>Papergames (17ZHE Studio) · Open-World Wuxia RPG · PS5, PC</strong><br>
+  <p><strong>Papergames (17ZHE Studio) · Open-World Wuxia RPG · PS5, PC (unconfirmed)</strong><br>
   Multi-platform open-world Chinese martial arts epic set in a turbulent dynastic era. Master diverse combat ideals by donning the masks of ancient masters.</p>
 </div>
 

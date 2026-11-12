@@ -26,7 +26,7 @@ date: 2026-10-21
 | **导演** | Ary Chen |
 | **制作人** | 付坤 |
 | **引擎** | Unreal Engine 5，PC 支持路径追踪与 DLSS 4 |
-| **平台** | PS5、PS5 Pro、Xbox Series X\|S、PC（Steam、Epic、WeGame） |
+| **平台** | PS5、Xbox Series X\|S、PC（Steam、Epic、WeGame） |
 | **Xbox Play Anywhere** | 支持 |
 | **语言** | 11 种文本语言；配音仅英语与简体中文 |
 | **发售日** | **未公布（TBA）**；商店的 10月29日 是占位日期 |

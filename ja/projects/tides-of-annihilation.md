@@ -26,7 +26,7 @@ date: 2026-10-21
 | **ディレクター** | Ary Chen |
 | **プロデューサー** | 付坤 |
 | **エンジン** | Unreal Engine 5、PCはパストレーシングとDLSS 4に対応 |
-| **対応機種** | PS5、PS5 Pro、Xbox Series X\|S、PC（Steam、Epic、WeGame） |
+| **対応機種** | PS5、Xbox Series X\|S、PC（Steam、Epic、WeGame） |
 | **Xbox Play Anywhere** | 対応 |
 | **言語** | テキスト11言語。音声は英語と簡体字中国語のみ |
 | **発売日** | **未定（TBA）**。ストアの10月29日はプレースホルダー |

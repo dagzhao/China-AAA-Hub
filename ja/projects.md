@@ -24,18 +24,20 @@ keywords:
 
 | ゲーム | 状態 | 発売日 | 対応機種 |
 | :--- | :--- | :--- | :--- |
-| **黒神話：悟空** | 発売済み | 2024年8月20日 | PS5、PC、Xbox Series X\|S |
+| **黒神話：悟空** | 発売済み | 2024年8月20日 | PS5、PC（Xbox Series X\|S は後日） |
 | **黒神話：鍾馗** | 開発中 | 未定 | PC、主要コンソール |
 | **明末：ウツロノハネ** | 発売済み | 2025年7月24日 | PC、PS5、Xbox Series X\|S |
-| **影之刃零** | 発売中 | **2026年10月29日** | PS5、PS5 Pro、PC |
-| **燕雲十六声** | 配信中 | 2024年12月27日（中国版）/ 2025年11月14日（国際版） | PC、PS5、Xbox、モバイル |
-| **Tides of Annihilation** | 開発中 | 未定（メディアは2027年と推測） | PS5、PS5 Pro、Xbox Series X\|S、PC |
+| **影之刃零** | 発売中 | **2026年10月29日** | PS5（PS5 Pro Enhanced 対応）、PC |
+| **燕雲十六声** | 配信中 | 2024年12月27日（中国版）/ 2025年11月14日（国際版） | PC、PS5、モバイル（Xbox Series X\|S 2026年6月） |
+| **Tides of Annihilation** | 開発中 | 未定（メディアは2027年と推測） | PS5、Xbox Series X\|S、PC |
 | **ロストソウルアサイド** | 発売済み | 2025年8月29日 | PS5、PC |
-| **バラッド オブ アンタラ** | 開発中 | 未定（2026年と報道） | PS5、PC、モバイル |
-| **百面千相** | 開発中 | 未定 | PS5、PC |
+| **バラッド オブ アンタラ** | 開発中 | 未定（2026年と報道） | PS5、PC、モバイル（未確認） |
+| **百面千相** | 開発中 | 未定 | PS5、PC（未確認） |
 | **AIリミット** | 発売済み | 2025年3月27日 | PS5、PC |
 
 > 「推測」と明記した場合を除き、日付は公式情報です。「未定」は公式の発売日が未発表であることを意味します。
+>
+> **『影之刃零』：** 10月29日は北京時間の解禁日で、米国時間では10月28日となります。以前の9月9日は50日延期前の当初の発売日です。最新情報は公式発表をご確認ください。
 
 ## すべてのゲーム
 
@@ -86,14 +88,14 @@ keywords:
 <div class="chronicle-card">
   <span class="chronicle-status">🔜 UE5ダークファンタジー · 未定（2026年と報道）</span>
   <h3>バラッド オブ アンタラ（Ballad of Antara）</h3>
-  <p><strong>TipsWorks（Infold Games）· ダークファンタジーARPG · PS5、PC、モバイル</strong><br>
+  <p><strong>TipsWorks（Infold Games）· ダークファンタジーARPG · PS5、PC、モバイル（未確認）</strong><br>
   『パスカルズ・ウェイジャー』のTipsWorksが手掛けるUnreal Engine 5大作。現世と異界「パラ」を往来する探索、個性的な「使者」たちの切り替え、最大3人のマルチプレイに対応。</p>
 </div>
 
 <div class="chronicle-card">
   <span class="chronicle-status">⚪ オープンワールド · 未定</span>
   <h3>百面千相（Project: The Perceiver）</h3>
-  <p><strong>Papergames（17ZHE Studio）· オープンワールド武侠ARPG · PS5、PC</strong><br>
+  <p><strong>Papergames（17ZHE Studio）· オープンワールド武侠ARPG · PS5、PC（未確認）</strong><br>
   動乱の王朝を舞台にしたマルチプラットフォーム中式オープンワールド。「仮面」を通じて異なる武術の型や哲学を受け継ぎ、息詰まる剣戟と情緒豊かな江湖を描く。</p>
 </div>
 

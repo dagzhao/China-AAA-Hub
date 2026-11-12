@@ -26,7 +26,7 @@ date: 2026-10-21
 | **Director** | Ary Chen |
 | **Producer** | Fu Kun (付坤) |
 | **Engine** | Unreal Engine 5, PC path tracing, DLSS 4 |
-| **Platforms** | PS5, PS5 Pro, Xbox Series X\|S, PC (Steam, Epic, WeGame) |
+| **Platforms** | PS5, Xbox Series X\|S, PC (Steam, Epic, WeGame) |
 | **Xbox Play Anywhere** | Yes |
 | **Languages** | 11 text languages; voice-over: English and Simplified Chinese only |
 | **Release date** | **TBA** — the Oct 29 store listing is a placeholder |
