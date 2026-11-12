@@ -1,6 +1,6 @@
 ---
 title: "中国AAAゲーム2026–2028：発売カレンダー・黒神話：悟空の系譜とおすすめ一覧"
-description: "発売済み・発売予定の中国AAAゲーム：黒神話：悟空、鍾馗、明末、ファントムブレイド ゼロ、燕雲十六声、Tides of Annihilationの発売日・対応機種・最新状況一覧。"
+description: "発売済み・発売予定の中国AAAゲーム：黒神話：悟空、鍾馗、明末、ファントムブレイド ゼロ、燕雲十六声、ロストソウルアサイド、バラッド オブ アンタラの発売日・対応機種・最新状況一覧。"
 image: "/images/zhongkui-04.jpg"
 keywords:
   - 中国AAAゲーム
@@ -10,6 +10,10 @@ keywords:
   - 黒神話：鐘馗
   - 燕雲十六声
   - 明末：淵虚の羽
+  - ロストソウルアサイド
+  - バラッド オブ アンタラ
+  - 百面千相
+  - AIリミット
 ---
 
 # 中国AAAゲーム2026–2028：発売カレンダー
@@ -26,6 +30,10 @@ keywords:
 | **影之刃零** | 発売中 | **2026年10月29日** | PS5、PS5 Pro、PC |
 | **燕雲十六声** | 配信中 | 2024年12月27日（中国版）/ 2025年11月14日（国際版） | PC、PS5、Xbox、モバイル |
 | **Tides of Annihilation** | 開発中 | 未定（メディアは2027年と推測） | PS5、PS5 Pro、Xbox Series X\|S、PC |
+| **ロストソウルアサイド** | 開発中 | 未定（2026年想定） | PS5、PC |
+| **バラッド オブ アンタラ** | 開発中 | 2026年 | PS5、PC、モバイル |
+| **百面千相** | 開発中 | 未定 | PS5、PC |
+| **AIリミット** | 開発中 | 2026年 | PS5、PC |
 
 > 「推測」と明記した場合を除き、日付は公式情報です。「未定」は公式の発売日が未発表であることを意味します。
 
@@ -68,5 +76,39 @@ keywords:
   <h3>Tides of Annihilation</h3>
   <p>崩壊したロンドンを舞台にしたアーサー王アクション。</p>
 </a>
+
+</div>
+
+## 期待の注目作・ウォッチリスト
+
+<div class="chronicle-grid">
+
+<div class="chronicle-card">
+  <span class="chronicle-status">🔜 Sony China Hero · 2026年想定</span>
+  <h3>ロストソウルアサイド（Lost Soul Aside）</h3>
+  <p><strong>Ultizero Games / ソニー・インタラクティブエンタテインメント · 高速アクションRPG · PS5、PC</strong><br>
+  ソニー「China Hero Project」第1期の旗艦タイトル。クリスタルドラゴンが多種多様な武器へと変形し、流麗な空中コンボと超高速のスタイリッシュアクションを繰り広げる。</p>
+</div>
+
+<div class="chronicle-card">
+  <span class="chronicle-status">🔜 UE5ダークファンタジー · 2026年</span>
+  <h3>バラッド オブ アンタラ（Ballad of Antara）</h3>
+  <p><strong>TipsWorks（Infold Games）· ダークファンタジーARPG · PS5、PC、モバイル</strong><br>
+  『パスカルズ・ウェイジャー』のTipsWorksが手掛けるUnreal Engine 5大作。現世と異界「パラ」を往来する探索、個性的な「使者」たちの切り替え、最大3人のマルチプレイに対応。</p>
+</div>
+
+<div class="chronicle-card">
+  <span class="chronicle-status">⚪ オープンワールド · 未定</span>
+  <h3>百面千相（Project: The Perceiver）</h3>
+  <p><strong>Papergames（17ZHE Studio）· オープンワールド武侠ARPG · PS5、PC</strong><br>
+  動乱の王朝を舞台にしたマルチプラットフォーム中式オープンワールド。「仮面」を通じて異なる武術の型や哲学を受け継ぎ、息詰まる剣戟と情緒豊かな江湖を描く。</p>
+</div>
+
+<div class="chronicle-card">
+  <span class="chronicle-status">🔜 SFポストアポカリプス · 2026年</span>
+  <h3>AIリミット（AI LIMIT）</h3>
+  <p><strong>SenseGames / CE-Asia · ポストアポカリプスARPG · PS5、PC</strong><br>
+  ソニー「China Hero Project」選出作。再生能力を持つ機兵「アリサ」となり、文明崩壊後の廃墟都市でシンクロ率と多彩な術式を駆使して世界の謎に迫る。</p>
+</div>
 
 </div>

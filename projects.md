@@ -1,6 +1,6 @@
 ---
 title: "Chinese AAA Games 2026–2028: Release Calendar & Upcoming Titles (Games Like Wukong)"
-description: "Every major Chinese AAA game released or coming soon: Black Myth: Wukong, Zhong Kui, WUCHANG, Phantom Blade Zero, Where Winds Meet and Tides of Annihilation — dates, platforms and status."
+description: "Every major Chinese AAA game released or coming soon: Black Myth: Wukong, Zhong Kui, WUCHANG, Phantom Blade Zero, Where Winds Meet, Tides of Annihilation, Lost Soul Aside and Ballad of Antara — dates, platforms and status."
 image: "/images/zhongkui-04.jpg"
 keywords:
   - Chinese AAA games
@@ -11,6 +11,10 @@ keywords:
   - where winds meet
   - wuchang fallen feathers
   - tides of annihilation
+  - lost soul aside
+  - ballad of antara
+  - project the perceiver
+  - ai limit
 ---
 
 # Chinese AAA Games 2026–2028: Release Calendar
@@ -27,6 +31,10 @@ Every major Chinese AAA game we track — released, launching and still in devel
 | **Phantom Blade Zero** | Released | **October 29, 2026** | PS5, PS5 Pro, PC |
 | **Where Winds Meet** | Live | Dec 27, 2024 (CN) / Nov 14, 2025 (global) | PC, PS5, Xbox, mobile |
 | **Tides of Annihilation** | In development | TBA (2027 reported) | PS5, PS5 Pro, Xbox Series X\|S, PC |
+| **Lost Soul Aside** | In development | TBA (2026 expected) | PS5, PC |
+| **Ballad of Antara** | In development | 2026 | PS5, PC, iOS, Android |
+| **Project: The Perceiver** | In development | TBA | PS5, PC |
+| **AI LIMIT** | In development | 2026 | PS5, PC |
 
 > Dates are official unless marked "reported". TBA means no official release date has been announced.
 
@@ -69,5 +77,39 @@ Every major Chinese AAA game we track — released, launching and still in devel
   <h3>Tides of Annihilation</h3>
   <p>Arthurian action in a shattered London.</p>
 </a>
+
+</div>
+
+## High-potential watchlist
+
+<div class="chronicle-grid">
+
+<div class="chronicle-card">
+  <span class="chronicle-status">🔜 Sony China Hero · 2026</span>
+  <h3>Lost Soul Aside (失落之魂)</h3>
+  <p><strong>Ultizero Games / Sony Interactive Entertainment · Stylish Action RPG · PS5, PC</strong><br>
+  High-speed stylish combat inspired by character-action masterpieces. Sony China Hero Project's flagship spectacle featuring shape-shifting crystal dragon weapons and aerial combos.</p>
+</div>
+
+<div class="chronicle-card">
+  <span class="chronicle-status">🔜 UE5 Epic · 2026</span>
+  <h3>Ballad of Antara (万物契约)</h3>
+  <p><strong>TipsWorks Studio / Infold Games · Fantasy Action RPG · PS5, PC, Mobile</strong><br>
+  Unreal Engine 5 dark fantasy adventure from the creators of <em>Pascal's Wager</em>. Features dual-realm Para traversal, switchable Emissaries, and both solo and 3-player co-op.</p>
+</div>
+
+<div class="chronicle-card">
+  <span class="chronicle-status">⚪ Open World · TBA</span>
+  <h3>Project: The Perceiver (百面千相)</h3>
+  <p><strong>Papergames (17ZHE Studio) · Open-World Wuxia RPG · PS5, PC</strong><br>
+  Multi-platform open-world Chinese martial arts epic set in a turbulent dynastic era. Master diverse combat ideals by donning the masks of ancient masters.</p>
+</div>
+
+<div class="chronicle-card">
+  <span class="chronicle-status">🔜 Sci-Fi ARPG · 2026</span>
+  <h3>AI LIMIT (无限机兵)</h3>
+  <p><strong>SenseGames / CE-Asia · Post-Apocalyptic ARPG · PS5, PC</strong><br>
+  Sony China Hero Project title. Guide the immortal Blader Arrisa through a desolate future civilization, balancing sync rate power with severe lethal risk.</p>
+</div>
 
 </div>

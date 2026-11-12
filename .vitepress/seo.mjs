@@ -34,14 +34,138 @@ const DEFAULT_OG = {
 const COLLECTION_ROUTES = new Set([
   '/projects',
   '/news',
-  '/culture',
-  '/projects/zhong-kui'
+  '/culture'
 ])
+
+export const GAME_METADATA = {
+  '/projects/wukong': {
+    name: {
+      '': 'Black Myth: Wukong',
+      '/zh': '黑神话：悟空',
+      '/ja': '黒神話：悟空'
+    },
+    alternateNames: [
+      'Black Myth: Wukong',
+      '黑神话：悟空',
+      '黒神話：悟空',
+      'Heishenhua: Wukong'
+    ],
+    developer: 'Game Science',
+    developerZh: '游戏科学',
+    publisher: 'Game Science',
+    genre: ['Action RPG', 'Soulslike', 'Dark Fantasy'],
+    genreZh: ['动作角色扮演', '类魂', '暗黑奇幻'],
+    genreJa: ['アクションRPG', 'ソウルライク', 'ダークファンタジー'],
+    gamePlatform: ['PC', 'PlayStation 5', 'Xbox Series X/S'],
+    operatingSystem: ['Windows 10/11']
+  },
+  '/projects/zhong-kui': {
+    name: {
+      '': 'Black Myth: Zhong Kui',
+      '/zh': '黑神话：钟馗',
+      '/ja': '黒神話：鍾馗'
+    },
+    alternateNames: [
+      'Black Myth: Zhong Kui',
+      '黑神话：钟馗',
+      '黒神話：鍾馗',
+      'Zhong Kui'
+    ],
+    developer: 'Game Science',
+    developerZh: '游戏科学',
+    publisher: 'Game Science',
+    genre: ['Action RPG', 'Dark Fantasy', 'Chinese Mythology'],
+    genreZh: ['动作角色扮演', '暗黑奇幻', '中式神话'],
+    genreJa: ['アクションRPG', 'ダークファンタジー', '中国神話'],
+    gamePlatform: ['PC', 'PlayStation 5'],
+    operatingSystem: ['Windows']
+  },
+  '/projects/phantom-blade': {
+    name: {
+      '': 'Phantom Blade Zero',
+      '/zh': '影之刃零',
+      '/ja': 'ファントムブレイド ゼロ'
+    },
+    alternateNames: [
+      'Phantom Blade Zero',
+      '影之刃零',
+      'ファントムブレイド ゼロ',
+      'Phantom Blade 0'
+    ],
+    developer: 'S-GAME',
+    developerZh: '灵游坊',
+    publisher: 'S-GAME',
+    genre: ['Action RPG', 'Kungfupunk', 'Wuxia'],
+    genreZh: ['动作角色扮演', '功夫朋克', '武侠'],
+    genreJa: ['アクションRPG', 'カンフーパンク', '武侠'],
+    gamePlatform: ['PC', 'PlayStation 5', 'PlayStation 5 Pro'],
+    operatingSystem: ['Windows 10/11']
+  },
+  '/projects/wuchang': {
+    name: {
+      '': 'WUCHANG: Fallen Feathers',
+      '/zh': '明末：渊虚之羽',
+      '/ja': '明末：ウツロノハネ（淵虚の羽）'
+    },
+    alternateNames: [
+      'WUCHANG: Fallen Feathers',
+      '明末：渊虚之羽',
+      '明末：ウツロノハネ',
+      'Wuchang'
+    ],
+    developer: 'Leenzee Games',
+    developerZh: '灵泽科技',
+    publisher: '505 Games',
+    genre: ['Action RPG', 'Soulslike', 'Dark Fantasy'],
+    genreZh: ['动作角色扮演', '类魂', '暗黑奇幻'],
+    genreJa: ['アクションRPG', 'ソウルライク', 'ダークファンタジー'],
+    gamePlatform: ['PC', 'PlayStation 5', 'Xbox Series X/S'],
+    operatingSystem: ['Windows 10/11']
+  },
+  '/projects/yanyun': {
+    name: {
+      '': 'Where Winds Meet',
+      '/zh': '燕云十六声',
+      '/ja': '風燕伝（燕雲十六声）'
+    },
+    alternateNames: [
+      'Where Winds Meet',
+      '燕云十六声',
+      '風燕伝',
+      'Yanyun Shiliu Sheng'
+    ],
+    developer: 'Everstone Studio',
+    developerZh: 'Everstone 工作室',
+    publisher: 'NetEase Games',
+    genre: ['Open World', 'Action RPG', 'Wuxia'],
+    genreZh: ['开放世界', '动作角色扮演', '武侠'],
+    genreJa: ['オープンワールド', 'アクションRPG', '武侠'],
+    gamePlatform: ['PC', 'PlayStation 5', 'Xbox Series X/S', 'iOS', 'Android'],
+    operatingSystem: ['Windows 10/11', 'iOS', 'Android']
+  },
+  '/projects/tides-of-annihilation': {
+    name: {
+      '': 'Tides of Annihilation',
+      '/zh': '湮灭之潮',
+      '/ja': 'Tides of Annihilation'
+    },
+    alternateNames: ['Tides of Annihilation', '湮灭之潮'],
+    developer: 'Eclipse Glow Games',
+    developerZh: '日蚀微光',
+    publisher: 'Eclipse Glow Games',
+    genre: ['Action RPG', 'Dark Fantasy', 'Arthurian Legend'],
+    genreZh: ['动作角色扮演', '暗黑奇幻', '亚瑟王传奇'],
+    genreJa: ['アクションRPG', 'ダークファンタジー', 'アーサー王伝説'],
+    gamePlatform: ['PC', 'PlayStation 5', 'PlayStation 5 Pro', 'Xbox Series X/S'],
+    operatingSystem: ['Windows']
+  }
+}
 
 const SCHEMA_TYPES = {
   home: 'WebSite',
   collection: 'CollectionPage',
   tool: 'WebPage',
+  game: 'ItemPage',
   article: 'Article'
 }
 
@@ -111,6 +235,7 @@ function pageKind(route) {
   const normalized = normalizeRoute(base)
   if (normalized === '/') return 'home'
   if (normalized === '/glossary' || normalized === '/quiz') return 'tool'
+  if (GAME_METADATA[normalized]) return 'game'
   if (COLLECTION_ROUTES.has(normalized)) return 'collection'
   return 'article'
 }
@@ -192,6 +317,12 @@ const NEWS_LABELS = {
   '/ja': 'ニュース'
 }
 
+const PROJECTS_LABELS = {
+  '': 'Projects',
+  '/zh': '游戏项目',
+  '/ja': 'プロジェクト'
+}
+
 /**
  * Adds hreflang alternates, canonical URL, social metadata and JSON-LD.
  * URLs themselves are untouched.
@@ -248,6 +379,51 @@ export function createSeoTransform(pageIndex) {
       }
     ])
     head.push(['link', { rel: 'canonical', href: url }])
+
+    // Localized RSS feed
+    const rssTitle =
+      prefix === '/zh'
+        ? 'China AAA Games 资讯 RSS 订阅'
+        : prefix === '/ja'
+          ? 'China AAA Games ニュース RSS フィード'
+          : 'China AAA Games RSS Feed'
+    const rssHref =
+      prefix === '/zh'
+        ? `${SITE_URL}/zh/feed.xml`
+        : prefix === '/ja'
+          ? `${SITE_URL}/ja/feed.xml`
+          : `${SITE_URL}/feed.xml`
+
+    head.push([
+      'link',
+      {
+        rel: 'alternate',
+        type: 'application/rss+xml',
+        title: rssTitle,
+        href: rssHref
+      }
+    ])
+
+    if (isHome && prefix === '') {
+      head.push([
+        'link',
+        {
+          rel: 'alternate',
+          type: 'application/rss+xml',
+          title: 'China AAA Games 资讯 RSS 订阅 (中文)',
+          href: `${SITE_URL}/zh/feed.xml`
+        }
+      ])
+      head.push([
+        'link',
+        {
+          rel: 'alternate',
+          type: 'application/rss+xml',
+          title: 'China AAA Games ニュース RSS フィード (日本語)',
+          href: `${SITE_URL}/ja/feed.xml`
+        }
+      ])
+    }
 
     const pageKeywords = pageData.frontmatter?.keywords
     if (Array.isArray(pageKeywords) && pageKeywords.length > 0) {
@@ -322,14 +498,59 @@ export function createSeoTransform(pageIndex) {
 
     const node = {
       '@context': 'https://schema.org',
-      '@type': SCHEMA_TYPES[kind],
+      '@type': SCHEMA_TYPES[kind] || 'WebPage',
       url,
       description: pageDescription,
       image: [image.url],
       inLanguage: currentLocale.code
     }
 
-    if (kind === 'article') {
+    const graph = [node]
+
+    if (kind === 'game') {
+      const normalizedBase = normalizeRoute(base)
+      const gameMeta = GAME_METADATA[normalizedBase]
+      node.name = pageTitle
+      if (gameMeta) {
+        node.mainEntity = { '@id': `${url}#game` }
+
+        const localizedGameName =
+          gameMeta.name[prefix] || gameMeta.name['']
+        const localizedDeveloper =
+          prefix === '/zh' ? gameMeta.developerZh : gameMeta.developer
+        const localizedGenre =
+          prefix === '/zh'
+            ? gameMeta.genreZh
+            : prefix === '/ja'
+              ? gameMeta.genreJa
+              : gameMeta.genre
+
+        const gameEntity = {
+          '@context': 'https://schema.org',
+          '@type': 'VideoGame',
+          '@id': `${url}#game`,
+          name: localizedGameName,
+          alternateName: gameMeta.alternateNames,
+          description: pageDescription,
+          url,
+          image: image.url,
+          genre: localizedGenre,
+          gamePlatform: gameMeta.gamePlatform,
+          operatingSystem: gameMeta.operatingSystem,
+          applicationCategory: 'Game',
+          author: {
+            '@type': 'Organization',
+            name: localizedDeveloper
+          },
+          publisher: {
+            '@type': 'Organization',
+            name: gameMeta.publisher
+          },
+          inLanguage: currentLocale.code
+        }
+        graph.push(gameEntity)
+      }
+    } else if (kind === 'article') {
       node.headline = pageTitle
       node.mainEntityOfPage = { '@type': 'WebPage', '@id': url }
       node.author = {
@@ -375,7 +596,6 @@ export function createSeoTransform(pageIndex) {
       }
     }
 
-    const graph = [node]
     if (!isHome) {
       const breadcrumbs = [
         {
@@ -385,6 +605,7 @@ export function createSeoTransform(pageIndex) {
           item: `${SITE_URL}${prefix || ''}/`
         }
       ]
+      const normalizedBase = normalizeRoute(base)
       if (kind === 'article' && base.startsWith('/news/')) {
         breadcrumbs.push({
           '@type': 'ListItem',
@@ -392,6 +613,30 @@ export function createSeoTransform(pageIndex) {
           name: NEWS_LABELS[prefix] || 'News',
           item: `${SITE_URL}${prefix || ''}/news/`
         })
+      } else if (
+        (kind === 'game' || base.startsWith('/projects/')) &&
+        normalizedBase !== '/projects'
+      ) {
+        breadcrumbs.push({
+          '@type': 'ListItem',
+          position: 2,
+          name: PROJECTS_LABELS[prefix] || 'Projects',
+          item: `${SITE_URL}${prefix || ''}/projects`
+        })
+        if (
+          base.startsWith('/projects/zhong-kui/') &&
+          normalizedBase !== '/projects/zhong-kui'
+        ) {
+          const zkName =
+            GAME_METADATA['/projects/zhong-kui']?.name[prefix] ||
+            'Black Myth: Zhong Kui'
+          breadcrumbs.push({
+            '@type': 'ListItem',
+            position: 3,
+            name: zkName,
+            item: `${SITE_URL}${prefix || ''}/projects/zhong-kui`
+          })
+        }
       }
       breadcrumbs.push({
         '@type': 'ListItem',
